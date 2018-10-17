@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Miranda Moen: Diversity, Ableism and Technology in Music"
+title:  "Miranda Moen: Diversity, Ableism and Technology in Music (30.10.18)"
 date:   2018-10-17 08:36:00 +0200
 image: /assets/img/mirandamoen.jpg
 categories: talks
