@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Committee
-permalink: /committee/
+title: Who we are
+permalink: /who-we-are/
 ---
 
 Chair: Anna Xambó
@@ -22,7 +22,7 @@ Executive: Hanne Formo
 
 Designer: [Robin Mientjes](http://rbmntjs.nl/)
 
-## Consultant
+## Consultants
 
 Sigurd Saue
 
