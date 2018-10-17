@@ -8,7 +8,7 @@ Chair: [Anna Xambó](https://www.ntnu.edu/employees/anna.xambo.sedo)
 
 Co-Chair: Karolina Jawad
 
-Organization: []Øystein Marker](https://www.ntnu.no/ansatte/oystein.marker)
+Organization: [Øystein Marker](https://www.ntnu.no/ansatte/oystein.marker)
 
 Audiovisual Media: [Thomas Henriksen](https://www.ntnu.no/ansatte/thomas.henriksen)
 
