@@ -34,6 +34,8 @@ Designer: [Robin Mientjes](http://rbmntjs.nl/) (KOSO)
 
 [Oeyvind Brandtsegg](https://www.ntnu.edu/employees/tone.ase) (NTNU, MCT)
 
+[Kristian Nymoen](https://www.hf.uio.no/ritmo/personer/fast/krisny/) (UiO)
+
 [Bernt Isak Wærstad](https://www.linkedin.com/in/berntisak/?originalSubdomain=no) (NMH)
 
 [Jørgen Langdalen](https://www.ntnu.no/ansatte/jorgen.langdalen) (NTNU)
