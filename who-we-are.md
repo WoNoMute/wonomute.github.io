@@ -30,9 +30,13 @@ Designer: [Robin Mientjes](http://rbmntjs.nl/) (KOSO)
 
 [Gyrid Nordal Kaldestad](https://www.linkedin.com/in/gyrid-nordal-kaldestad-7a26b329/?originalSubdomain=no) (PNEK, Notam)
 
+[Tone Åse](https://www.ntnu.edu/employees/tone.ase) (NTNU)
+
+[Oeyvind Brandtsegg](https://www.ntnu.edu/employees/tone.ase) (NTNU, MCT)
+
 [Bernt Isak Wærstad](https://www.linkedin.com/in/berntisak/?originalSubdomain=no) (NMH)
 
-[Jørgen Langdalen](https://www.ntnu.no/ansatte/jorgen.langdalen) (NTNU, MCT)
+[Jørgen Langdalen](https://www.ntnu.no/ansatte/jorgen.langdalen) (NTNU)
 
 ## Supporters
 
