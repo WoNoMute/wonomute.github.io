@@ -12,7 +12,7 @@ Organization: [Øystein Marker](https://www.ntnu.no/ansatte/oystein.marker) (NTN
 
 Audiovisual Media: [Thomas Henriksen](https://www.ntnu.no/ansatte/thomas.henriksen) (NTNU)
 
-Music Technology Study Program: [Andreas Bergsland](https://www.ntnu.no/ansatte/andreas.bergsland) (NTNU)
+Music Technology Study Program: [Andreas Bergsland](https://www.ntnu.no/ansatte/andreas.bergsland) (NTNU, MCT)
 
 Executive Administration Manager: [Dagny Margrete Causse](https://www.ntnu.no/ansatte/dagny.causse) (NTNU)
 
