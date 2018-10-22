@@ -6,7 +6,7 @@ permalink: /who-we-are/
 
 Chair: [Anna Xambó](https://www.ntnu.edu/employees/anna.xambo.sedo) (NTNU, MCT)
 
-Co-Chair: Karolina Jawad (NTNU, MCT)
+Co-Chair: [Karolina Jawad](https://cv2c.noblogs.org/) (NTNU, MCT)
 
 Organization: [Øystein Marker](https://www.ntnu.no/ansatte/oystein.marker) (NTNU)
 
