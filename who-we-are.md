@@ -8,6 +8,8 @@ Chair: [Anna Xambó](https://www.ntnu.edu/employees/anna.xambo.sedo) (NTNU, MCT)
 
 Co-Chair: [Karolina Jawad](https://cv2c.noblogs.org/) (NTNU, MCT)
 
+Research Assistant: [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT)
+
 Organization: [Øystein Marker](https://www.ntnu.no/ansatte/oystein.marker) (NTNU)
 
 Audiovisual Media: [Thomas Henriksen](https://www.ntnu.no/ansatte/thomas.henriksen) (NTNU)
@@ -20,7 +22,9 @@ Executive: [Rakel Skaar Kristensen](https://www.ntnu.no/ansatte/rakel.s.kristens
 
 Executive: [Hanne Formo](https://www.ntnu.no/ansatte/hanne.formo) (NTNU)
 
-Designer: [Robin Mientjes](http://rbmntjs.nl/) (KOSO)
+Designer & Identity: [Robin Mientjes](http://rbmntjs.nl/) (KOSO)
+
+Music: [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT)
 
 ## Consultants
 
@@ -44,9 +48,11 @@ Designer: [Robin Mientjes](http://rbmntjs.nl/) (KOSO)
 
 [Department of Music - Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/music)
 
+[University of Oslo (UiO)](https://www.uio.no/english/)
+
 ## Collaborators
 
-[University of Oslo (UiO)](https://www.uio.no/english/)
+[Music, Communication and Technology (UiO-NTNU)](https://www.uio.no/english/studies/programmes/mct-master/)
 
 [PNEK](http://www.pnek.org/)
 
