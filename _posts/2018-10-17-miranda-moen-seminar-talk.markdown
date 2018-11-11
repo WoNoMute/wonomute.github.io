@@ -4,8 +4,10 @@ title:  "Miranda Moen: Diversity, Ableism and Technology in Music (30.10.18)"
 date:   2018-10-17 08:36:00 +0200
 image: /assets/img/mirandamoen.jpg
 categories: talks
-excerpt: Why are we in need of diversity in the arts sector, and what forms of diversity are we referring to? How do music spaces like festivals function as inclusionary spaces, for minority groups such as people with disabilities? In my master’s project, I am investigating how diversity and inclusion was implemented as cultural policy during the Norwegian Stoltenberg government period (2005-2013), leading to debates in present time concerning diversity in the cultural sector.
+excerpt: <strong>Tuesday 30 October 2018 // 15:00-16:00 // Fjordgata 1, 7010 Trondheim </strong><br/>Why are we in need of diversity in the arts sector, and what forms of diversity are we referring to? How do music spaces like festivals function as inclusionary spaces, for minority groups such as people with disabilities? In my master’s project, I am investigating how diversity and inclusion was implemented as cultural policy during the Norwegian Stoltenberg government period (2005-2013), leading to debates in present time concerning diversity in the cultural sector. <a href="/talks/2018/10/17/miranda-moen-seminar-talk">»Read more</a>.
 ---
+
+**Tuesday 30 October 2018** // **15:00-16:00** // **Fjordgata 1, 7010 Trondheim**
 
 {% include image.html
 max-width="750px" file="/assets/img/mirandamoen.jpg" alt="Miranda Moen. Photo by Helge Brekke."
@@ -43,7 +45,7 @@ Moser, Ingunn. 2006. Disability and the promises of technology: Technology, subj
 
 ### Bio
 
-Miranda Moen is a master student of Equality and Diversity at the NTNU institute of interdisciplinary culture studies. Her thesis studies newer discourses of inclusion and diversity in the arts sector, and how the understanding of disability in the Norwegian society coincide with these discourses. Starting her music business career 2011 in Berlin, her professional interests soon developed into equality activism in music. From 2015-2018 she was a project manager at Ladyfest Oslo and is now a board member in the Balansekunst association, works at AKKS Trondheim and with the KOSO collective. Moen is educated in aesthetics (UiB) and arts management (Oslomet).
+**Miranda Moen** is a master student of Equality and Diversity at the NTNU institute of interdisciplinary culture studies. Her thesis studies newer discourses of inclusion and diversity in the arts sector, and how the understanding of disability in the Norwegian society coincide with these discourses. Starting her music business career 2011 in Berlin, her professional interests soon developed into equality activism in music. From 2015-2018 she was a project manager at Ladyfest Oslo and is now a board member in the Balansekunst association, works at AKKS Trondheim and with the KOSO collective. Moen is educated in aesthetics (UiB) and arts management (Oslomet).
 
 ### Live Stream Recording of the Event
 
