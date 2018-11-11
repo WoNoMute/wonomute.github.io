@@ -14,6 +14,8 @@ Organization: [Øystein Marker](https://www.ntnu.no/ansatte/oystein.marker) (NTN
 
 Audiovisual Media: [Thomas Henriksen](https://www.ntnu.no/ansatte/thomas.henriksen) (NTNU)
 
+Video Streaming Team: Eigil Aandahl (NTNU, MCT), Sepehr Haghighi (NTNU, MCT), Jørgen Varpe (NTNU, MCT)
+
 Music Technology Study Program: [Andreas Bergsland](https://www.ntnu.no/ansatte/andreas.bergsland) (NTNU, MCT)
 
 Executive Administration Manager: [Dagny Margrete Causse](https://www.ntnu.no/ansatte/dagny.causse) (NTNU)
@@ -25,6 +27,8 @@ Executive: [Hanne Formo](https://www.ntnu.no/ansatte/hanne.formo) (NTNU)
 Designer & Identity: [Robin Mientjes](http://rbmntjs.nl/) (KOSO)
 
 Music: [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT)
+
+Communication: [Andrea Hegdahl Tiltnes](https://www.ntnu.no/ansatte/andrea.tiltnes) (NTNU)
 
 ## Consultants
 
