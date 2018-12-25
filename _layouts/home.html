@@ -2,19 +2,81 @@
 layout: default
 ---
 <div class="home">
-  {%- if page.title -%}
+  <!-- {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+  {{ content }} -->
+
+{%- if site.interviews.size > 0 -%}
+<h1>Interviews</h1>
+  <ul class="post-list">
+    {%- for post in site.interviews  -%}
+    <li>
+      <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <span class="post-meta">• <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">0 comments</a></span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      <h4>Interview by {{ post.author }}</h4>
+      <p class="excerpt-text">
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+      <strong><a href="{{ post.url | relative_url }}">
+        »Read more
+      </a></strong>
+    </p>
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
+
+  {%- if site.seminars.size > 0 -%}
+    {%- if site.seminars.category == "forthcoming" -%}
+  <h1>Seminars</h1>
+    <ul class="post-list">
+      {%- for post in site.seminars -%}
+      {% if post.category == "forthcoming" %}
+      <li>
+      <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span class="post-meta">• <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">0 comments</a></span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        <p class="excerpt-text">
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+        <strong><a href="{{ post.url | relative_url }}">
+          »Read more
+        </a></strong>
+      </p>
+      </li>
+      {% endif %}
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  {%- endif -%}
 
   {%- if site.posts.size > 0 -%}
+  <h1>Blog</h1>
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
+        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span class="post-meta">• <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">0 comments</a></span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -25,7 +87,6 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </p>
-        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
       </li>
       {%- endfor -%}
     </ul>

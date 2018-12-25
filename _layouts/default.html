@@ -14,6 +14,11 @@
     </main>
 
     {%- include footer.html -%}
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
+    <script id="dsq-count-scr" src="//wonomute.disqus.com/count.js" async></script>
 
   </body>
 

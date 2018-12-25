@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Who we are
-permalink: /who-we-are/
+title: Committee
+category: about
+permalink: /about/committee/
+exclude_from_nav: true
+order: 1
 ---
 
 Chair: [Anna Xambó](https://www.ntnu.edu/employees/anna.xambo.sedo) (NTNU, MCT)
@@ -9,6 +12,8 @@ Chair: [Anna Xambó](https://www.ntnu.edu/employees/anna.xambo.sedo) (NTNU, MCT)
 Co-Chair: [Karolina Jawad](https://cv2c.noblogs.org/) (NTNU, MCT)
 
 Research Assistant: [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT)
+
+Collaborator: [Ada Mathea Hoel](NTNU)
 
 Organization: [Øystein Marker](https://www.ntnu.no/ansatte/oystein.marker) (NTNU)
 
@@ -20,9 +25,7 @@ Music Technology Study Program: [Andreas Bergsland](https://www.ntnu.no/ansatte/
 
 Executive Administration Manager: [Dagny Margrete Causse](https://www.ntnu.no/ansatte/dagny.causse) (NTNU)
 
-Executive: [Rakel Skaar Kristensen](https://www.ntnu.no/ansatte/rakel.s.kristensen) (NTNU)
-
-Executive: [Hanne Formo](https://www.ntnu.no/ansatte/hanne.formo) (NTNU)
+Executive: [Inna Aalmo](NTNU), [Rakel Skaar Kristensen](https://www.ntnu.no/ansatte/rakel.s.kristensen) (NTNU), [Hanne Formo](https://www.ntnu.no/ansatte/hanne.formo) (NTNU)
 
 Designer & Identity: [Robin Mientjes](http://rbmntjs.nl/) (KOSO)
 

@@ -12,3 +12,7 @@ layout: default
   </div>
 
 </article>
+
+{% if site.disqus.wonomute %}
+  {% include comments.html %}
+{% endif %}

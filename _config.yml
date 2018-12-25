@@ -16,11 +16,19 @@
 title: WoNoMute
 #email: hello@wonomute.no
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the website and blog of the organization Women Nordic Music Technology (WoNoMute) at the Norwegian University of Science and Technology (NTNU).
+  This is the website and blog of the organization Women Nordic Music Technology (WoNoMute) at the Norwegian University of Science and Technology (NTNU) in partnership with University of Oslo (UiO).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://wonomute.no" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: 'UA-131407525-1'
 #twitter_username: jekyllrb
 #github_username:  jekyll
+#youtube_username: <a href="https://www.youtube.com/channel/UCpQAKbKQkieNgblhtV1Z8MA">WoNoMute</a>
+#facebook_username: https://www.facebook.com/groups/1402815416521036
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: my_disqus_wonomute
 
 # Build settings
 markdown: kramdown
@@ -28,6 +36,13 @@ theme: minima
 plugins:
   - jekyll-feed
 show_excerpts: true
+collections:
+  seminars:
+    output: true
+  interviews:
+    output: true
+  # - seminars
+  # - directory
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

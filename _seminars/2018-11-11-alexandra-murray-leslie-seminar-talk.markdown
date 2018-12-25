@@ -2,9 +2,10 @@
 layout: post
 title:  "Alexandra Murray-Leslie: The Liberation of the Feet: Costuming the Foot for Theatrical Audiovisual Expression As a ‘Gesamtkunstwerk’ (26.11.18)"
 date:   2018-11-11 18:00:00 +0200
-image: /assets/img/alexmurrayleslie.jpg
-categories: talks
-excerpt: <strong>Monday 26 November 2018 // 15:00-16:00 // Fjordgata 1, 7010 Trondheim </strong><br/><strong>Keynote Performance</strong><br />Building upon my established history as a performance artist and pop musician, this keynote performance investigates new ways of costuming the foot for theatrical audiovisual expression as a ‘gesamtkunstwerk’—an all-embracing artwork that adopts and makes use of many artforms and disciplines. Through the development of a series of Computer Enhanced Footwear (CEF) prototypes, this keynote demonstrates how this gesamtkunstwerk came together through the intersection of fashionable costume design, pop music, dance choreography, lens-based work, scenography, kinesiology, sound and lighting system design and 3D fabrication practices. <a href="/talks/2018/11/11/alexandra-murray-leslie-seminar-talk">»Read more</a>.
+image: /assets/seminars/alexmurrayleslie.jpg
+category: past
+excerpt: <strong>Monday 26 November 2018 // 15:00-16:00 // Fjordgata 1, 7010 Trondheim </strong><br/><strong>Keynote Performance</strong><br />Building upon my established history as a performance artist and pop musician, this keynote performance investigates new ways of costuming the foot for theatrical audiovisual expression as a ‘gesamtkunstwerk’—an all-embracing artwork that adopts and makes use of many artforms and disciplines. Through the development of a series of Computer Enhanced Footwear (CEF) prototypes, this keynote demonstrates how this gesamtkunstwerk came together through the intersection of fashionable costume design, pop music, dance choreography, lens-based work, scenography, kinesiology, sound and lighting system design and 3D fabrication practices.
+comments: true
 ---
 
 **Monday 26 November 2018** // **15:00-16:00** // **Fjordgata 1, 7010 Trondheim**
@@ -12,7 +13,7 @@ excerpt: <strong>Monday 26 November 2018 // 15:00-16:00 // Fjordgata 1, 7010 Tro
 **Keynote Performance**
 
 {% include image.html
-max-width="750px" file="/assets/img/alexmurrayleslie.jpg" alt="Alexandra Murray-Leslie."
+max-width="750px" file="/assets/seminars/alexmurrayleslie.jpg" alt="Alexandra Murray-Leslie."
 caption="Alexandra Murray-Leslie." %}
 
 

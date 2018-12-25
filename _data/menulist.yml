@@ -1,0 +1,23 @@
+toc:
+  - title: Seminars
+    url: /seminars
+    subfolderitems:
+      - page: Calendar
+        url: /seminars/calendar/
+      - page: Forthcoming
+        url: /seminars/forthcoming/
+      - page: Past
+        url: /seminars/past/
+  - title: Interviews
+    url: /interviews/
+  - title: Blog
+    url: /blog/
+  - title: Directory
+    url: /directory/
+  - title: About
+    url: /about/
+    subfolderitems:
+      - page: Committee
+        url: /about/committee/
+      - page: Charter
+        url: /about/charter/
