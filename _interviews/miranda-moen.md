@@ -9,7 +9,9 @@ excerpt: <strong>Miranda Moen</strong> is a master student of Equality and Diver
 comments: true
 ---
 
+<div class="videoWrapper">
 <iframe width="750" height="422" src="https://www.youtube.com/embed/xdMMQiUG7mU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## What is your background?
 
