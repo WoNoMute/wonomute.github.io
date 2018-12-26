@@ -24,8 +24,8 @@ When I was a student, I used my spare time volunteering in the student radio sta
 I think someone who is always been there as a role model is the artist [Björk]( https://bjork.com). My mother is a big fan of hers as well, so I was listening to her music from an early age. Björk is important to me both as an innovative, experimental pop artist and producer, a political-environmental activist, and in that she uses her voice and power to stand up for other women. And I soon got to realize when I started to work within the music industry in Berlin, that it basically involves some powerful women with radiant strength. Their strength was empowering and inspiring to me as well.
 
 {% include image.html
-max-width="750px" file="/assets/interviews/miranda-moen-talk.jpg" alt="Miranda Moen during her talk in the WoNoMute Seminar Series."
-caption="Miranda Moen during her talk in the WoNoMute Seminar Series." %}
+max-width="100%" file="/assets/interviews/miranda-moen-talk.jpg" alt="Miranda Moen during her talk in the WoNoMute Seminar Series. Photo by Anna Xambó."
+caption="Miranda Moen during her talk in the WoNoMute Seminar Series. Photo by Anna Xambó." %}
 
 ## Could you introduce more closely your piece of work/research?
 
@@ -45,8 +45,8 @@ I definitely hope that I will be able to do more similar research later. There i
 My thesis is also very useful and important for my other work, as I am an activist and work with equality and diversity in the arts in Norway. For example, in [AKKS](http://akks.no/), [KOSO](http://www.koso.no/) and [Balansekunst](http://balansekunstprosjektet.no/).
 
 {% include image.html
-max-width="750px" file="/assets/interviews/miranda-moen-interview.jpg" alt="From left to right: Miranda Moen and Karolina Jawad during the interview."
-caption="From left to right: Miranda Moen and Karolina Jawad during the interview." %}
+max-width="100%" file="/assets/interviews/miranda-moen-interview.jpg" alt="From left to right: Miranda Moen and Karolina Jawad during the interview. Photo by Anna Xambó."
+caption="From left to right: Miranda Moen and Karolina Jawad during the interview. Photo by Anna Xambó." %}
 
 ## What advice would you give to women interested in pursuing a career in music technology?
 

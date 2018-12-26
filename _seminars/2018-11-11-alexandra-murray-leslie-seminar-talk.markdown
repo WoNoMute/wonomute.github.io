@@ -13,7 +13,7 @@ comments: true
 **Keynote Performance**
 
 {% include image.html
-max-width="750px" file="/assets/seminars/alexmurrayleslie.jpg" alt="Alexandra Murray-Leslie."
+max-width="100%" file="/assets/seminars/alexmurrayleslie.jpg" alt="Alexandra Murray-Leslie."
 caption="Alexandra Murray-Leslie." %}
 
 

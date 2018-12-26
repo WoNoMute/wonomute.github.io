@@ -26,7 +26,10 @@ a {
 }
 
 .brand-image {
-  max-width:270px
+  max-width:270px;
+  float: left;
+  display: block;
+  position: absolute;
 }
 
 a.post-link {
@@ -36,6 +39,13 @@ a.post-link {
 
 // nav code inspired from:
 // https://css-tricks.com/solved-with-css-dropdown-menus/
+
+// .site-nav{
+//   display:block;
+//   float:right;
+//   position:absolute;
+//   margin-top:50px;
+// }
 
 nav li {
  display: block;
@@ -61,6 +71,7 @@ nav ul li ul:hover {
   visibility: visible;
   opacity: 1;
   display: block;
+  background: #ccc;
 }
 
 nav ul li ul li {
@@ -132,5 +143,5 @@ nav ul li ul li {
 
 #posters img {
   float:left;
-  padding: 0 3% 1% 0; 
+  padding: 0 3% 1% 0;
 }

@@ -11,7 +11,7 @@ comments: true
 **Tuesday 30 October 2018** // **15:00-16:00** // **Fjordgata 1, 7010 Trondheim**
 
 {% include image.html
-max-width="750px" file="/assets/seminars/mirandamoen.jpg" alt="Miranda Moen. Photo by Helge Brekke."
+max-width="100%" file="/assets/seminars/mirandamoen.jpg" alt="Miranda Moen. Photo by Helge Brekke."
 caption="Miranda Moen. Photo by Helge Brekke." %}
 
 ### Abstract

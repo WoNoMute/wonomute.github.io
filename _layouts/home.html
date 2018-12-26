@@ -22,7 +22,7 @@ layout: default
           {{ post.title | escape }}
         </a>
       </h3>
-      <h4>Interview by {{ post.author }}</h4>
+      <h4><em>Interview by {{ post.author }}</em></h4>
       <p class="excerpt-text">
       {%- if site.show_excerpts -%}
         {{ post.excerpt }}
