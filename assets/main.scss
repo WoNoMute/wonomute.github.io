@@ -25,16 +25,31 @@ a {
   display:none
 }
 
-.brand-image {
-  max-width:270px;
-  float: left;
-  display: block;
-  position: absolute;
-}
-
 a.post-link {
   color: #000000;
   text-decoration: none;
+}
+
+.site-header .wrapper{
+  width:100%;
+  height:150px;
+  top:0;
+  left:0;
+  text-align: left;
+  //z-index:100;
+  //border:solid;
+}
+
+// .brand-image {
+//   max-width:270px;
+//   display: block;
+// }
+
+.brand-image {
+  float: left;
+  width: 270px;
+  height: 58px;
+  display: block;
 }
 
 // nav code inspired from:
@@ -47,9 +62,17 @@ a.post-link {
 //   margin-top:50px;
 // }
 
+.site-header .site-nav{
+    float: right;
+    padding: 20px;
+    position: relative;
+    text-align:right;
+}
+
 nav li {
  display: block;
  transition-duration: 0.5s;
+ border: 2px white solid;
 }
 
 nav li:hover {
@@ -72,6 +95,8 @@ nav ul li ul:hover {
   opacity: 1;
   display: block;
   background: #ccc;
+  z-index: 100;
+  padding: 0 20px 0 0;
 }
 
 nav ul li ul li {
