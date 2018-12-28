@@ -4,7 +4,7 @@ title: Directory
 permalink: /directory-of-wonomute/
 ---
 
-In the spirit of other similar directories of women in music tech, such as the [directory of WiMIR](https://wimir.wordpress.com/directory-of-wimir) and the [directory of WiNIME](https://annaxambo.me/directory-of-winime/), the aim of this directory is to showcase and make visible the work of the members of the **Women Nordic Music Technology** organization:
+In the spirit of other similar directories of women in music tech, such as the [directory of WiMIR](https://wimir.wordpress.com/directory-of-wimir) and the [directory of WiNIME](https://annaxambo.me/directory-of-winime/), the aim of this directory is to showcase and make visible the work of the women members of the **Women Nordic Music Technology** organization:
 
 <br />
 
