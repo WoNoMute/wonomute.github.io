@@ -15,9 +15,11 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
+      {% if page.comments == true %}
       • <span>
         <a href="{{ page.url }}#disqus_thread" data-disqus-identifier="{{page.id}}">"{{ page.url | relative_url }}"</a>
     </span>
+    {%- endif -%}
     </p>
   </header>
 

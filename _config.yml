@@ -41,8 +41,8 @@ collections:
     output: true
   interviews:
     output: true
-  # - seminars
-  # - directory
+  directory:
+    output: true    
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

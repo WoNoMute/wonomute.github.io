@@ -161,6 +161,20 @@ nav ul li ul li {
   padding: 0 3% 1% 0;
 }
 
+.directory img {
+  width: 20%;
+}
+
+.directory-post img {
+  float:left;
+  padding: 0 3% 1% 0;
+  width: 40%;
+}
+
+.directory li {
+  clear:both;
+}
+
 .post-list h3 {
   margin-top: 0;
   padding-top: 0
