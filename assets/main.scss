@@ -6,16 +6,51 @@
 /**
  * Links
  */
-a {
-  color: #666;
+.post-content a,
+.excerpt-text a {
+ color: #333;
+ text-decoration-line: underline;
+ text-decoration-style: dotted;
+  }
+.post-content a:visited,
+.excerpt-text a:visited {
+   color: #333;
+ }
+.post-content a:hover,
+.excerpt-text a:hover {
+   color: #000;
+   text-decoration-line: underline;
+   text-decoration-style: dotted;
+ }
+
+a, a.post-link {
+  color: #333;
   text-decoration: none;
    }
-  a:visited {
-    color: #000; }
-  a:hover {
+  a:visited,
+  a.post-link:visited  {
+    color: #333;
+  }
+  a:hover,
+  a.post-link:hover {
     color: #000;
     text-decoration: underline;
   }
+
+  a.post-link {
+    color: #000;
+    text-decoration: none;
+     }
+
+    a.post-link:visited  {
+      color: #000;
+    }
+
+    a.post-link:hover {
+      color: #000;
+      text-decoration: underline;
+    }
+
   .social-media-list a:hover {
     text-decoration: none; }
     .social-media-list a:hover .username {
@@ -25,10 +60,11 @@ a {
   display:none
 }
 
-a.post-link {
-  color: #000000;
-  text-decoration: none;
-}
+// a.post-link {
+//   color: #000000;
+//   text-decoration: none;
+// }
+
 
 .site-header .wrapper{
   width:100%;
@@ -72,7 +108,7 @@ a.post-link {
 nav li {
  display: block;
  transition-duration: 0.5s;
- border: 2px white solid;
+ //border: 2px white solid;
 }
 
 nav li:hover {
@@ -102,6 +138,7 @@ nav ul li ul:hover {
 nav ul li ul li {
   clear: both;
   width: 100%;
+  border: 2px white solid;
 }
 
 nav ul {
