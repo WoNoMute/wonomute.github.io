@@ -37,11 +37,11 @@ layout: default
 {%- endif -%}
 
   {%- if site.seminars.size > 0 -%}
-    {%- if site.seminars.category == "forthcoming" -%}
+    {%- if site.seminars.category == forthcoming -%}
   <h1>Seminars</h1>
     <ul class="post-list">
       {%- for post in site.seminars -%}
-      {% if post.category == "forthcoming" %}
+      <!-- {% if post.category == "forthcoming" %} -->
       <li>
       <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -65,7 +65,7 @@ layout: default
       {%- endfor -%}
     </ul>
   {%- endif -%}
-  {%- endif -%}
+  <!-- {%- endif -%} -->
 
   {%- if site.posts.size > 0 -%}
   <h1>Blog</h1>
