@@ -12,8 +12,8 @@ comments: true
 max-width="100%" file="/assets/blog/fediverse_ecosystem_120119_1920.jpg" alt="The Fediverse Ecosystem. Retrieved from Fediverse.Party"
 caption="How a Fediverse Ecosystem could lool like, picture retrieved from the website 'Fediverse.Party" %}
 
-The notion of a global online community is resonating again. In a state in which societies are determined in almost every aspects by technological conditions often through mainstream tech platforms that provide cost free services, this notion got somewhat forgotten.
-It is getting even more difficult to imagine if not practice different ways of associating and connecting outside Facebook. It occupied this idea of a 'Global Community' long time and is still not tired of claiming the illusion to connect people while it mainly “exploit[s] a vulnerability in human psychology” by creating a “social-validation feedback loop” as the platforms former Ex-President Sean Parker said. 
+The notion of a global online community is resonating again. In a state in which societies are determined in several aspects by technological conditions, mainstream tech platforms that provide cost free services, this notion got somewhat forgotten.
+It got difficult for many people these days to imagine if not practice different ways of associating and connecting outside Facebook & Co. It occupied this idea of a 'Global Community' long time and is still not tired of claiming the illusion to connect people while it mainly “exploit[s] a vulnerability in human psychology” by creating a “social-validation feedback loop” as the platforms former Ex-President Sean Parker said. 
 
 
 
@@ -24,8 +24,8 @@ The alternative lies in the first place how we relate with other computers on th
 In the meantime, the 'Fediverse Ecosystem' evolved.
 
 
-## Decentral and open web? Peer to peer, Mastodon and the Fediverse
-The Fediverse ecosystem is not a website to sign up to. Instead you will find hundreds of independent open source websites and servers powered by citizens all around the world that are in fedaration with each other without being owned by any single company. Each of them is an installation of software which supports one of the federated open web protocols like ActivityPub, Ostatus or XXMP. No matter where you register you’ll be able to connect and associate with friends and users of other servers from the Fediverse in a free, decentralised manner.
+## Decentral and open web? Mastodon and the Fediverse
+mThe Fediverse ecosystem is not a website to sign up to. Instead you will find hundreds of independent open source websites and servers powered by citizens all around the world that are in fedaration with each other without being owned by any single company. "(M)aximizing interoperability between nine different systems, possibly more Each of them is an installation of software which supports one of the federated open web protocols like ActivityPub, Ostatus or XXMP. No matter where you register you’ll be able to connect and associate with friends and users of other servers from the Fediverse in a free, decentralised manner.
 As decentralization is way harder to imagine because the nodes and dots creating this web are differing from one to another it might be the best to imagine writing an email from different services. They also rely on the same type of p2p (peer to peer) protocol even though the email adresses have different domain names.
 
 The most popular website from the Fediverse is called 'Mastodon'. Eugen Rochko started to develop Mastodon, named after an old mammal from the ice age that 'browses' for its diet, it can run on different nodes/servers/instances. The so called 'toots', 500 character messages remind a bit on Twitter and it's tweets. Indeed, Rochko mentioned he sought to build something like similar to Twitter, but with better features. The people, servers or instances you follow appear in your multi-columned timeline, even though they are from different websites. Everything related to Mostodon can be found on GitHub.
