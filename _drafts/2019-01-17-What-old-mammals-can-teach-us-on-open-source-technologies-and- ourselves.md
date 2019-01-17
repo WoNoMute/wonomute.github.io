@@ -34,4 +34,4 @@ The most popular website from the Fediverse is called <a href="https://joinmasto
 After all, we should be aware that "leaving mainstream networks behind and joining Fediverse you do not automatically gain privacy (...) (It) will, however, protect from corporate mass surveillance" (Fediverse Party). It gives everyone an opportunity to, in part, diversify their online social universe, and prevent money from being the sole deciding factor in who gets to see, hear, or say anything on the internet (Tremaine Friske). 
 
 
-Long story short, <a href="https://mastodon.technology/@wonomute">watch us</a> or meet you <a href="https://fediverse.party/"there</a>.
+Long story short, <a href="https://mastodon.technology/@wonomute">watch us</a> or meet you <a href="https://fediverse.party/">there</a>.
