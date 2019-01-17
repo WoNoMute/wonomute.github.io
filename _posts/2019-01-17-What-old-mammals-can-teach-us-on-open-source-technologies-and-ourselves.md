@@ -1,7 +1,7 @@
 ---
 title: What old mammals can teach us on open source technologies and ourselves
 layout: post
-author: Karolina Jawad
+author: Karolina 
 date:   2019-01-17 06:00:00 +0200
 image: /assets/blog/fediverse_ecosystem_120119_1920.jpg
 categories: post
