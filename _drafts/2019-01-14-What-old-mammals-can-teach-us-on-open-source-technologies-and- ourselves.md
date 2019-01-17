@@ -1,11 +1,11 @@
 ---
 title: What old mammals can teach us on open source technologies and ourselves
 layout: post
-author: Karolina
+author: Karolina Jawad
 date:   2019-01-14 15:00:00 +0200
 image: /assets/blog/fediverse_ecosystem_120119_1920.jpg
 categories: post
-excerpt: The notion of a global online community is resonating again. Mainstream tech platforms that provide cost free services occupied this notion to the extend that it got almost forgotten. In the meantime the 'Fediverse Ecosystem' evolved.. And it is worth inspecting it, let's see why. 
+excerpt: The notion of a global online community is resonating again. Mainstream tech platforms that provide cost free services occupied this notion to the extend that it got almost forgotten. In the meantime the 'Fediverse Ecosystem' evolved.. And it is worth inspecting it, let's see why.
 comments: true
 ---
 {% include image.html
@@ -31,7 +31,7 @@ caption="Centralized versus decentralized communication networks. Retrieved from
 The most popular website from the Fediverse is called <a href="https://joinmastodon.org/">'Mastodon'</a>. <a href="https://medium.com/we-distribute/one-mammoth-of-a-job-an-interview-with-eugen-rochko-of-mastodon-23b159d6796a">Eugen Rochko</a> started to develop Mastodon, named after an mammal from the ice age that 'browses' for its diet, it can run on different nodes/servers/instances. The so called 'toots', 500 character messages remind a bit on Twitter and it's tweets. Indeed, Rochko <a href="https://mashable.com/2017/04/06/eugen-rochko-mastodon-interview/#jbiBYQuGbkq0">mentioned</a> he sought to build something like similar to Twitter, but with better features. The people, servers or instances you follow appear in your multi-columned timeline, even though they are from different websites. Everything related to Mostodon can be found on GitHub.
 
 
-After all, we should be aware that "leaving mainstream networks behind and joining Fediverse you do not automatically gain privacy (...) (It) will, however, protect from corporate mass surveillance" (Fediverse Party). It gives everyone an opportunity to, in part, diversify their online social universe, and prevent money from being the sole deciding factor in who gets to see, hear, or say anything on the internet (Tremaine Friske). 
+After all, we should be aware that "leaving mainstream networks behind and joining Fediverse you do not automatically gain privacy (...) (It) will, however, protect from corporate mass surveillance" (Fediverse Party). It gives everyone an opportunity to, in part, diversify their online social universe, and prevent money from being the sole deciding factor in who gets to see, hear, or say anything on the internet (Tremaine Friske).
 
 
 Long story short, watch us or <a href="https://mastodon.technology/@wonomute">meet you there</a>.
