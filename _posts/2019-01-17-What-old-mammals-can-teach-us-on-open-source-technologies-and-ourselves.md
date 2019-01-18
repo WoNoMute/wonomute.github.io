@@ -40,4 +40,6 @@ After all, we should be aware that "leaving mainstream networks behind and joini
 Long story short, <a href="https://mastodon.technology/@wonomute">watch us</a> or meet you <a href="https://fediverse.party/">there</a>.
 
 
+
+
 Karolina is Co-Chair of WoNoMute and currently on the MCT Master program. She is an open source and privacy advocate, is interested in music-space related art forms, live cinema and HCI.
