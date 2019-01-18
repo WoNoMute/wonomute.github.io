@@ -27,7 +27,7 @@ The Fediverse ecosystem is not a website to sign up to. Instead you will find <a
 
 
 {% include image.html
-max-width="70%" file="/assets/blog/centralized_vs_decentralized.jpg" alt="Centralized versus decentralized communication networks."
+max-width="100%" file="/assets/blog/cvsd.jpg" alt="Centralized versus decentralized communication networks."
 caption="Centralized versus decentralized communication networks. Retrieved from 'Boooks and Media, The evolution of the internet'." %}
 
 
