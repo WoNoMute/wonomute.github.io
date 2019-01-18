@@ -10,7 +10,7 @@ comments: true
 ---
 {% include image.html
 max-width="100%" file="/assets/blog/fediverse_ecosystem_120119_1920.jpg" alt="The Fediverse Ecosystem. Retrieved from Fediverse.Party"
-caption="How a Fediverse Ecosystem could lool like, picture retrieved from the website 'Fediverse.Party" %}
+caption="How a Fediverse Ecosystem could lool like, picture retrieved from the website 'Fediverse.Party'" %}
 
 
 The notion of a global online community is resonating again. Mainstream tech platforms that provide cost free services occupied this notion to the extend, that it almost got forgotten. In the meantime the <a href="https://fediverse.party/">'Fediverse Ecosystem'</a> is getting more attention - it is worth inspecting it, let's see why.
@@ -27,7 +27,7 @@ The Fediverse ecosystem is not a website to sign up to. Instead you will find <a
 
 
 {% include image.html
-max-width="100%" file="/assets/blog/centralized_vs_decentralized.jpg" alt="Centralized versus decentralized communication networks."
+max-width="70%" file="/assets/blog/centralized_vs_decentralized.jpg" alt="Centralized versus decentralized communication networks."
 caption="Centralized versus decentralized communication networks. Retrieved from 'Boooks and Media, The evolution of the internet'." %}
 
 
@@ -38,3 +38,6 @@ After all, we should be aware that "leaving mainstream networks behind and joini
 
 
 Long story short, <a href="https://mastodon.technology/@wonomute">watch us</a> or meet you <a href="https://fediverse.party/">there</a>.
+
+
+Karolina is Co-Chair of WoNoMute and currently on the MCT Master program. She is an open source and privacy advocate, is interested in music-space related art forms, live cinema and HCI.
