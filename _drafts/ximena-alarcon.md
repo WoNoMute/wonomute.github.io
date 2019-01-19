@@ -1,8 +1,8 @@
 ---
-title: Kristin Norderval 
+title: Ximena Alarcon   
 layout: post
-permalink: /directory-of-wonomute/kristin-norderval/
-image: /assets/directory/kristin-norderval-cropped.jpg
+permalink: /directory-of-wonomute/ximena-alarcon/
+image: /assets/directory/ximena-alarcon-cropped.jpg
 excerpt: <strong>Kristin Norderval</strong> is a composer, singer and improviser who has specialized in developing new works for voice and interactive technology. Her first full-length opera - The Trials of Patricia Isasa on a libretto by Naomi Wallace - was scored for six soloists, tango orchestra and electronics. It premiered at the Monument National Theater in Montreal in May, 2016, in a Chants Libres production with Norderval singing one of the lead roles. 
 comments: false
 ---
