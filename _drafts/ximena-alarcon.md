@@ -1,5 +1,5 @@
 ---
-title: Ximena Alarcón 
+title: Ximena Alarcon 
 layout: post
 permalink: /directory-of-wonomute/ximena-alarcon/
 image: /assets/directory/ximena-alarcon-cropped.jpg
