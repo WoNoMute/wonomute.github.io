@@ -3,7 +3,7 @@ title: Ximena Alarcón
 layout: post
 permalink: /directory-of-wonomute/ximena-alarcon/
 image: /assets/directory/ximena-alarcon-cropped.jpg
-excerpt: <strong>Ximena Alarcón</strong> is a sound artist researcher interested in listening to interstices such as dreams, underground public transport, and the migratory context. Her research focuses on the creation of sonic telematic performances using Deep Listening , telematic improvisation, and interfaces for relational listening.
+excerpt: <strong>Ximena Alarcón</strong> is a sound artist researcher interested in listening to interstices:\ dreams, underground public transport, and the migratory context. Her research focuses on the creation of sonic telematic performances using Deep Listening , telematic improvisation, and interfaces for relational listening.
 comments: false
 ---
 
