@@ -7,10 +7,7 @@ excerpt: <strong>Kristin Norderval</strong> is a composer, singer and improviser
 comments: false
 ---
 
-<div class="directory-post">
-{% include image.html
-max-width="100%" file="/assets/directory/kristin-norderval.jpg" alt="Photo of Kristin Norderval." %}
-</div>
+{% include image.html max-width="100%" file="/assets/directory/kristin-norderval.jpg" alt="Photo of Kristin Norderval." %}
 
 ## Bio
 
