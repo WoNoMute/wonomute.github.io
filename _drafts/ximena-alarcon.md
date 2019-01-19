@@ -3,21 +3,15 @@ title: Ximena Alarcon
 layout: post
 permalink: /directory-of-wonomute/ximena-alarcon/
 image: /assets/directory/ximena-alarcon-cropped.jpg
-excerpt: <strong>Kristin Norderval</strong> is a composer, singer and improviser who has specialized in developing new works for voice and interactive technology. Her first full-length opera - The Trials of Patricia Isasa on a libretto by Naomi Wallace - was scored for six soloists, tango orchestra and electronics. It premiered at the Monument National Theater in Montreal in May, 2016, in a Chants Libres production with Norderval singing one of the lead roles. 
-comments: false
+excerpt: <strong>Ximena Alarcón</strong>
 ---
 
 {% include image.html max-width="100%" file="/assets/directory/kristin-norderval.jpg" alt="Photo of Kristin Norderval." %}
 
 ## Bio
 
-Kristin Norderval is a composer, singer and improviser who has specialized in developing new works for voice and interactive technology. Her first full-length opera - The Trials of Patricia Isasa on a libretto by Naomi Wallace - was scored for six soloists, tango orchestra and electronics. It premiered at the Monument National Theater in Montreal in May, 2016, in a Chants Libres production with Norderval singing one of the lead roles. The Trials of Patricia Isasa was awarded Quebec´s OPUS prize in two categories: Best production and Best contemporary music in 2016. Norderval’s credits as a soprano soloist include performances with the Oslo Sinfonietta, the Philip Glass Ensemble, Netherlands Dance Theater, and the San Francisco Symphony. Her compositions are featured on BIS, Deep Listening, Koch International, Everglade Records, and Losen Records. Her solo CD – Aural Histories (post-ambient arias for voice and electronics) – was listed by The New Yorker’s classical music critic Alex Ross as one of “Ten Notable Classical Music Recordings of 2012”. 
+Ximena Alarcón is a sound artist researcher interested in listening to interstices: dreams, underground public transport, and the migratory context. Her research focuses on the creation of sonic telematic performances using Deep Listening , telematic improvisation, and interfaces for relational listening. In 2007, she received a PhD in Music, Technology and Innovation from DMU, and in 2012, a Deep Listening Tutor Certificate from the Deep Listening Institute. She has been awarded with postdoctoral fellowships such as the Leverhulme Trust Early Career Fellowship 2007-2009 (IOCT- DMU) which led her to develop Sounding Underground; and a CRiSAP-UAL fellowship 2011-2017, where she developed Networked Migrations telematic performances exploring the in-between sonic space in the context of migration. She is now a Marie Skłodowska Curie Fellow 2017-2019 at RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion, Department of Musicology, at the University of Oslo, developing her project INTIMAL: a novel physical-virtual "embodied system" for relational listening, integrating: body, memory, migration and telematics.
 
+  
 
-## Links
-
-<nordervalk@mac.com>
-
-[http://kristinnorderval.org](http://kristinnorderval.org)
-
-[https://nmbx.newmusicusa.org/kristin-norderval-permanent-and-impermanent-sonic-moments/](https://nmbx.newmusicusa.org/kristin-norderval-permanent-and-impermanent-sonic-moments/)
+http://ximenaalarcon.net
