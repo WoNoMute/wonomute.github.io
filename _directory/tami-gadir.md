@@ -7,7 +7,10 @@ excerpt: <strong>Tami Gadir</strong> is a researcher and lecturer in music indus
 comments: false
 ---
 
+<div class="directory-post">
 {% include image.html max-width="100%" file="/assets/directory/tami-gadir.jpg" alt="Photo of Tami Gadir." %}
+</div>
+
 
 ## Bio
 
