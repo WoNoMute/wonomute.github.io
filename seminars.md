@@ -10,14 +10,18 @@ The forthcoming talks can be checked in the sections of [calendar](/seminars/cal
 
 <div id="posters">
 
-<!--a href="/seminars/2018-10-17-miranda-moen-seminar-talk/" style="background:solid"></a-->
 {% include image.html
-max-width="45%" file="/assets/posters/Miranda-Moen-2018-10-30-WoNoMute.jpg" alt="Poster of Miranda Moen's talk."
+max-width="45%" file="/assets/posters/Tone-Aase-2019-01-21-WoNoMute.jpg" alt="Poster of Tone Aase's talk." url="/seminars/2019-01-10-tone-aase-seminar-talk/"
 %}
 
-<!--a href="/seminars/2018-11-11-alexandra-murray-leslie-seminar-talk/"></a-->
 {% include image.html
-max-width="45%" file="/assets/posters/Alexandra-Murray-Leslie-2018-11-26.jpg" alt="Poster of Alexandra Murray-Leslie's talk."
+max-width="45%" file="/assets/posters/Alexandra-Murray-Leslie-2018-11-26-WoNoMute.jpg" alt="Poster of Alexandra Murray-Leslie's talk."
+url="/seminars/2018-11-11-alexandra-murray-leslie-seminar-talk/"
+%}
+
+{% include image.html
+max-width="45%" file="/assets/posters/Miranda-Moen-2018-10-30-WoNoMute.jpg" alt="Poster of Miranda Moen's talk."
+url="/seminars/2018-10-17-miranda-moen-seminar-talk/"
 %}
 
 </div>

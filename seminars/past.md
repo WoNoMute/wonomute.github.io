@@ -7,7 +7,7 @@ permalink: /seminars/past/
 <div class="post-content-blog">
 
 <ul class="post-list">
-  {%- for post in site.seminars -%}
+  {%- for post in site.seminars reversed -%}
   {% if post.category == "past" %}
   <li>
   <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">

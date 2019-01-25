@@ -3,8 +3,8 @@ layout: post
 title:  "Tone Åse: Voice, Electronics and Improvisation: Artistic Material and Musical Roles (21.1.19)"
 date:   2019-01-10 08:00:00 +0200
 image: /assets/seminars/tone-aase.jpg
-category: forthcoming
-excerpt: "<strong>Monday 21 January 2019 // 15:00-16:00 // Fjordgata 1, 7010 Trondheim // Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo</strong><br/>In this talk, Åse will demonstrate and discuss how the use of live electronics has expanded the artistic material and methods for her as a vocalist in her different formats; solo, duo, instrumental ensemble and vocal ensemble. She will also discuss some experienced challenges and limitations in the field of live electronics and improvisation."
+category: past
+excerpt: "<strong>Monday 21 January 2019 // 15:00-16:00 // Fjordgata 1, 7010 Trondheim // Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo</strong><br/>In this talk, Åse will demonstrate and discuss how the use of live electronics has expanded the artistic material and methods for her as a vocalist in her different formats; solo, duo, instrumental ensemble and vocal ensemble. She will also discuss some experienced challenges and limitations in the field of live electronics and improvisation. <br /><br />"
 comments: true
 ---
 
