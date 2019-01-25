@@ -8,7 +8,7 @@ excerpt: "<strong>Monday 4 February 2019 // 15:00-16:00 // Fjordgata 1, 2nd floo
 comments: true
 ---
 
-**Monday 21 January 2019** // **15:00-16:00** // **Fjordgata 1, 7010 Trondheim** // **Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo**
+**Monday 4 February 2019** // **15:00-16:00** // **2nd Floor (The Portal), Fjordgata 1, 7010 Trondheim** // **The Portal, Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo**
 
 {% include image.html
 max-width="100%" file="/assets/seminars/tami-gadir.jpg" alt="Tami Gadir"
