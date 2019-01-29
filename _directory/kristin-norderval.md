@@ -16,7 +16,6 @@ Kristin Norderval is a composer, singer and improviser who has specialized in de
 
 ## Links
 
-<nordervalk@mac.com>
 
 [http://kristinnorderval.org](http://kristinnorderval.org)
 
