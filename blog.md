@@ -17,6 +17,7 @@ permalink: /blog/
         {{ post.title | escape }}
       </a>
     </h3>
+    <h4><em>Article by {{ post.author }}</em></h4>
     <p class="excerpt-text">
     {%- if site.show_excerpts -%}
       {{ post.excerpt }}
