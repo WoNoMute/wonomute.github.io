@@ -9,6 +9,7 @@ excerpt: In November 2018 seven female music technology performers from differen
 to give a concert and a panel debate at the Sonic Arts Research Centre in Belfast, where we would be staying for one week. 
 The networks represented were: WoNoMute (Norway), Female Laptop Orchestra (UK), Sonora (Brazil) and Yorkshire Sound Women Network (UK).  
 comments: true
+
 ---
 
 {% include image.html
