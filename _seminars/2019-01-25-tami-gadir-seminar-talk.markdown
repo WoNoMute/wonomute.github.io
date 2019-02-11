@@ -3,7 +3,7 @@ layout: post
 title:  "Tami Gadir: The Music Technological Body (4.2.19)"
 date:   2019-01-25 08:00:00 +0200
 image: /assets/seminars/tami-gadir.jpg
-category: forthcoming
+category: past
 excerpt: "<strong>Monday 4 February 2019 // 15:00-16:00 // Fjordgata 1, 2nd floor, 7010 Trondheim // Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo</strong><br/>This presentation takes the overarching theme of the seminar series—Women in Music Technology—as a point of departure for conceptual forays into music, technology, and human and non-human material bodies. Beginning with the basic question of how it is that we might understand such concepts—music, technologies, bodies—it will pose several provocations based on empirical and theoretical work on mainly (though not exclusively) Western/European/Anglo-American contemporary musical cultures, with a focus on music technology and gender."
 comments: true
 ---

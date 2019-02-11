@@ -9,29 +9,26 @@ order: 1
 
 Chair: [Anna Xambó](https://www.ntnu.edu/employees/anna.xambo.sedo) (NTNU, MCT)
 
-Co-Chair: [Karolina Jawad](https://cv2c.noblogs.org/) (NTNU, MCT)
+Co-Chair, Ambassador in Trondheim & Responsible of the WoNoMute blog: [Karolina Jawad](https://cv2c.noblogs.org/) (NTNU, MCT)
 
-Research Assistant: [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT)
+Research Assistant, Ambassador in Oslo & Responsible of the WoNoMute directory: [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT)
 
-Collaborator: [Ada Mathea Hoel](NTNU)
+Collaborators: [Ada Mathea Hoel](NTNU)
 
-Organization: [Øystein Marker](https://www.ntnu.no/ansatte/oystein.marker) (NTNU)
+Executives: [Inna Aalmo](https://www.ntnu.edu/employees/inna.aalmo) (NTNU), [Øystein Marker](https://www.ntnu.no/ansatte/oystein.marker) (NTNU)
 
-Audiovisual Media: [Thomas Henriksen](https://www.ntnu.no/ansatte/thomas.henriksen) (NTNU)
+Audiovisual Media Responsibles: [Robin Støckert](https://www.ntnu.edu/employees/robin.stockert) (NTNU), [Thomas Henriksen](https://www.ntnu.no/ansatte/thomas.henriksen) (NTNU)
 
-Video Streaming Team: Eigil Aandahl (NTNU, MCT), Sepehr Haghighi (NTNU, MCT), Jørgen Varpe (NTNU, MCT)
+Video Streaming Team: Eigil Aandahl (NTNU, MCT), Sepehr Haghighi (NTNU, MCT), Jørgen Varpe (NTNU, MCT), Shreejay Shrestha (NTNU, MCT)
 
 Music Technology Study Program: [Andreas Bergsland](https://www.ntnu.no/ansatte/andreas.bergsland) (NTNU, MCT)
 
 Executive Administration Manager: [Dagny Margrete Causse](https://www.ntnu.no/ansatte/dagny.causse) (NTNU)
 
-Executive: [Inna Aalmo](NTNU), [Rakel Skaar Kristensen](https://www.ntnu.no/ansatte/rakel.s.kristensen) (NTNU), [Hanne Formo](https://www.ntnu.no/ansatte/hanne.formo) (NTNU)
-
 Designer & Identity: [Robin Mientjes](http://rbmntjs.nl/) (KOSO)
 
 Music: [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT)
 
-Communication: [Andrea Hegdahl Tiltnes](https://www.ntnu.no/ansatte/andrea.tiltnes) (NTNU)
 
 ## Consultants
 
@@ -50,6 +47,13 @@ Communication: [Andrea Hegdahl Tiltnes](https://www.ntnu.no/ansatte/andrea.tiltn
 [Bernt Isak Wærstad](https://www.linkedin.com/in/berntisak/?originalSubdomain=no) (NMH)
 
 [Jørgen Langdalen](https://www.ntnu.no/ansatte/jorgen.langdalen) (NTNU)
+
+[Hanne Formo](https://www.ntnu.no/ansatte/hanne.formo) (NTNU)
+
+[Rakel Skaar Kristensen](https://www.ntnu.no/ansatte/rakel.s.kristensen) (NTNU)
+
+[Andrea Hegdahl Tiltnes](https://www.ntnu.no/ansatte/andrea.tiltnes) (NTNU)
+
 
 ## Supporters
 
