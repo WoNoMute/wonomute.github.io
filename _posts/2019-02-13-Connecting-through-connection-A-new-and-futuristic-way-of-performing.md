@@ -27,7 +27,7 @@ I’m a Master student at the [Music Technology program](https://www.ntnu.edu/st
 
 
 {% include image.html
-max-width="70%" file="/assets/blog/Women-in-music-technology-around-the-world-Panel-SARC-2018.jpg" alt="Women in music technology around the world"
+max-width="85%" file="/assets/blog/Women-in-music-technology-around-the-world-Panel-SARC-2018.jpg" alt="Women in music technology around the world"
 caption="Figure 2. Discussing important topics in the panel debate “Women in Music Technology Around the World”." %}
 
 
@@ -37,7 +37,7 @@ We all had different skill sets to utilize in the performance, and ended up play
 
 
 {% include image.html
-max-width="70%" file="/assets/blog/Introduction-Female-Laptop-Orchestra+WiMT-Sonic-Arts-Research-Centre-Belfast-2018.jpg" alt="Multi-channel concert at the Sonic Lab in three parts"
+max-width="85%" file="/assets/blog/Introduction-Female-Laptop-Orchestra+WiMT-Sonic-Arts-Research-Centre-Belfast-2018.jpg" alt="Multi-channel concert at the Sonic Lab in three parts"
 caption="Figure 3. Multi-channel concert at the Sonic Lab in three parts." %}
 
 
