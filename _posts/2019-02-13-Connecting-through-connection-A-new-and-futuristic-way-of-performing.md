@@ -6,15 +6,15 @@ author: Ada Mathea Hoel
 date:   2019-02-13 17:30:00 +0100
 image: /assets/blog/Photos-Female-Laptop-Orchestra+WiMT-Sonic-Arts-Research-Centre-Belfast-2018.jpg
 categories: post
-excerpt: "In November 2018 seven female music technology performers from different parts of the world got together 
-to give a concert and a panel debate at the Sonic Arts Research Centre in Belfast, where we would be staying for one week. 
-The networks represented were: WoNoMute (Norway), Female Laptop Orchestra (UK), Sonora (Brazil) and Yorkshire Sound Women Network (UK)." 
+excerpt: "In November 2018 seven female music technology performers from different parts of the world got together
+to give a concert and a panel debate at the Sonic Arts Research Centre in Belfast, where we would be staying for one week.
+The networks represented were: WoNoMute (Norway), Female Laptop Orchestra (UK), Sonora (Brazil) and Yorkshire Sound Women Network (UK)."
 comments: true
 
 ---
 
 {% include image.html
-max-width="100%" file="/assets/blog/Photos-Female-Laptop-Orchestra+WiMT-Sonic-Arts-Research-Centre-Belfast-2018.jpg" 
+max-width="100%" file="/assets/blog/Photos-Female-Laptop-Orchestra+WiMT-Sonic-Arts-Research-Centre-Belfast-2018.jpg"
 alt="Female Laptop Orchestra" caption="Figure 1. From left to right and top to bottom: Liz Dobson, Léa Ikkache (remote), Nela Brown, Magdalena Chudy, Ariane Stolfi (remote), Franziska Schroeder, Tuna Pase, Anna Xambó and Ada Matheal Hoel." %}
 
 In November 2018 seven female music technology performers from different parts of the world got together to give a concert and a panel debate at the Sonic Arts Research Centre in Belfast, where we would be staying for one week. The networks represented were: [WoNoMute](http://wonomute.no/) (Norway), [Female Laptop Orchestra](https://femalelaptoporchestra.wordpress.com/) (UK), [Sonora](http://www.sonora.me/) (Brazil) and [Yorkshire Sound Women Network](https://yorkshiresoundwomen.com/) (UK).
@@ -46,7 +46,7 @@ It felt good to work in a large group without being the only female, but of cour
 
 ## Links
 
-* [Panel: Women in Music Technology around the World](https://www.facebook.com/qubmusicteam/videos/726209934444608/) with Nela Brown (FLO), Magdalena Chudy (FLO), Liz Dobson (YSWN), Ada Mathea Hoel (WoNoMute), Léa Ikkache (WiMT), Tuna Pase (FLO), Franziska Schroeder (FLO), Ariane Stolfi, (Sonora) Sonia Wilkie (FLO) and <strong>Anna Xambó</strong> (WoNoMute, WiMT). November 21, 2018. Sonic Arts Research Center, Queen's University Belfast. Belfast, Northern Ireland.
+* [Panel: Women in Music Technology around the World](https://www.facebook.com/qubmusicteam/videos/726209934444608/) with Nela Brown (FLO), Magdalena Chudy (FLO), Liz Dobson (YSWN), Ada Mathea Hoel (WoNoMute), Léa Ikkache (WiMT), Tuna Pase (FLO), Franziska Schroeder (FLO), Ariane Stolfi, (Sonora) Sonia Wilkie (FLO) and Anna Xambó (WoNoMute, WiMT). November 21, 2018. Sonic Arts Research Center, Queen's University Belfast. Belfast, Northern Ireland.
 * ["Transmusicking II"](https://www.facebook.com/qubmusicteam/videos/1161348217356186/) with Nela Brown, Magdalena Chudy, Liz Dobson, Ada Hoel, Léa Ikkache, Tuna Pase, Franziska Schroeder, Ariane Stolfi, Sonia Wilkie, Anna Xambó. November 22, 2018. Sonic Arts Research Center, Queen's University Belfast. Belfast, Northern Ireland.
 
 
