@@ -54,6 +54,6 @@ It felt good to work in a large group without being the only female, but of cour
 
 This residency was supported by SARC and WoNoMute. I’d like to give special thanks to Franziska Schroeder and Zeynep Bulut for making this possible. Also, thank you so much to the co-located performers Nela Brown, Magdalena Chudy, Liz Dobson, Tuna Pase, Franziska Schroeder and Anna Xambó, and the remote performers Léa Ikkache, Ariane Stolfi and Sonia Wilkie. Last but not least, thanks to Craig Jackson, David Bird, Matilde Meireles and David Mahaffy for their technical and logistic support.
 
-# About the author
+## About the author
 
 <a href="https://http://www.adahoel.com/">Ada Mathea Hoel</a> is a Norwegian noise performer and producer. She’s currently an MA student in the Music Technology program at NTNU, Trondheim, where she’s researching cross-adaptive processing as a production and composition tool.
