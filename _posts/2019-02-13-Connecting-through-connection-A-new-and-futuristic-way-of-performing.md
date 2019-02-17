@@ -56,4 +56,4 @@ This residency was supported by SARC and WoNoMute. I’d like to give special th
 
 ## About the author
 
-<a href="https://http://www.adahoel.com/">Ada Mathea Hoel</a> is a Norwegian noise performer and producer. She’s currently an MA student in the Music Technology program at NTNU, Trondheim, where she’s researching cross-adaptive processing as a production and composition tool.
+<a href="http://www.adahoel.com/">Ada Mathea Hoel</a> is a Norwegian noise performer and producer. She’s currently an MA student in the Music Technology program at NTNU, Trondheim, where she’s researching cross-adaptive processing as a production and composition tool.
