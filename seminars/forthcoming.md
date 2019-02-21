@@ -19,6 +19,7 @@ permalink: /seminars/forthcoming/
         {{ post.title | escape }}
       </a>
     </h3>
+    <h4><em>Seminar Series</em></h4>
     <p class="excerpt-text">
     {%- if site.show_excerpts -%}
       {{ post.excerpt }}
