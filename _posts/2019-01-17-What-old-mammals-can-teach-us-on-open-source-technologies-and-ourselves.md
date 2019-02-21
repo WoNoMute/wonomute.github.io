@@ -5,7 +5,7 @@ permalink: /post/2019/01/17/What-old-mammals-can-teach-us-on-open-source-technol
 author: Karolina Jawad
 date:   2019-01-17 06:00:00 +0200
 image: /assets/blog/fediverse_ecosystem_120119_1920.jpg
-categories: article
+categories: post
 excerpt: The notion of a global online community is resonating again. Mainstream tech platforms that provide cost free services occupied this notion to the extend, that it got almost forgotten. In the meantime the 'Fediverse Ecosystem' is getting more attention - it is worth inspecting it, let's see why.
 comments: true
 ---

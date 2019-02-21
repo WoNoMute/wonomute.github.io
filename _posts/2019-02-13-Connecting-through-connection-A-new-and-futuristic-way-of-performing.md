@@ -6,7 +6,7 @@ permalink: /post/2019/02/13/Connecting-through-connection-A-new-and-futuristic-w
 author: Ada Mathea Hoel
 date:   2019-02-13 17:30:00 +0100
 image: /assets/blog/Photos-Female-Laptop-Orchestra+WiMT-Sonic-Arts-Research-Centre-Belfast-2018.jpg
-categories: article
+categories: post
 excerpt: "In November 2018 seven female music technology performers from different parts of the world got together
 to give a concert and a panel debate at the Sonic Arts Research Centre in Belfast, where we would be staying for one week.
 The networks represented were: WoNoMute (Norway), Female Laptop Orchestra (UK), Sonora (Brazil) and Yorkshire Sound Women Network (UK)."

@@ -20,7 +20,7 @@ permalink: /blog/
     {% if post.categories contains 'announcement' %}
     <h4><em>Announcement by {{ post.author }}</em></h4>
     {% endif %}
-    {% if post.categories contains 'article' %}
+    {% if post.categories contains 'post' %}
     <h4><em>Article by {{ post.author }}</em></h4>
     {% endif %}
     <p class="excerpt-text">
