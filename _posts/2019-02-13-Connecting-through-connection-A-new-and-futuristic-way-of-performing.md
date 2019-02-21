@@ -2,6 +2,7 @@
 
 title: "Connecting through connection - A new and futuristic way of performing"
 layout: post
+permalink: /post/2019/02/13/Connecting-through-connection-A-new-and-futuristic-way-of-performing.html
 author: Ada Mathea Hoel
 date:   2019-02-13 17:30:00 +0100
 image: /assets/blog/Photos-Female-Laptop-Orchestra+WiMT-Sonic-Arts-Research-Centre-Belfast-2018.jpg
