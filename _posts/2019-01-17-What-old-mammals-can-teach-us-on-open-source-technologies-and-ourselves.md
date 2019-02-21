@@ -27,7 +27,7 @@ Yes. Innovation and creativity needs diversity and <a href="https://magazine.are
 The Fediverse ecosystem is not a website to sign up to. Instead you will find <a href="https://the-federation.info/">hundreds</a> of independent open source websites and servers powered by citizens all around the world that are in fedaration with each other without being owned by any single company (Fediverse Party/@Lostinlight). Each of them is an installation of software which supports one of the federated open web protocols like ActivityPub, Ostatus or XXMP. No matter where you register you’ll be able to connect and associate with friends and users of other servers from the Fediverse in a free, decentralised manner.
 
 
-{% include image.html
+{% include image.html class="center-image"
 max-width="100%" file="/assets/blog/cvsd.jpg" alt="Centralized versus decentralized communication networks."
 caption="Centralized versus decentralized communication networks. Retrieved from 'Boooks and Media, The evolution of the internet'." %}
 

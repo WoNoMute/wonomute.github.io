@@ -1,7 +1,7 @@
 <figure>
    <a href="{{ include.url }}">
-   <img src="{{ include.file }}" style="max-width: {{ include.max-width }};"
+   <img src="{{ include.file }}" class="{{ include.class }}" style="max-width: {{ include.max-width }};"
       alt="{{ include.alt }}"/>
    </a>
-   <figcaption>{{ include.caption }}</figcaption>
+   <figcaption class="{{ include.class }}" style="max-width: {{ include.max-width }};">{{ include.caption }}</figcaption>
 </figure>
