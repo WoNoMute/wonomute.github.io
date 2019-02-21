@@ -14,7 +14,7 @@ layout: default
 {%- if site.posts.size > 0 -%}
 <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
 <ul class="post-list">
-  {%- for post in site.posts limit:1 -%}
+  {%- for post in site.posts limit:2 -%}
   <li>
     <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -25,7 +25,12 @@ layout: default
         {{ post.title | escape }}
       </a>
     </h3>
+    {% if post.categories contains 'announcement' %}
+    <h4><em>Announcement by {{ post.author }}</em></h4>
+    {% endif %}
+    {% if post.categories contains 'article' %}
     <h4><em>Article by {{ post.author }}</em></h4>
+    {% endif %}
     <p class="excerpt-text">
     {%- if site.show_excerpts -%}
       {{ post.excerpt }}

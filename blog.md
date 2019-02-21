@@ -17,7 +17,12 @@ permalink: /blog/
         {{ post.title | escape }}
       </a>
     </h3>
+    {% if post.categories contains 'announcement' %}
+    <h4><em>Announcement by {{ post.author }}</em></h4>
+    {% endif %}
+    {% if post.categories contains 'article' %}
     <h4><em>Article by {{ post.author }}</em></h4>
+    {% endif %}
     <p class="excerpt-text">
     {%- if site.show_excerpts -%}
       {{ post.excerpt }}
