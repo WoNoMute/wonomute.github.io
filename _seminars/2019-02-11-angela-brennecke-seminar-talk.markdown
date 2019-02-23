@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Angela Brennecke: What’s (in) your Story?  Creative Audio & Interactive Media Technologies for Film & Storytelling (25.2.19)"
+title:  "Angela Brennecke: What’s (in) your Story? Creative Audio & Interactive Media Technologies for Film & Storytelling (25.2.19)"
 date:   2019-02-11 08:00:00 +0200
 image: /assets/seminars/angela-brennecke.jpg
 category: forthcoming
-excerpt: "<strong>Monday 25 February 2019 // 15:00-16:00 // MCT-Portal, 2nd floor, Fjordgata 1, 7010 Trondheim // MCT-Portal (Room 129), Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo</strong><br/>This presentation takes the overarching theme of the seminar series—Women in Music Technology—as a point of departure for conceptual forays into music, technology, and human and non-human material bodies. Beginning with the basic question of how it is that we might understand such concepts—music, technologies, bodies—it will pose several provocations based on empirical and theoretical work on mainly (though not exclusively) Western/European/Anglo-American contemporary musical cultures, with a focus on music technology and gender."
+excerpt: "This seminar will take the audience on a journey into introducing a new technology-based Master’s program called Creative Technologies at the Film University Babelsberg *KONRAD WOLF*, one of Germany’s most well-established and traditional film schools, and getting acquainted with the different perspectives on audio, graphics & interactive media technologies specifically relevant to this context. "
 comments: true
 ---
 
