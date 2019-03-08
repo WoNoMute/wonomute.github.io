@@ -100,7 +100,7 @@ In 2003, Laurie became the first artist in residence at NASA.
 ## Teresa Rampazzi
 
 <div class="light-purple-square-box space-square-box">
-<h3><em>"Just as there are many women who have a demanding profession, the same is true in music […]. Unwittingly I risked compromising my musical interests when I got married. But they were much too important for me"</em></h3>
+<h3><em>"Just as there are many women who have a demanding profession, the same is true in music […]. Unwittingly I risked compromising my musical interests when I got married. But they were much too important for me."</em></h3>
 </div>
 
 [Teresa Rampazzi](http://www.teresarampazzi.it/) (1914–2001) was a composer, pedagogue and pioneer of electroacoustic music in Italy. A former avant-garde pianist, she decided to devote herself to electronic analogue music at the age of 50. She founded the N.P.S. Group (Nuove Proposte Sonore), one of the main Italian Studios. Rampazzi approached Computer Music in the early Seventies and produced her pieces at the CSC (Centro di Sonologia Computazionale).
