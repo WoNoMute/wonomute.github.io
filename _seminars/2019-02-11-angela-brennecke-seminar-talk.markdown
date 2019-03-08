@@ -3,7 +3,7 @@ layout: post
 title:  "Angela Brennecke: What’s (in) your Story? Creative Audio & Interactive Media Technologies for Film & Storytelling (25.2.19)"
 date:   2019-02-11 08:00:00 +0200
 image: /assets/seminars/angela-brennecke.jpg
-category: forthcoming
+category: past
 excerpt: "This seminar will take the audience on a journey into introducing a new technology-based Master’s program called Creative Technologies at the Film University Babelsberg *KONRAD WOLF*, one of Germany’s most well-established and traditional film schools, and getting acquainted with the different perspectives on audio, graphics & interactive media technologies specifically relevant to this context. "
 comments: true
 ---
