@@ -53,7 +53,7 @@ Lady Lovelace is considered an influential figure in computer music. She brought
 Beside 'making science sound' her interactive multimedia opera, A King Listens, premiered at the Cincinnati Contemporary Arts Center and was profiled by apple.com.
 
 
-**Author of the bio**: [Federica Bressan](http://research.federicabressan.com/)
+**Author of the bio**: [Federica Bressan](http://research.federicabressan.com/) and WoNoMute-Team
 
 ---
 
