@@ -18,7 +18,7 @@ max-width="100%" file="/assets/blog/WoNoMuTe-March-8-2019.jpg" alt="9 Women in M
   <p style="padding:2%;" class="light-purple-square-box">Help us spread the word! <a href="/assets/downloads/WoNoMuTe-March-8-2019-A3.jpg">The poster can be downloaded here</a><br />#womeninmusictech #internationalwomensday</p>
 
 In celebration of the International Women's Day we present 9 women in music tech (WoMuTe) figures who are/were technological and musical pioneers.
-The selection of the 9 figures has emerged from the open call for participation [Who is your Woman in Music Tech (WoMuTe) Hero?](/open-call-womute-heroes-8-march-2019/) that was addressed to anyone. The call was announced both in the WoNoMute website and through different social media channels and mailing lists. For each figure, we asked to write a mini-bio of 150 words max. together with a nice citation.
+The selection of the 9 figures has emerged from the open call for participation [Who is your Woman in Music Tech (WoMuTe) Hero?](/open-call-womute-heroes-8-march-2019/) that was addressed to anyone. The call was announced both in the WoNoMute website and through different social media channels and mailing lists. For each figure, we asked to write a mini-bio of 150 words max. together with a nice citation. We are thankful for the fantastic response and contributions of the authors!
 
 The WoMuTe heroes have been illustrated by [Oscar Martinez Castells](http://05hb.blogspot.com/), who has broad experience in illustrating music tech figures, and with whom we have collaborated in the past with [Women in Music Tech](https://womeninmusictech.gatech.edu) at Georgia Tech and the celebrated [Music Tech Figures posters](https://womeninmusictech.gatech.edu/music-tech-figures/).
 
