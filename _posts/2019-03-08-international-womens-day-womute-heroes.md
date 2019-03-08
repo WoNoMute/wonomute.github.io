@@ -47,9 +47,10 @@ Lady Lovelace is considered an influential figure in computer music. She brought
 </em></h3>
 </div>
 
-[Margaret Schedel](http://schedel.net/) is a composer and cellist specializing in the creation and performance of “ferociously interactive media”. While working towards a DMA in music composition at the University of Cincinnati College Conservatory of Music, her interactive multimedia opera, A King Listens, premiered at the Cincinnati Contemporary Arts Center and was profiled by apple.com. She is currently Associate Professor of Music at Stony Brook University, New York.
+[Margaret Schedel](http://schedel.net/) is a composer and cellist specializing in the creation and performance of interactive media, her works have been performed in the United States and abroad. She is currently Associate Professor of Music at Stony Brook University, New York. Her many research interests include gestures in music and the sustainability of technology in the arts. She is also involved in data sonification, particularly in biomedical informatics, where she seeks out physiotherapeutic methods for patients with Parkinson's disease through sonification.
 
-Her research focuses on gesture in music, the sustainability of technology in art, and data sonification. She sits on the boards of 60×60, the International Computer Music Association. From 2009-2014 she helped run Devotion, a Williamsburg Gallery focused on the intersection of art, science, new media, and design. In 2010 she co-chaired the International Computer Music Conference, and in 2011 she co-chaired the Electro-Acoustic Music Studies Network Conference. She ran SUNY’s first Coursera Massive Open Online Course (MOOC), an introduction to computational arts.
+
+Beside 'making science sound' her interactive multimedia opera, A King Listens, premiered at the Cincinnati Contemporary Arts Center and was profiled by apple.com.
 
 
 **Author of the bio**: [Federica Bressan](http://research.federicabressan.com/)
