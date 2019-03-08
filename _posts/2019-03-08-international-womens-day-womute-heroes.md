@@ -82,7 +82,7 @@ In 2003, Laurie became the first artist in residence at NASA.
 
 [Liz Phillips](http://lizphillips.net/) (born 1951 in New Jersey, USA) is a multimedia artist who developed various generative modular synthesizer pieces and other works of 'sound art' & sculptural composition. As a pioneer of creative developments in electronic sound and environmental art over the past 30 years, she is a prime example of a woman who is still working and massively underrepresented in art. Even a brief scan of her work online reveals not only her importance in these areas but also, unfortunately, how obvious it is that there is still a patriarchal bias when it comes to proper recognition and balance in the written academic histories of these areas of the arts.
 
-**Author of the bio**: [Jez Riley](http://jezrileyfrench.co.uk/)
+**Author of the bio**: [Jez Riley French](http://jezrileyfrench.co.uk/)
 
 ---
 
