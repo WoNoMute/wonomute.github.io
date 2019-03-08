@@ -2,7 +2,7 @@
 layout: post
 title: International Women's Day 2019 - 9 Women in Music Tech (WoMuTe) Heroes
 permalink: /2019-03-08-international-womens-day-womute-heroes/
-author: Federica Bressan, Maarten de Boer, Amalia de Götzen, Trond Gjellum, Karolina Jawad, Henriette Jennsen, Mari Lesteberg, Jez Riley, Anna Xambó, and Laura Zattra
+author: Federica Bressan, Maarten de Boer, Amalia de Götzen, Trond Gjellum, Karolina Jawad, Henriette Jennsen, Mari Lesteberg, Jez Riley French, Anna Xambó, and Laura Zattra
 
 date:   2019-03-08 05:00:00 +0100
 image: "/assets/blog/WoNoMuTe-March-8-2019.jpg"
