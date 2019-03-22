@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pamela Z: Voice and Instruments (4.4.19) - A talk organized by MCT in collaboration with WoNoMute"
-permalink: /pamela-z-seminar-talk-mct
+permalink: /seminars/pamela-z-seminar-talk-mct
 date:   2019-03-22 08:00:00 +0200
 image: /assets/seminars/pamela-z.jpg
 category: forthcoming

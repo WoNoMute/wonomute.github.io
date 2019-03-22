@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pamela Z: Works and Processes (8.4.19)"
-permalink: /pamela-z-seminar-talk
+permalink: /seminars/pamela-z-seminar-talk
 date:   2019-03-22 08:10:00 +0200
 image: /assets/seminars/pamela-z.jpg
 category: forthcoming
