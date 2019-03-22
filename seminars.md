@@ -11,7 +11,7 @@ The forthcoming talks can be checked in the sections of [calendar](/seminars/cal
 <div id="posters">
 
 {% include image.html
-max-width="30%" file="/assets/posters/Angela-Brennecke-2019-02-25-WoNoMute.jpg" alt="Poster of Angela Brennecke's talk." url="/2019-02-11-angela-brennecke-seminar-talk.html"
+max-width="30%" file="/assets/posters/Angela-Brennecke-2019-02-25-WoNoMute.jpg" alt="Poster of Angela Brennecke's talk." url="/seminars/2019-02-11-angela-brennecke-seminar-talk.html"
 %}
 
 {% include image.html

@@ -33,3 +33,38 @@ In this talk, Åse will demonstrate and discuss how the use of live electronics 
 ### Bio
 
 Working with electronic voice-sound and acoustic voice sound, **[Tone Åse](http://www.toneaase.no/)** interacts with her fellow musicians both as a singer and as a soundmaker, stretching the instrumental capabilities of the voice and the live electronics in the improvised interplay. Her work is very much developed through her collaborations, with her trio [BOL](http://www.bol.no/), her duo [Voxpheria](http://www.toneaase.no/aasestronenduo/), and a range of other projects. Her experimental work with the vocal ensemble started as a founding member of [Kvitretten](https://no.wikipedia.org/wiki/Kvitretten) (1991-2001) and continued as a member of, and for 2006-2011 artistic leader of, the improvising vocal ensemble [Trondheim Voices](http://www.trondheimvoices.no/). Her work with voice and live electronics has thus been the subject for her [doctoral work](https://www.researchcatalogue.net/profile/show-exposition?exposition=108003) within the Norwegian Artistic Research Programme (2008-2012). Åse has released several CD's with her groups and also composed music for film, theatre, various ensembles and projects. Åse is from 2012 [Associate professor at Department of Music, NTNU](https://www.ntnu.edu/employees/tone.ase).
+
+### Live Stream Recording of the Event
+
+<iframe width="750" height="423" src="https://www.youtube.com/embed/y8PI-E0o6Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+A talk hosted at the Department of Music, Norwegian University of Science and Technology (NTNU) in Trondheim and live streamed through the MCT Portal to the University of Oslo (UiO) and also through YouTube. The audience combines two physical sites (from Oslo and Trondheim) plus online viewers from all over the world.
+
+#### Video Credits
+
+**Speaker**: Tone Åse
+
+**Presenter (Trondheim)**: Anna Xambó
+
+**Presenter (Oslo)**: Mari Lesteberg
+
+**Production (Trondheim)**: Karolina Jawad
+
+**Production (Oslo)**: Mari Lesteberg
+
+**Streaming, Audio, Video (Trondheim)**: Eigil Aandahl, Sepehr Haghighi
+Jørgen Nygård Varpe, Shreejay Shrestha
+
+**Audio, Video (Oslo)**: Espen Wik, Elias Andersen
+
+**Audio processing**: Sepehr Haghighi
+
+**Intro Video**: Karolina Jawad
+
+**Acknowledgments**: Robin Støckert, Daniel Formo, Anders Tveit, Alexander Refsum Jensenius
+
+**Supported by**: Norwegian University of Science and Technology (NTNU), University of Oslo (UiO)
+
+**In collaboration with**: Master in Music, Communication and Technology (MCT)

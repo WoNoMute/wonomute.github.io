@@ -21,3 +21,38 @@ This presentation takes the overarching theme of the seminar series—Women in M
 ### Bio
 
 [Tami Gadir](http://tamigadir.academic.bio/) is commencing a new role as Lecturer in Music Industry at RMIT University in Melbourne Australia. Gadir has completed a postdoctoral research fellowship at the University of Oslo and holds a PhD from the University of Edinburgh supervised by [Simon Frith](https://www.eca.ed.ac.uk/profile/prof-simon-frith). Gadir's research addresses the various mechanisms that promote or hinder participation in musical cultures, through the sounds, technologies, and cultures of contemporary, electronically-produced dance music. Such themes will feature in a forthcoming book with Bloomsbury Academic press, based on eight years of participant observation and interviews with DJs, producers, and clubbers in international electronic dance music communities. The book provides an expressly critical feminist-intersectional, anti-capitalist appraisal of dance music cultures as a counterpoint to the dominant utopian, celebratory interpretations of underground scenes by scholars, media, and fans. Gadir is a co-founding committee member of [GeMus: Gender and Music Network](https://www.gemus.online/) and [an active DJ](https://www.mixcloud.com/tamisounds/).
+
+### Live Stream Recording of the Event
+
+<iframe width="750" height="423" src="https://www.youtube.com/embed/okEgjIjpJkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+A talk hosted at the Department of Music, Norwegian University of Science and Technology (NTNU) in Trondheim and live streamed through the MCT Portal to the University of Oslo (UiO) and also through YouTube. The audience combines two physical sites (from Oslo and Trondheim) plus online viewers from all over the world.
+
+#### Video Credits
+
+**Speaker**: Tami Gadir
+
+**Presenter (Trondheim)**: Anna Xambó
+
+**Presenter (Oslo)**: Mari Lesteberg
+
+**Production (Trondheim)**: Karolina Jawad
+
+**Production (Oslo)**: Mari Lesteberg
+
+**Streaming, Audio, Video (Trondheim)**: Eigil Aandahl, Sepehr Haghighi
+Jørgen Nygård Varpe, Shreejay Shrestha
+
+**Audio, Video (Oslo)**: Espen Wik, Elias Andersen
+
+**Audio processing**: Sepehr Haghighi
+
+**Intro Video**: Karolina Jawad
+
+**Acknowledgments**: Robin Støckert, Daniel Formo, Anders Tveit, Alexander Refsum Jensenius
+
+**Supported by**: Norwegian University of Science and Technology (NTNU), University of Oslo (UiO)
+
+**In collaboration with**: Master in Music, Communication and Technology (MCT)

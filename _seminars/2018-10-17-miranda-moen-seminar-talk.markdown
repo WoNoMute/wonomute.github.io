@@ -60,18 +60,24 @@ A talk hosted at the Department of Music, Norwegian University of Science and Te
 
 **Speaker**: Miranda Moen
 
-**Presenter**: Anna Xambó
+**Presenter (Trondheim)**: Anna Xambó
 
-**Streaming**: Thomas Henriksen, Eigil Aandahl, Sepehr Haghighi, Jørgen Nygård Varpe
+**Presenter (Oslo)**: Mari Lesteberg
 
-**Camera**: Karolina Jawad
+**Production (Trondheim)**: Karolina Jawad
+
+**Production (Oslo)**: Mari Lesteberg
+
+**Streaming, Audio, Video (Trondheim)**: Thomas Henriksen, Eigil Aandahl, Sepehr Haghighi, Jørgen Nygård Varpe
+
+**Audio, Video (Oslo)**: Espen Wik
+
+**Camera (Trondheim)**: Karolina Jawad
 
 **Intro Video**: Karolina Jawad
 
-**Host Oslo**: Espen Wik
-
 **Acknowledgments**: Øystein Marker, Kristian Nymoen, Alexander Refsum Jensenius
 
-**Supported by**: NTNU
+**Supported by**: Norwegian University of Science and Technology (NTNU)
 
 **In collaboration with**: University of Oslo (UiO), Master in Music, Communication and Technology (MCT)

@@ -22,3 +22,38 @@ This seminar will take the audience on a journey into introducing a new technolo
 ### Bio
 
 [Angela Brennecke](https://www.filmuniversitaet.de/portrait/person/angela-brennecke/) is professor of „Audio and Interactive Media Technologies“ at the Film University Babelsberg *KONRAD WOLF* as well as a passionate musician and illustrator. She graduated in Computational Visualistics in 2004 and received a doctoral degree in Computer Graphics in 2009 from the University of Rostock, Germany. Due to her lifelong passion for music, thereafter she worked as software developer and technical project manager for „Native Instruments“ from 2009 to 2014. In 2015, Angela took a break from business to pursue personal artistic goals as well as to set new goals in her professional career. The following year, she joined the „Innovation Projects“ team of the German public broadcaster „Rundfunk Berlin-Brandenburg“ and participated in several ICT proposals for H2020 as a project engineer before becoming professor at Film University in 2017. Her research interests focus on audio-visual mood representation as well as interactions with sound through visuals.
+
+### Live Stream Recording of the Event
+
+<iframe width="750" height="423" src="https://www.youtube.com/embed/mpFSF2PHcFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+A talk hosted at the Department of Music, Norwegian University of Science and Technology (NTNU) in Trondheim and live streamed through the MCT Portal to the University of Oslo (UiO) and also through YouTube. The audience combines two physical sites (from Oslo and Trondheim) plus online viewers from all over the world.
+
+#### Video Credits
+
+**Speaker**: Angela Brennecke
+
+**Presenter (Trondheim)**: Anna Xambó
+
+**Presenter (Oslo)**: Mari Lesteberg
+
+**Production (Trondheim)**: Karolina Jawad
+
+**Production (Oslo)**: Mari Lesteberg
+
+**Streaming, Audio, Video (Trondheim)**: Eigil Aandahl, Sepehr Haghighi
+Jørgen Nygård Varpe, Shreejay Shrestha
+
+**Audio, Video (Oslo)**: Espen Wik, Elias Andersen
+
+**Audio processing**: Sepehr Haghighi
+
+**Intro Video**: Karolina Jawad
+
+**Acknowledgments**: Robin Støckert, Daniel Formo, Anders Tveit, Alexander Refsum Jensenius
+
+**Supported by**: Norwegian University of Science and Technology (NTNU), University of Oslo (UiO)
+
+**In collaboration with**: Master in Music, Communication and Technology (MCT)
