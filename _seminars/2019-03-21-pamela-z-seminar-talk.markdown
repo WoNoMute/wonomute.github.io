@@ -11,6 +11,9 @@ comments: true
 
 **Thursday 8 April 2019** // **15:00-16:00** // **2nd Floor (The Portal), Fjordgata 1, 7010 Trondheim** // **The Portal, Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo**
 
+<div class="orange-square-box space-square-box">
+This talk is organized will be facilitated by Tone Ås and it will be video streamed.</div>
+
 {% include image.html
 max-width="100%" file="/assets/seminars/pamela-z.jpg" alt="Pamela Z"
 caption="Pamela Z. Photo: Donald Swearingen." %}

@@ -13,7 +13,7 @@ comments: true
 **Thursday 4 April 2019** // **15:00-16:00** //  **The Portal, Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo** // **2nd Floor (The Portal), Fjordgata 1, 7010 Trondheim**
 
 <div class="orange-square-box space-square-box">
-This talk is organized by the Master's <a href="http://mct-master.github.io">Music, Communication and Technology</a> (UiO/NTNU) in collaboration with WoNoMute. There will be no video streaming of this talk.
+This talk is organized by the Master's <a href="http://mct-master.github.io">Music, Communication and Technology</a> (UiO/NTNU) in collaboration with WoNoMute and facilitated by Tone Åse. There will be no video streaming of this talk.
 </div>
 
 {% include image.html
