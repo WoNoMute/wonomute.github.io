@@ -43,17 +43,13 @@ Lady Lovelace is considered an influential figure in computer music. She brought
 ## Margaret Schedel
 
 <div class="light-purple-square-box space-square-box">
-<h3><em>“Back in my day, we didn’t even have a GUI!”
+<h3><em>“I truly believe in the power of computation to augment both human intelligence and human emotion.”
 </em></h3>
 </div>
 
-[Margaret Schedel](http://schedel.net/) is a composer and cellist specializing in the creation and performance of interactive media, her works have been performed in the United States and abroad. She is currently Associate Professor of Music at Stony Brook University, New York. Her many research interests include gestures in music and the sustainability of technology in the arts. She is also involved in data sonification, particularly in biomedical informatics, where she seeks out physiotherapeutic methods for patients with Parkinson's disease through sonification.
+[Margaret Schedel](http://schedel.net/) is a musician first and foremost. She engages music as a composer and a performer, with traditional instruments – Margaret started out as cellist – as well as computers and interactive media. She is currently Associate Professor of Music at Stony Brook University, New York, with a double appointment at the Institute for Advanced Computational Science. Her research interests include gestures in music and the sustainability of technology in the arts. She is also involved in data sonification, particularly in biomedical informatics, where she seeks out physiotherapeutic methods for patients with Parkinson’s disease through sonification. Beside ‘making science sound’ her interactive multimedia opera, A King Listens, premiered at the Cincinnati Contemporary Arts Center and was profiled by apple.com. (*)
 
-
-Beside 'making science sound' her interactive multimedia opera, A King Listens, premiered at the Cincinnati Contemporary Arts Center and was profiled by apple.com.
-
-
-**Author of the bio**: [Federica Bressan](http://research.federicabressan.com/) and WoNoMute-Team
+**Author of the bio**: [Federica Bressan](http://research.federicabressan.com/) 
 
 ---
 
@@ -162,3 +158,10 @@ Holsen has been performing on a number of festivals, and as a composer, Holsen h
 [Holly Herndon](https://www.hollyherndon.com/) (1980, Tennessee, USA) is a composer, performer and sound artist. At Mills Collage and Standford University she expanded her media laptop and voice as generative instruments towards each other. The dense, rhythmic sound carpeting she developed are constantly reflecting human-computer interaction, like in the track 'Home' were Herndon reveals her owns intimate relation to the computer. Herndon's compositional techniques experiment with her socio-technological visions. “Being a lone genius is definitely more marketable, but I don’t think art works in that way,” Together with her partner they created an 'AI baby', an artificial neural network that was trained to mimic the voices of the parents and the voices of the Ensemble Holly works currently with. Her constant struggle with her tools (she is always expressing herself politically in the field of digital civil rights) makes her an outstanding and progressive artist.
 
 **Author of the bio**: [Karolina Jawad](http://cv2c.noblogs.org/)
+
+
+
+---
+
+
+(*) This entry was updated on March 22, 2019.
