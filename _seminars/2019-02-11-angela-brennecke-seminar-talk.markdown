@@ -52,6 +52,8 @@ Jørgen Nygård Varpe, Shreejay Shrestha
 
 **Intro Video**: Karolina Jawad
 
+**Seminar Series Curation**: Anna Xambó
+
 **Acknowledgments**: Robin Støckert, Daniel Formo, Anders Tveit, Alexander Refsum Jensenius
 
 **Supported by**: Norwegian University of Science and Technology (NTNU), University of Oslo (UiO)

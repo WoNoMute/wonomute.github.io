@@ -76,6 +76,8 @@ A talk hosted at the Department of Music, Norwegian University of Science and Te
 
 **Intro Video**: Karolina Jawad
 
+**Seminar Series Curation**: Anna Xambó
+
 **Acknowledgments**: Øystein Marker, Kristian Nymoen, Alexander Refsum Jensenius
 
 **Supported by**: Norwegian University of Science and Technology (NTNU)
