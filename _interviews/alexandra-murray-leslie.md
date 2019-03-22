@@ -3,7 +3,7 @@ title: An Interview with Alexandra Murray-Leslie
 layout: post
 permalink: /interviews/alexandra-murray-leslie/
 author: Karolina Jawad
-date:   2018-12-24 01:00:00 +0200
+date:   2019-01-31 01:00:00 +0200
 image: /assets/interviews/alexandra-murray-leslie-talk.jpg
 excerpt: <strong>Dr. Alexandra Murray-Leslie</strong> is artistic researcher & co-founder of art band Chicks on Speed. Her research focuses on iterative prototyping of semantic foot devices for audiovisual theatrical expression in water, air and on land. She is adjunct faculty at The University of Art and Design, Linz. Current projects include being invited artistic research fellow, ARTEC program, Norwegian University of Science and Technology (NTNU) 2018.
 comments: true
