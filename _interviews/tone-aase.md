@@ -65,7 +65,7 @@ It was recorded, but since I'm not a mixer it has to be done together with someo
 
 A career in music technology could be so much. If you want to work with a (technical) instrument, don't think you have to master everything before you start, like reading the whole manual or knowing the function of absolutely everything. Start with something simple and see where it leads you to. If I heard something that appealed to me I had to try it out like [Laurie Anderson's](http://www.laurieanderson.com/) "Oh Superman", the merged sound of voice and electronics just struck me deep. And also [Zavinul Syndicates](http://www.joezawinul.com/) 'You Understand' with the Vocoder. The motivation should come from a genuine attraction, not from thinking that it is smart or hip. Look for something you really like, find out what equipment is used, what effects and techniques. Try it out and take your time. Borrow from someone or borrow from the shop if you have a nice one.
 
-In the playful and experimental, however, something arises. It will not explode or break. You may have some feedback problems, so you should learn to stay close to the master knob (laughing).
+In my experience, when one speaks of woman and man in this form, women often think far ahead. Men are better at experimenting for the sake of experimenting. While women see some kind of obligation to achieve a result. This is speculation, however in the playful and experimental, something arises. It will not explode or break. You may have some feedback problems, so you should learn to stay close to the master knob (laughing).
 
 
 ## You mentioned Laurie Anderson, did you have other role models?
