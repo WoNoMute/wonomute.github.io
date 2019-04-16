@@ -11,6 +11,14 @@ The forthcoming talks can be checked in the sections of [calendar](/seminars/cal
 <div id="posters">
 
 {% include image.html
+max-width="30%" file="/assets/posters/Pamela-Z-2019-04-08-WoNoMute.jpg" alt="Poster of Pamela Z's talk in Trondheim." url="/seminars/pamela-z-seminar-talk"
+%}
+
+{% include image.html
+max-width="30%" file="/assets/posters/Pamela-Z-2019-04-04-MCT.jpg" alt="Poster of Pamela Z's talk in Oslo." url="/seminars/pamela-z-seminar-talk-mct"
+%}
+
+{% include image.html
 max-width="30%" file="/assets/posters/Angela-Brennecke-2019-02-25-WoNoMute.jpg" alt="Poster of Angela Brennecke's talk." url="/seminars/2019-02-11-angela-brennecke-seminar-talk.html"
 %}
 

@@ -4,12 +4,12 @@ title:  "Pamela Z: Works and Processes (8.4.19)"
 permalink: /seminars/pamela-z-seminar-talk
 date:   2019-03-22 08:10:00 +0200
 image: /assets/seminars/pamela-z.jpg
-category: forthcoming
+category: past
 excerpt: "Pamela has a large production of works of different formats and concepts: voice and electronics pieces, large-scale performance works, installation works and commissioned works for different ensembles and situations."
 comments: true
 ---
 
-**Thursday 8 April 2019** // **15:00-16:00** // **2nd Floor (The Portal), Fjordgata 1, 7010 Trondheim** // **The Portal, Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo**
+**Monday 8 April 2019** // **15:00-16:00** // **2nd Floor (The Portal), Fjordgata 1, 7010 Trondheim** // **The Portal, Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo**
 
 <div class="orange-square-box space-square-box">
 This talk will be facilitated by Tone Åse and it will be video streamed.</div>

@@ -4,7 +4,7 @@ title:  "Pamela Z: Voice and Instruments (4.4.19) - A talk organized by MCT in c
 permalink: /seminars/pamela-z-seminar-talk-mct
 date:   2019-03-22 08:00:00 +0200
 image: /assets/seminars/pamela-z.jpg
-category: forthcoming
+category: past
 excerpt: "Pamela Z's performances range in scale from small concerts in galleries to large-scale multi-media works in theaters and concert halls. Her solo works combine experimental extended vocal techniques, operatic bel canto, found objects, text, and sampled concrète sounds. She uses MAX MSP and Isadora software on a MacBook Pro along with custom MIDI controllers."
 comments: true
 ---

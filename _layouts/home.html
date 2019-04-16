@@ -8,6 +8,34 @@ layout: default
 
   {{ content }} -->
 
+  <!-- SEMINARS -->
+      <ul class="post-list">
+        {% for post in site.seminars %}
+        {% if post.categories contains 'forthcoming' limit:2 %}
+        <li>
+        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          <h4><em>Seminar</em></h4>
+          <p class="excerpt-text">
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+          <strong><a href="{{ post.url | relative_url }}">
+            »Read more
+          </a></strong>
+        </p>
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+
+
   <!-- INTERVIEWS -->
   {%- if site.interviews.size > 0 -%}
   <ul class="post-list">
@@ -36,32 +64,6 @@ layout: default
   </ul>
   {%- endif -%}
 
-<!-- SEMINARS -->
-    <ul class="post-list">
-      {% for post in site.seminars %}
-      {% if post.categories contains 'forthcoming' limit:2 %}
-      <li>
-      <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <h4><em>Seminar</em></h4>
-        <p class="excerpt-text">
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-        <strong><a href="{{ post.url | relative_url }}">
-          »Read more
-        </a></strong>
-      </p>
-      </li>
-      {% endif %}
-      {% endfor %}
-    </ul>
 
     <!-- BLOG -->
 
