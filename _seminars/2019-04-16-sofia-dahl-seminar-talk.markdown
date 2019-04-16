@@ -9,6 +9,10 @@ excerpt: "Music and movement are intimately connected in many different ways. Bo
 comments: true
 ---
 
+<div class="orange-square-box space-square-box">
+This WoNoMute talk will be live streamed and will be the last before summer break.</div>
+
+
 **Monday 6 May 2019** // **15:00-16:00** // **2nd Floor (The Portal), Fjordgata 1, 7010 Trondheim** // **The Portal, Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo**
 
 {% include image.html
