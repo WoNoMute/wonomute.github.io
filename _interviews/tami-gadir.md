@@ -25,7 +25,7 @@ In addition to the classical performance and composition, I took an arts degree 
 
 My experiences are varied. The piano was my first music technology. But when I started DJing, I was always one of the people saying “I am really bad with technology.” And then I tried to teach myself that people have different skills with various types of technologies. It was a long time before I was willing to say that I had any competence. And even now, I catch myself doing that thing that a lot of women do, which is talking their skills down. It is interesting how this is so pervasive, how we're expected to be modest with our skills even if we have actually become really good at something.
 
-I had a lot of support from both male peers and women who were really good in what they did. But I also encountered obstacles. For example, when I would go to a bar to play and I'd have the man at the bar saying “are you here to help your boyfriend set-up?.” I'd have people come up to me after gigs saying, “oh wow I was surprised how good you were for a girl.” Amazing how free they would be with their language about these things. Also being in mainly male environments it was sometimes difficult to admit that I wanted help or support. Over time I got more comfortable with those particular people I worked with and they have ended up being really important for me.
+I had a lot of support from both male peers and women who were really good in what they did. But I also encountered obstacles. For example, I would go to a bar to play I'd have the man at the bar saying “are you here to help your boyfriend set-up?.” I'd have people come up to me after gigs saying, “oh wow I was surprised how good you were for a girl.” Amazing how free they would be with their language about these things. Also being in mainly male environments it was sometimes difficult to admit that I wanted help or support. Over time I got more comfortable with those particular people I worked with and they have ended up being really important for me.
 
 
 ## Did you have a role model or a mentor?
@@ -43,7 +43,7 @@ I found myself frustrated by how the fact that I was a woman was hindering me fr
 
 ## What advice would you give young women pursuing a career in music technology?
 
-I would advise them to be bold but also be kind to themselves, and not feel inadequate as a result of not already knowing everything about everything. I would encourage them to seek out supportive peers and allies, ask questions and don't assume that everybody around them knows what they are doing either. Actually a lot of time, they don't.
+I would advise them to be bold but also be kind to themselves, and not feel inadequate as a result of not already knowing everything about everything. I would encourage them to seek out supportive peers and allies, ask questions and don't assume that everybody around them knows what they are doing either. Actually a lot of the time, they don't.
 
 ## What is next?
 
