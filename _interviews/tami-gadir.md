@@ -19,7 +19,7 @@ comments: true
 
 I was educated in classical piano and composition. I came to club music and DJ-culture first and foremost through a love of going to those events and dancing. I was also curious about how the music was produced and performed—a curiosity which was based on the fact that I was an active musician myself.  
 
-In addition to the classical performance and composition, I took an arts degree with a major in sociology. I then went to Edinburgh and took [a PhD in music](https://www.era.lib.ed.ac.uk/handle/1842/9478), with [a sociologist as a supervisor](https://www.eca.ed.ac.uk/profile/prof-simon-frith). In this, I was able to follow up my interest not only in the sounds but also in the cultures and the scenes of the music. That ended up being my full focus as a postdoctoral fellow at the University of Oslo.  
+In addition to the classical performance and composition, I took an arts degree with a major in sociology. I then went to Edinburgh and took a PhD in music, with [a sociologist as a supervisor](https://www.eca.ed.ac.uk/profile/prof-simon-frith). In this, I was able to follow up my interest not only in the sounds but also in the cultures and the scenes of the music. That ended up being my full focus as a postdoctoral fellow at the University of Oslo.  
 
 ## What are your experiences of being a woman in music tech?
 
@@ -27,9 +27,6 @@ My experiences are varied. The piano was my first music technology. But when I s
 
 I had a lot of support from both male peers and women who were really good in what they did. But I also encountered obstacles. For example, when I would go to a bar to play and I'd have the man at the bar saying “are you here to help your boyfriend set-up?.” I'd have people come up to me after gigs saying, “oh wow I was surprised how good you were for a girl.” Amazing how free they would be with their language about these things. Also being in mainly male environments it was sometimes difficult to admit that I wanted help or support. Over time I got more comfortable with those particular people I worked with and they have ended up being really important for me.
 
-{% include image.html
-max-width="100%" file="/assets/interviews/tami-gadir-interview.jpg" alt="From left to right: Karolina Jawad and Tami Gadir during the interview. Photo by Anna Xambó."
-caption="From left to right: Karolina Jawad and Tami Gadir during the interview. Photo by Anna Xambó." %}
 
 ## Did you have a role model or a mentor?
 
@@ -38,7 +35,7 @@ All of the DJs and producers who inspired me, a lot of the Berlin women, the old
 ## Please introduce your area of research more closely
 
 My first project on dance music and DJ culture looked at the musical and social triggers for dancing, particularly in night club settings, and even more particularly techno and house scenes in Edinburgh. But I also stretched it to other scenes around the UK, like Glasgow and London. It was a combination of interviews and participant observation with listening to music; providing musical examples to ask questions such as “what it is about particular bass lines that makes people dance?”
-But there were a lot misunderstandings and prejudices that drove how people interacted with me during the first project, as a researcher, as a person on a dance floor and as a person behind a DJ booth. So the second project looked at gender issues, ethical practice, and equal participation in dance music scenes.
+But there were a lot misunderstandings and prejudices that drove how people interacted with me during the first project, as a researcher, as a person on a dance floor and as a person behind a DJ booth. So the [second project](https://www.tandfonline.com/doi/full/10.1080/07494467.2016.1176767#.V6hqg5N94xc) looked at gender issues, ethical practice, and equal participation in dance music scenes.
 
 ## Can you elaborate more on that second project?
 
