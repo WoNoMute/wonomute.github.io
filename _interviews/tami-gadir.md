@@ -39,7 +39,7 @@ But there were a lot misunderstandings and prejudices that drove how people inte
 
 ## Can you elaborate more on that second project?
 
-I found myself frustrated by how the fact that I was a woman was hindering me from doing the things that I just wanted to get done as my male peers were doing. So I decided to centre the interviews on women, transgender, non-binary, and gender non-conforming DJs. I also started to explore more conceptually and theoretically by reading a bit more widely, both inside and outside music studies.
+I found myself frustrated by how the fact that I was a woman was hindering me from doing the things that I just wanted to get done as my male peers were doing. So I decided to centre the interviews on women, transgender, non-binary, and gender non-conforming DJs. I also started to explore more conceptually and theoretically by [reading a bit more widely](http://mtosmt.org/issues/mto.18.24.3/mto.18.24.3.gadir.html), both inside and outside music studies.
 
 ## What advice would you give young women pursuing a career in music technology?
 
