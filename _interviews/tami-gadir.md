@@ -28,7 +28,7 @@ My experiences are varied. The piano was my first music technology. But when I s
 I had a lot of support from both male peers and women who were really good in what they did. But I also encountered obstacles. For example, when I would go to a bar to play I'd have the man at the bar saying “are you here to help your boyfriend set-up?.” I'd have people come up to me after gigs saying, “oh wow I was surprised how good you were for a girl.” Amazing how free they would be with their language about these things. Also being in mainly male environments it was sometimes difficult to admit that I wanted help or support. Over time I got more comfortable with those particular people I worked with and they have ended up being really important for me.
 
 {% include image.html
-max-width="50%" file="/assets/interviews/tami-gadir.jpg" alt="Tami Gadir"
+max-width="50%" file="/assets/seminars/tami-gadir.jpg" alt="Tami Gadir"
 caption="Tami Gadir" %}
 
 
