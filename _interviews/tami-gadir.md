@@ -4,7 +4,7 @@ layout: post
 permalink: /interviews/tami-gadir/
 author: Karolina Jawad
 date:   2019-04-16 12:00:00 +0200
-image: /assets/interviews/tami-gadir-interview.jpg
+image: /assets/seminars/tami-gadir.jpg
 excerpt: "Tami Gadir is commencing a new role as Lecturer in Music Industry at RMIT University in Melbourne Australia. Gadir has completed a postdoctoral research fellowship at the University of Oslo and holds a PhD from the University of Edinburgh supervised by Simon Frith. Gadir’s research addresses the various mechanisms that promote or hinder participation in musical cultures, through the sounds, technologies, and cultures of contemporary, electronically-produced dance music. Such themes will feature in a forthcoming book with Bloomsbury Academic press, based on eight years of participant observation and interviews with DJs, producers, and clubbers in international electronic dance music communities. The book provides an expressly critical feminist-intersectional, anti-capitalist appraisal of dance music cultures as a counterpoint to the dominant utopian, celebratory interpretations of underground scenes by scholars, media, and fans. Gadir is a co-founding committee member of GeMus: Gender and Music Network and an active DJ."
 comments: true
 ---
@@ -27,14 +27,19 @@ My experiences are varied. The piano was my first music technology. But when I s
 
 I had a lot of support from both male peers and women who were really good in what they did. But I also encountered obstacles. For example, when I would go to a bar to play I'd have the man at the bar saying “are you here to help your boyfriend set-up?.” I'd have people come up to me after gigs saying, “oh wow I was surprised how good you were for a girl.” Amazing how free they would be with their language about these things. Also being in mainly male environments it was sometimes difficult to admit that I wanted help or support. Over time I got more comfortable with those particular people I worked with and they have ended up being really important for me.
 
-{% include image.html
-max-width="50%" file="/assets/seminars/tami-gadir.jpg" alt="Tami Gadir"
-caption="Tami Gadir" %}
+<br />
 
+<div style="float:left; width: 40%; margin-right: 1em;">
+{% include image.html
+max-width="100%" file="/assets/seminars/tami-gadir.jpg" alt="Tami Gadir"
+caption="Tami Gadir" %}
+</div>
 
 ## Did you have a role model or a mentor?
 
 All of the DJs and producers who inspired me, a lot of the Berlin women, the older pioneers of the scene like Ellen Alien and Anja Schneider and folks like that, have always been amazingly important to me. I never had a mentor per se, but certainly the male peers I was talking about, the people I DJ'd with, not only facilitated my participation, but encouraged me, took a risk with me. They didn't really know who I was, but they trusted that I would do a good job. And in certain ways some of them became like mentors because they understood the challenges of being a woman in the scene. And they started to be a bit more thoughtful in how they would respond to situations. They listened and learned rather than getting defensive. That’s the kind of male ally that you want in the scene.
+
+<br />  
 
 ## Please introduce your area of research more closely
 
