@@ -18,5 +18,5 @@ Gyrid Nordal Kaldestad (b.1978) is from the island of Stord on the west coast of
 
 ## Links
 
-* Gyrid on Vimeo: [https://vimeo.com/album/5770172]
-* Gyrid on Soundcloud: [www.soundcloud.com/gyrid]
+* Gyrid on Vimeo: [https://vimeo.com/album/5770172] (https://vimeo.com/album/5770172)
+* Gyrid on Soundcloud: [www.soundcloud.com/gyrid] (www.soundcloud.com/gyrid)
