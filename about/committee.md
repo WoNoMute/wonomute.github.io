@@ -10,6 +10,7 @@ order: 1
 | -------------:|:-------------|
 | Chair     | [Anna Xambó](https://www.ntnu.edu/employees/anna.xambo.sedo) (NTNU, MCT)|
 |Co-Chair<br />Research Assistant<br /> Ambassador in Trondheim<br />Responsible of the WoNoMute blog <br />Workshops organizer|[Karolina Jawad](https://cv2c.noblogs.org/) (NTNU, MCT) |
+|Co-Chair|[Alexander Refsum Jensenius](https://www.hf.uio.no/ritmo/english/people/management/alexanje/index.html) (NTNU, MCT)  |
 | Research Assistant<br /> Ambassador in Oslo<br /> Responsible of the WoNoMute directory<br /> Workshops organizer    | [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT)|
 | Research Assistant<br /> Ambassador in Oslo<br /> Responsible of the WoNoMute directory<br /> Workshops organizer    | [Ane Bjerkan](https://twitter.com/anebjerkan?lang=en) (UiO, MCT)|
 |Artistic Collaborator<br />      |[Ada Mathea Hoel](NTNU) |
@@ -28,7 +29,6 @@ order: 1
 ## Consultants
 
 | :-------------|
-|[Alexander Refsum Jensenius](https://www.hf.uio.no/ritmo/english/people/management/alexanje/index.html) (NTNU, MCT)      |
 |[Sigurd Saue](https://www.ntnu.edu/employees/sigurd.saue) (NTNU, MCT)      |
 |[Gyrid Nordal Kaldestad](https://www.linkedin.com/in/gyrid-nordal-kaldestad-7a26b329/?originalSubdomain=no) (PNEK, Notam)     |
 |[Tone Åse](https://www.ntnu.edu/employees/tone.ase) (NTNU)      |
