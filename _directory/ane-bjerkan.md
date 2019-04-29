@@ -3,7 +3,7 @@ title: Ane Bjerkan
 layout: post
 permalink: /directory-of-wonomute/ane-bjerkan/
 image: /assets/directory/ane-bjerkan-cropped.jpg
-excerpt: <strong>Ane Bjerkan</strong> (b.1988) is an artist from Inderøy, who is composing, writing and producing her own music. Her lates release is the Indian harmonium and vocal based EP «Songs for Jirka» (Pisco Records) where she plays everything herself. 
+excerpt: <strong>Ane Bjerkan</strong> (b.1988) is an artist from Inderøy, who is composing, writing and producing her own music. Her lates release is the Indian harmonium and vocal based EP «Songs for Jirka» (Pisco Records) where she plays everything herself. Currently she is studying a master degree in Musicology, working on a topic about sonic expression through fantacy language, working with topics including experimental vocals and surrealism. 
 comments: false
 ---
 
