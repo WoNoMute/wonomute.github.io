@@ -21,5 +21,6 @@ Ane is a part the WoNoMute committee as a research assistant, and she organises 
 
 ## Links
 
-* Ane Bjerkan, Spotify: [https://open.spotify.com/artist/21XaxLT97SBOMmjsvgwt7V?si=cgb9xZPfRDqvZBYmRn6L4A]
-* Ane Bjerkan, Music Video: [https://www.youtube.com/watch?v=anj1xZMqWdE]
+* Ane Bjerkan, Spotify: [https://open.spotify.com/artist/21XaxLT97SBOMmjsvgwt7V?si=cgb9xZPfRDqvZBYmRn6L4A](https://open.spotify.com/artist/21XaxLT97SBOMmjsvgwt7V?si=cgb9xZPfRDqvZBYmRn6L4A)
+* Ane Bjerkan, Music Video: [https://www.youtube.com/watch?v=anj1xZMqWdE](https://www.youtube.com/watch?v=anj1xZMqWdE)
+
