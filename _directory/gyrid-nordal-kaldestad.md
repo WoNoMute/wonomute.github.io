@@ -9,7 +9,7 @@ comments: false
 
 <div class="directory-post">
 {% include image.html
-max-width="100%" file="/assets/directory/gyrid-nordal-kaldestad.jpeg" alt="Photo of Mari Lesteberg." %}
+max-width="100%" file="/assets/directory/gyrid-nordal-kaldestad.jpeg" alt="Photo of Gyrid Nordahl Kaldestad." %}
 </div>
 
 ## Bio
