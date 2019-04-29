@@ -2,14 +2,14 @@
 title: Gyrid Nordal Kaldestad
 layout: post
 permalink: /directory-of-wonomute/gyrid-nordal-kaldestad/
-image: /assets/directory/mari-lesteberg.jpg
+image: /assets/directory/gyrid-nordal-kaldestad-cropped.jpg
 excerpt: <strong>Gyrid Nordal Kaldestad</strong> (b.1978) is from the island of Stord on the west coast of Norway, and lives now in Oslo. Her background is in improvisation and electro-acoustic music, working with voice / song, live electronics, field recording and text writing for use ins songs and installations.
 comments: false
 ---
 
 <div class="directory-post">
 {% include image.html
-max-width="100%" file="/assets/directory/mari-lesteberg.jpg" alt="Photo of Mari Lesteberg." %}
+max-width="100%" file="/assets/directory/gyrid-nordal-kaldestad.jpeg" alt="Photo of Mari Lesteberg." %}
 </div>
 
 ## Bio
