@@ -3,7 +3,7 @@ title: Sofia Dahl
 layout: post
 permalink: /directory-of-wonomute/sofia-dahl/
 image: /assets/directory/sofia-dahl.jpg
-excerpt: <strong>Sofia Dahl</strong> holds a PhD in Speech and Music communication from KTH, Royal Institute of Technology, Sweden.
+excerpt: <strong>Sofia Dahl</strong> holds a PhD in Speech and Music communication from KTH, Royal Institute of Technology, Sweden.She is associate professor at Aalborg University, campus Copenhagen and has been Visiting Associate Professor in Embodied Music Cognition at University of Oslo. With a background from electrical engineering and musicology, Dahl’s research interests relate to how we produce, perceive and communicate with music with a focus on rhythmic movement and emotional communication.
 comments: false
 ---
 
