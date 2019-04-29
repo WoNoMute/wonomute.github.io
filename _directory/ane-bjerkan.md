@@ -9,7 +9,7 @@ comments: false
 
 <div class="directory-post">
 {% include image.html
-max-width="100%" file="/assets/directory/ane-bjerkan.jpg" alt="Photo of Anna Xambó." %}
+max-width="100%" file="/assets/directory/ane-bjerkan.jpg" alt="Photo by Fullmoon Magazine." %}
 </div>
 
 ## Bio
