@@ -11,7 +11,7 @@ layout: default
   <!-- INTERVIEWS -->
   {%- if site.interviews.size > 0 -%}
   <ul class="post-list">
-    {%- for post in site.interviews limit:1 offset:3 -%}
+    {%- for post in site.interviews reversed limit:2 offset:3  -%}
     <li>
       <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -35,7 +35,7 @@ layout: default
     {%- endfor -%}
   </ul>
   {%- endif -%}
-  
+
 
   <!-- SEMINARS -->
       <ul class="post-list">
@@ -69,7 +69,7 @@ layout: default
 
     <!-- BLOG -->
 
-    {%- if site.posts.size > 0 -%}
+    <!-- {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts limit:1 -%}
@@ -97,7 +97,7 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
-    {% endif %}
+    {% endif %} -->
 
 
 
