@@ -10,7 +10,7 @@ order: 1
 | -------------:|:-------------|
 | Chair     | [Anna Xambó](https://www.ntnu.edu/employees/anna.xambo.sedo) (NTNU, MCT)|
 |Co-Chair<br />Research Assistant<br /> Ambassador in Trondheim<br />Responsible of the WoNoMute blog <br />Workshops organizer|[Karolina Jawad](https://cv2c.noblogs.org/) (NTNU, MCT) |
-|Co-Chair|[Alexander Refsum Jensenius](https://www.hf.uio.no/ritmo/english/people/management/alexanje/index.html) (NTNU, MCT)  |
+|Co-Chair|[Alexander Refsum Jensenius](https://www.hf.uio.no/ritmo/english/people/management/alexanje/index.html) (UiO, MCT)  |
 | Research Assistant<br /> Ambassador in Oslo<br /> Responsible of the WoNoMute directory<br /> Workshops organizer    | [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT)|
 | Research Assistant<br /> Ambassador in Oslo<br /> Responsible of the WoNoMute directory<br /> Workshops organizer    | [Ane Bjerkan](https://twitter.com/anebjerkan?lang=en) (UiO, IMV)|
 |Artistic Collaborator<br />      |[Ada Mathea Hoel](NTNU) |
