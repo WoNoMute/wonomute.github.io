@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 {% include image.html
-max-width="100%" file="/assets/blog/WoNoMuTe-March-8-2019.jpg" alt="9 Women in Music Tech (WoMuTe) Heroes. Illustration by Oscar Martinez Castells." %}
+max-width="100%" file="/assets/img/WoNoMuTe-summer.jpg" alt="9 Women in Music Tech (WoMuTe) Heroes. Illustration by Oscar Martinez Castells." %}
 
 <!-- This is the website and blog of the organization Women Nordic Music Technology (WoNoMute) at the Norwegian University of Science and Technology (NTNU) in partnership with University of Oslo (UiO), an organization that started in August 2018 and aims to promote and connect the work of women in music tech at local, national and international levels. -->
 
