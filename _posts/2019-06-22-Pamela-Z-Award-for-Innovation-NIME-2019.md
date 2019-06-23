@@ -60,11 +60,7 @@ It was nice to see the announcement of the Pamela Z Award for Innovation to Marg
 ## References
 
 * X. Alarcón Díaz, V. González, and Ç. Erdem, "INTIMAL: Walking to Find Place, Breathing to Feel Presence", in Proceedings of NIME, Porto Alegre, Brazil, 2019.
-
 * G. Born and K. Devine. Gender, Creativity and Education in Digital Musics and Sound Art. Contemporary Music Review, 35(1):1–20, 2016.
-
 * S. Reid, S. Sithi-Amnuai, and A. Kapur, “Women who build things: gestural controllers, augmented instruments, and musical mechatronics,” in Proceedings of NIME, Blacksburg, Virginia, USA, 2018, p. 178–183.
-
 * M. Schedel, J. Ho, and M. Blessing, "Women's Labor: Creating NIMEs from Domestic Tools", in Proceedings of NIME, Porto Alegre, Brazil, 2019.
-
 * A. Xambó, “Who Are the Women Authors in NIME? – Improving Gender Balance in NIME Research,” in Proceedings of NIME, Blacksburg, Virginia, USA, 2018, p. 174–177.
