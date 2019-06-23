@@ -45,7 +45,7 @@ For this reason, we would like to recognize Margaret Schedel's work for the co-a
 We realized that Margaret Schedel had left the conference, but fortunately Sofia Yuditskaya was able to collect the award on her behalf!
 
 {% include image.html
-max-width="100%" file="/assets/blog/margaret-schedel-pamela-z-award.jpg" alt="Isabel Nogueira giving the Pamela Z Award for Innovation to Margaret Schedel (collected by Sofia Yuditskaya). Photo by Carolina Brum Medeiros." caption="Isabel Nogueira announcing the Pamela Z Award for Innovation. Photo by Carolina Brum Medeiros." %}
+max-width="100%" file="/assets/blog/margaret-schedel-pamela-z-award.jpg" alt="Isabel Nogueira giving the Pamela Z Award for Innovation to Margaret Schedel (collected by Sofia Yuditskaya). Photo by Carolina Brum Medeiros." caption="Isabel Nogueira giving the Pamela Z Award for Innovation to Margaret Schedel (collected by Sofia Yuditskaya) Photo by Carolina Brum Medeiros." %}
 
 The honorary mention award to Ximena Alarcón Díaz was to recognize her efforts to connect women’s voices who are unheard and have suffered from migrating to other countries involuntarily. The gift was kindly provided by Margaret Schedel and is a copy of the book “Artful Design” by Ge Wang.
 
