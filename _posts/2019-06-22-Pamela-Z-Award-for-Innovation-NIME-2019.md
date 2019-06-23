@@ -4,14 +4,22 @@ title: NIME 2019's Pamela Z Award for Innovation
 permalink: /pamela-z-award-innovation-nime-2019/
 author: Isabel Nogueira, Astrid Bin, Anna Weisling, Ana Maria Romano, Anna Xambó
 date:   2019-06-22 13:45:00 +0100
-image: "/assets/blog/isabel-nogueira-announcement-pamela-z-award.jpg"
+image: "/assets/blog/Margaret-Schedel.jpg"
 categories: news
 excerpt: "This year the NIME's Pamela Z Award for Innovation has been awarded to Margaret Schedel for her career, her work on diversity and NIMEs, and her co-authored paper 'Women's Labor: Creating NIMEs from Domestic Tools'. We also awarded with an honorary mention Ximena Alarcón Díaz for her work on migration issues and the paper 'INTIMAL: Walking to Find Place, Breathing to Feel Presence'. Huge congratulations! Next, we explain the context of this award and more details on this year's ceremony."
 comments: true
 
 ---
 
-This year the NIME's Pamela Z Award for Innovation has been awarded to [Margaret Schedel](http://www.schedel.net/) for her career, her work on diversity and NIMEs, and her co-authored paper "Women's Labor: Creating NIMEs from Domestic Tools". We also awarded with an honorary mention [Ximena Alarcón Díaz](http://ximenaalarcon.net/) for her work on migration issues and the paper “INTIMAL: Walking to Find Place, Breathing to Feel Presence”. Huge congratulations! Next, we explain the context of this award and more details on this year's ceremony.   
+
+<figure style="float:left;margin-right:15px;max-width:40%">
+   <img src="/assets/blog/Margaret-Schedel.jpg"
+      alt="Margaret Schedel: Pamela Z Award for Innovation 2019"/>
+   <figcaption>Margaret Schedel: Pamela Z Award for Innovation 2019</figcaption>
+</figure>
+
+This year the NIME's Pamela Z Award for Innovation has been awarded to [Margaret Schedel](http://www.schedel.net/) for her career, her work on diversity and NIMEs, and her co-authored paper "Women's Labor: Creating NIMEs from Domestic Tools". We also awarded with an honorary mention [Ximena Alarcón Díaz](http://ximenaalarcon.net/) for her work on migration issues and the paper “INTIMAL: Walking to Find Place, Breathing to Feel Presence”. Huge congratulations! Next, we explain the context of this award and more details on this year's ceremony.  
+
 
 ## NIME 2001-2018
 
@@ -47,6 +55,12 @@ We realized that Margaret Schedel had left the conference, but fortunately Sofia
 {% include image.html
 max-width="100%" file="/assets/blog/margaret-schedel-pamela-z-award.jpg" alt="Isabel Nogueira giving the Pamela Z Award for Innovation to Margaret Schedel (collected by Sofia Yuditskaya). Photo by Carolina Brum Medeiros." caption="Isabel Nogueira giving the Pamela Z Award for Innovation to Margaret Schedel (collected by Sofia Yuditskaya) Photo by Carolina Brum Medeiros." %}
 
+<figure style="float:left;margin-right:15px;max-width:40%">
+   <img src="/assets/blog/Ximena-Alarcon.jpg"
+      alt="Ximena Alarcón: Pamela Z Honorary Mention Award for Innovation 2019"/>
+   <figcaption>Ximena Alarcón: Pamela Z Honorary Mention Award for Innovation 2019</figcaption>
+</figure>
+
 The honorary mention award to Ximena Alarcón Díaz was to recognize her efforts to connect women’s voices who are unheard and have suffered from migrating to other countries involuntarily. The gift was kindly provided by Margaret Schedel and is a copy of the book “Artful Design” by Ge Wang.
 
 You can read the full speech [here](/assets/downloads/Pamela-Z-Award-for-Innovation-NIME-2019.pdf).
@@ -55,7 +69,7 @@ You can read the full speech [here](/assets/downloads/Pamela-Z-Award-for-Innovat
 
 ## Final remarks
 
-It was nice to see the announcement of the Pamela Z Award for Innovation to Margaret Schedel and honorary mention to Ximena Alarcón Díaz had a considerable impact on social media. This shows not only that the awardees are fully recognized for their work, but also that there is a visible change of perspective in NIME. A few days ago, it was announced an open call for the role of NIME diversity officer to develop guidelines and work with future chairs on improving diversity. And the topic of next year's NIME in Birmingham will be accessibility. We are glad to see that Pamela Z's award has arrived to stay.
+It was nice to see the announcement of the Pamela Z Award for Innovation to Margaret Schedel and honorary mention to Ximena Alarcón Díaz had a considerable impact on social media. This shows not only that the awardees are fully recognized for their work, but also that there is a visible change of perspective in NIME. A few days ago, it was announced an open call for the role of NIME diversity officer to develop guidelines and work with future chairs on improving diversity. And the topic of next year's NIME in Birmingham will be accessibility - making musical expression accessible to all. We are glad to see that Pamela Z's award has arrived to stay.
 
 ## References
 
