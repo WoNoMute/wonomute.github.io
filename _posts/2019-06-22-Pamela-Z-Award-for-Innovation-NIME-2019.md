@@ -1,9 +1,9 @@
 ---
 layout: post
 title: NIME 2019's Pamela Z Award for Innovation
-permalink: /pamela-z-award-innovation-nime-2019/
+permalink: /pamela-z-award-for-innovation-nime-2019/
 author: Isabel Nogueira, Astrid Bin, Anna Weisling, Ana Maria Romano, Anna Xambó
-date:   2019-06-22 13:45:00 +0100
+date:   2019-06-24 13:45:00 +0100
 image: "/assets/blog/Margaret-Schedel.jpg"
 categories: news
 excerpt: "This year the NIME's Pamela Z Award for Innovation has been awarded to Margaret Schedel for her career, her work on diversity and NIMEs, and her co-authored paper 'Women's Labor: Creating NIMEs from Domestic Tools'. We have also awarded Ximena Alarcón Díaz with an honorary mention for her work on migration issues and the paper 'INTIMAL: Walking to Find Place, Breathing to Feel Presence'. Huge congratulations! Next, we explain the context of this award and more details on this year's ceremony."
@@ -34,14 +34,14 @@ There was a memorable, well-attended workshop on diversity organized by [Astrid 
 
 ## NIME 2019
 
-The NIME 2019 committee with Rodrigo Schramm as a conference chair has emphasized their will to also bring more diversity to this year's conference at all the levels (committee members, keynote speakers, reviewers, and so on). For example, [Isabel Nogueira](https://soundcloud.com/isabel-porto-nogueira) has been chair of installations and consultant of diversity in the committee, [Ana Maria Romano Gómez](https://www.audiblewomen.com/?listing=ana-maria-romano-gomez) has been a keynote speaker, and [Anna Xambó](http://annaxambo.me) has been paper co-chair. Also, [Carolina Brum Medeiros](http://www.carolinabrum.com/?page_id=1069), [Laurel Pardue](https://www.uio.no/ritmo/english/projects/all/nordicsmc/events/conferences/2019/winter-school/teachers/), [Xiao Xiao](https://www.media.mit.edu/people/x_x/overview/), and [Margaret Schedel](http://www.schedel.net/) have been session chairs.
+The NIME 2019 committee with [Rodrigo Schramm](http://professor.ufrgs.br/rschramm) as a conference chair has emphasized their will to also bring more diversity to this year's conference at all the levels (committee members, keynote speakers, reviewers, and so on). For example, [Isabel Nogueira](https://soundcloud.com/isabel-porto-nogueira) has been chair of installations and consultant of diversity in the committee, [Ana Maria Romano Gómez](https://www.audiblewomen.com/?listing=ana-maria-romano-gomez) has been a keynote speaker, and [Anna Xambó](http://annaxambo.me) has been paper co-chair. Also, [Carolina Brum Medeiros](http://www.carolinabrum.com/?page_id=1069), [Laurel Pardue](https://www.uio.no/ritmo/english/projects/all/nordicsmc/events/conferences/2019/winter-school/teachers/), [Xiao Xiao](https://www.media.mit.edu/people/x_x/overview/), and [Margaret Schedel](http://www.schedel.net/) have been session chairs.
 
 {% include image.html
 max-width="100%" file="/assets/blog/Ana-Maria-Romano-Gomez-keynote-NIME-2019.jpg" alt="Keynote of Ana María Romano Gómez, Agulha Night Club, June 6, 2019. Photo by Anna Xambó." caption="Keynote of Ana María Romano Gómez, Agulha Night Club, June 6, 2019. Photo by Anna Xambó." %}
 
-Thanks to the support and encouragement of the NIME 2019 committee, the NIME steering committee with Alexander Refsum Jensenius as the chair, and the creators of the Pamela Z Award, we decided to continue with this initiative. The jury was formed by: Isabel Nogueira, Astrid Bin, Anna Weisling, Ana Maria Romano Gómez, and Anna Xambó.
+Thanks to the support and encouragement of the NIME 2019 committee, the NIME steering committee with [Alexander Refsum Jensenius](http://www.arj.no/) as the chair, and the creators of the Pamela Z Award, we decided to continue with this initiative. The jury was formed by: Isabel Nogueira, Astrid Bin, Anna Weisling, Ana Maria Romano Gómez, and Anna Xambó.
 
-After a selection of relevant papers related to diversity in NIME with the help of Marcelo Queiroz (paper co-chair of NIME 2019), the jury decided unanimously about giving the award to Margaret Schedel and also agreed on giving an honorary mention to Ximena Alarcón Díaz.
+After a selection of relevant papers related to diversity in NIME with the help of [Marcelo Queiroz](https://www.ime.usp.br/~mqz/) (paper co-chair of NIME 2019), the jury decided unanimously about giving the award to Margaret Schedel and also agreed on giving an honorary mention to Ximena Alarcón Díaz.
 
 ## The ceremony
 
@@ -57,9 +57,9 @@ Isabel Nogueira continued saying that the award *"was named after Pamela Z becau
 For this reason, we would like to recognize Margaret Schedel's work for the co-authored paper "Women's Labor: Creating NIMEs from Domestic Tools" which brings the labour of women into the spotlight through an innovative musical instrument. (...) In addition, Margaret Schedel is a prolific cellist, a researcher, an instrument designer, a performer, a teacher, a technologist. (...) The award includes a copy of the next album compilation by the keynote speaker Ana Maria Romano Gomez named Mujeres que suenan y truenan."*
 
 {% include image.html
-max-width="100%" file="/assets/blog/margaret-schedel-pamela-z-award.jpg" alt="Isabel Nogueira giving the Pamela Z Award for Innovation to Margaret Schedel (collected by Sofia Yuditskaya). Photo by Carolina Brum Medeiros." caption="Isabel Nogueira giving the Pamela Z Award for Innovation to Margaret Schedel (collected by Sofia Yuditskaya). Photo by Carolina Brum Medeiros." %}
+max-width="100%" file="/assets/blog/margaret-schedel-pamela-z-award.jpg" alt="Isabel Nogueira giving the Pamela Z Award for Innovation to Margaret Schedel (collected by Sonya Yuditskaya). Photo by Carolina Brum Medeiros." caption="Isabel Nogueira giving the Pamela Z Award for Innovation to Margaret Schedel (collected by Sonya Yuditskaya). Photo by Carolina Brum Medeiros." %}
 
-We realized that Margaret Schedel had left the conference, but fortunately Sofia Yuditskaya was able to collect the award on her behalf!
+We realized that Margaret Schedel had left the conference, but fortunately Sonya Yuditskaya was able to collect the award on her behalf!
 
 <figure style="float:left;margin-right:15px;max-width:40%">
    <img src="/assets/blog/Ximena-Alarcon.jpg"
