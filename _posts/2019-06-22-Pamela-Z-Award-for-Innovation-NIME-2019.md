@@ -4,7 +4,7 @@ title: NIME 2019's Pamela Z Award for Innovation
 permalink: /blog/pamela-z-award-for-innovation-nime-2019/
 author: Isabel Nogueira, Astrid Bin, Anna Weisling, Ana Maria Romano, Anna Xambó
 date:   2019-06-24 13:45:00 +0100
-image: "/assets/blog/Margaret-Schedel.jpg"
+image: "/assets/blog/Margaret-Schedel-teaser.jpg"
 categories: news
 excerpt: "This year the NIME's Pamela Z Award for Innovation has been awarded to Margaret Schedel for her career, her work on diversity and NIMEs, and her co-authored paper 'Women's Labor: Creating NIMEs from Domestic Tools'. We have also awarded Ximena Alarcón Díaz with an honorary mention for her work on migration issues and the paper 'INTIMAL: Walking to Find Place, Breathing to Feel Presence'. Huge congratulations! Next, we explain the context of this award and more details on this year's ceremony."
 comments: true
