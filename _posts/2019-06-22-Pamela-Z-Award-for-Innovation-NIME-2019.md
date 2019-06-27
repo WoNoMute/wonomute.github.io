@@ -76,7 +76,7 @@ The honorary mention award to Ximena Alarcón Díaz was to recognize her efforts
 
 ## Final remarks
 
-It was nice to see the announcement of the Pamela Z Award for Innovation to Margaret Schedel and honorary mention to Ximena Alarcón Díaz had a considerable impact on social media. This shows not only that the awardees are fully supported in this well deserved recognition, but also that there is a visible change of perspective in NIME. A few days ago, it was announced an open call for the role of NIME diversity officer to develop guidelines and work with future chairs on improving diversity. And the topic of next year's NIME in Birmingham will be accessibility - making musical expression accessible to all. We are glad to see that Pamela Z's award has arrived to stay!
+It was nice to see the announcement of the Pamela Z Award for Innovation to Margaret Schedel and honorary mention to Ximena Alarcón Díaz had a considerable impact on social media. This shows not only that the awardees are fully supported in this well deserved recognition, but also that there is a visible change of perspective in NIME. A few days ago, it was announced an open call for the role of NIME diversity officer to develop guidelines and work with future chairs on improving diversity. And the topic of next year's NIME in Birmingham will be accessibility - making musical expression accessible to all. We are glad to see that Pamela Z's award has arrived to stay! Thanks to all those who helped us to make it happen! 
 
 
 ## References
