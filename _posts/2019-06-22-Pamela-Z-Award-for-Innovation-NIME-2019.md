@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NIME 2019's Pamela Z Award for Innovation
-permalink: /pamela-z-award-for-innovation-nime-2019/
+permalink: /blog/pamela-z-award-for-innovation-nime-2019/
 author: Isabel Nogueira, Astrid Bin, Anna Weisling, Ana Maria Romano, Anna Xambó
 date:   2019-06-24 13:45:00 +0100
 image: "/assets/blog/Margaret-Schedel.jpg"
@@ -34,11 +34,11 @@ There was a memorable, well-attended workshop on diversity organized by [Astrid 
 
 ## NIME 2019
 
-The NIME 2019 committee with [Rodrigo Schramm](http://professor.ufrgs.br/rschramm) as a conference chair has emphasized their will to also bring more diversity to this year's conference at all the levels (committee members, keynote speakers, reviewers, and so on). For example, [Isabel Nogueira](https://soundcloud.com/isabel-porto-nogueira) has been chair of installations and consultant of diversity in the committee, [Ana Maria Romano Gómez](https://www.audiblewomen.com/?listing=ana-maria-romano-gomez) has been a keynote speaker, and [Anna Xambó](http://annaxambo.me) has been paper co-chair. Also, [Carolina Brum Medeiros](http://www.carolinabrum.com/?page_id=1069), [Laurel Pardue](http://eecs.qmul.ac.uk/profiles/parduelaurel.html), [Margaret Schedel](http://www.schedel.net/), and [Xiao Xiao](https://www.media.mit.edu/people/x_x/overview/) have been session chairs. Laurel Pardue won the best paper award for her presentation of the co-authored paper "Separating Sound from Source: Sonic Transformation of the Violin Through
+The NIME 2019 committee with [Rodrigo Schramm](http://professor.ufrgs.br/rschramm) as a conference chair has emphasized their will to also bring more diversity to this year's conference at all the levels (committee members, keynote speakers, reviewers, and so on). For example, [Isabel Nogueira](https://soundcloud.com/isabel-porto-nogueira) has been chair of installations and consultant of diversity in the committee, [Ana Maria Romano Gómez](https://www.audiblewomen.com/?listing=ana-maria-romano-gomez) has been a keynote performer, and [Anna Xambó](http://annaxambo.me) has been paper co-chair. Also, [Carolina Brum Medeiros](http://www.carolinabrum.com/?page_id=1069), [Laurel Pardue](http://eecs.qmul.ac.uk/profiles/parduelaurel.html), [Margaret Schedel](http://www.schedel.net/), and [Xiao Xiao](https://www.media.mit.edu/people/x_x/overview/) have been session chairs. Laurel Pardue won the best paper award for her presentation of the co-authored paper "Separating Sound from Source: Sonic Transformation of the Violin Through
 Electrondynamic Pickups and Acoustic Actuation".  
 
 {% include image.html
-max-width="100%" file="/assets/blog/Ana-Maria-Romano-Gomez-keynote-NIME-2019.jpg" alt="Keynote of Ana María Romano Gómez, Agulha Night Club, June 6, 2019. Photo by Anna Xambó." caption="Keynote of Ana María Romano Gómez, Agulha Night Club, June 6, 2019. Photo by Anna Xambó." %}
+max-width="100%" file="/assets/blog/Ana-Maria-Romano-Gomez-keynote-NIME-2019.jpg" alt="Keynote performance of Ana María Romano Gómez, Agulha Night Club, June 6, 2019. Photo by Anna Xambó." caption="Keynote performance of Ana María Romano Gómez, Agulha Night Club, June 6, 2019. Photo by Anna Xambó." %}
 
 Thanks to the support and encouragement of the NIME 2019 committee, the NIME steering committee with [Alexander Refsum Jensenius](http://www.arj.no/) as the chair, and the creators of the Pamela Z Award, we decided to continue with this initiative. The jury was formed by: Isabel Nogueira, Astrid Bin, Anna Weisling, Ana Maria Romano Gómez, and Anna Xambó.
 
