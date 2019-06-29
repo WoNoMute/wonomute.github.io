@@ -4,6 +4,8 @@ title: Forthcoming
 permalink: /seminars/forthcoming/
 ---
 
+## See our [calendar](/seminars/calendar/) for forthcoming talks
+
 <div class="post-content-blog">
 
 <ul class="post-list">

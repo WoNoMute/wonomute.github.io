@@ -3,7 +3,6 @@ layout: post
 title: International Women's Day 2019 - 9 Women in Music Tech (WoMuTe) Heroes
 permalink: /2019-03-08-international-womens-day-womute-heroes/
 author: Federica Bressan, Maarten de Boer, Amalia de Götzen, Trond Gjellum, Karolina Jawad, Henriette Jennsen, Mari Lesteberg, Jez Riley French, Anna Xambó, and Laura Zattra
-
 date:   2019-03-08 05:00:00 +0100
 image: "/assets/blog/WoNoMuTe-March-8-2019.jpg"
 categories: post
@@ -49,7 +48,7 @@ Lady Lovelace is considered an influential figure in computer music. She brought
 
 [Margaret Schedel](http://schedel.net/) is a musician first and foremost. She engages music as a composer and a performer, with traditional instruments – Margaret started out as cellist – as well as computers and interactive media. She is currently Associate Professor of Music at Stony Brook University, New York, with a double appointment at the Institute for Advanced Computational Science. Her research interests include gestures in music and the sustainability of technology in the arts. She is also involved in data sonification, particularly in biomedical informatics, where she seeks out physiotherapeutic methods for patients with Parkinson’s disease through sonification. Beside ‘making science sound’ her interactive multimedia opera, A King Listens, premiered at the Cincinnati Contemporary Arts Center and was profiled by apple.com. (*)
 
-**Author of the bio**: [Federica Bressan](http://research.federicabressan.com/) 
+**Author of the bio**: [Federica Bressan](http://research.federicabressan.com/)
 
 ---
 

@@ -4,7 +4,7 @@ title:  "Sofia Dahl: Looking at Musical Movements (6.5.19)"
 permalink: /seminars/sofia-dahl-seminar-talk
 date:   2019-04-16 08:10:00 +0200
 image: /assets/seminars/sofia-dahl.jpg
-category: forthcoming
+category: past
 excerpt: "Music and movement are intimately connected in many different ways. Both with respect to how musical sounds and rhythms are produced by players, but also how this non-verbal communication is perceived by an audience. The study of music and movement in the past decades have shown the relation to the body is important for players and listeners alike, proving music to be a multimodal experience. In this talk I will present examples of studies of musical movement from both these perspectives and discuss some of the challenges and questions that arise when studying movements in music performance."
 comments: true
 ---

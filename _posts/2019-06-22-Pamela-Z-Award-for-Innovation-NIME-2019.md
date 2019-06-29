@@ -3,9 +3,9 @@ layout: post
 title: NIME 2019's Pamela Z Award for Innovation
 permalink: /blog/pamela-z-award-for-innovation-nime-2019/
 author: Isabel Nogueira, Astrid Bin, Anna Weisling, Ana Maria Romano, Anna Xambó
-date:   2019-06-24 13:45:00 +0100
+date:   2019-06-27 13:45:00 +0100
 image: "/assets/blog/Margaret-Schedel-teaser.jpg"
-categories: news
+categories: post
 excerpt: "This year the NIME's Pamela Z Award for Innovation has been awarded to Margaret Schedel for her career, her work on diversity and NIMEs, and her co-authored paper 'Women's Labor: Creating NIMEs from Domestic Tools'. We have also awarded Ximena Alarcón Díaz with an honorary mention for her work on migration issues and the paper 'INTIMAL: Walking to Find Place, Breathing to Feel Presence'. Huge congratulations! Next, we explain the context of this award and more details on this year's ceremony."
 comments: true
 
@@ -76,7 +76,7 @@ The honorary mention award to Ximena Alarcón Díaz was to recognize her efforts
 
 ## Final remarks
 
-It was nice to see the announcement of the Pamela Z Award for Innovation to Margaret Schedel and honorary mention to Ximena Alarcón Díaz had a considerable impact on social media. This shows not only that the awardees are fully supported in this well deserved recognition, but also that there is a visible change of perspective in NIME. A few days ago, it was announced an open call for the role of NIME diversity officer to develop guidelines and work with future chairs on improving diversity. And the topic of next year's NIME in Birmingham will be accessibility - making musical expression accessible to all. We are glad to see that Pamela Z's award has arrived to stay! Thanks to all those who helped us to make it happen! 
+It was nice to see the announcement of the Pamela Z Award for Innovation to Margaret Schedel and honorary mention to Ximena Alarcón Díaz had a considerable impact on social media. This shows not only that the awardees are fully supported in this well deserved recognition, but also that there is a visible change of perspective in NIME. A few days ago, it was announced an open call for the role of NIME diversity officer to develop guidelines and work with future chairs on improving diversity. And the topic of next year's NIME in Birmingham will be accessibility - making musical expression accessible to all. We are glad to see that Pamela Z's award has arrived to stay! Thanks to all those who helped us to make it happen!
 
 
 ## References
