@@ -9,7 +9,7 @@ In the spirit of other similar directories of women in music tech, such as the [
 <br />
 
 <ul class="post-list directory">
-  {%- for post in site.directory reversed -%}
+  {%- for post in site.directory | sort: 'title' -%}
   <li>
     <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">  
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
