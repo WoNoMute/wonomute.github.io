@@ -7,9 +7,9 @@ excerpt: <strong>Angela Brennecke</strong> is professor of „Audio and Interact
 comments: false
 ---
 
-
+<div class="directory-post">
 {% include image.html max-width="100%" file="/assets/directory/angela-brennecke.jpg" alt="Photo of Angela Brennecke." %}
-
+</div>
 
 ## Bio
 

@@ -7,9 +7,9 @@ excerpt: <strong>Pamela Z</strong> is a composer/performer and media artist who 
 comments: false
 ---
 
-
+<div class="directory-post">
 {% include image.html max-width="100%" file="/assets/directory/pamela-z.jpg" alt="Photo of Pamela Z." %}
-
+</div>
 
 ## Bio
 

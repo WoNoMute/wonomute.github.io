@@ -7,7 +7,9 @@ excerpt: <strong>Ximena Alarcón</strong> is a sound artist researcher intereste
 comments: false
 ---
 
+<div class="directory-post">
 {% include image.html max-width="100%" file="/assets/directory/ximena-alarcon.jpg" alt="Photo of Ximena Alarcón." %}
+</div>
 
 ## Bio
 

@@ -7,9 +7,9 @@ excerpt: <strong>Alexandra Murray-Leslie</strong> is artistic researcher & co-fo
 comments: false
 ---
 
-
+<div class="directory-post">
 {% include image.html max-width="100%" file="/assets/directory/alex-murray-leslie.jpg" alt="Photo of Alex Murray-Leslie." %}
-
+</div>
 
 ## Bio
 
