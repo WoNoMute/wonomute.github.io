@@ -13,7 +13,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
   <ul class="post-list">
-    {%- for post in site.posts limit:1 offset:1 -%}
+    {%- for post in site.posts limit:2 -%}
     <li>
       <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -44,7 +44,7 @@ layout: default
   <!-- INTERVIEWS -->
   {%- if site.interviews.size > 0 -%}
   <ul class="post-list">
-    {%- for post in site.interviews reversed limit:2 offset:4  -%}
+    {%- for post in site.interviews reversed limit:1 offset:5  -%}
     <li>
       <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
