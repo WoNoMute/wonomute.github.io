@@ -3,7 +3,7 @@ layout: post
 title: 10th Anniversary Festival en Tiempo Real - WoNoMute Playlist
 permalink: /blog/10th-anniversary-festival-en-tiempo-real-wonomute-playlist/
 author: Anna Xambó, Karolina Jawad, Ana Maria Romano
-date:   2019-07-09 12:00:00 +0100
+date:   2019-07-10 12:00:00 +0100
 image: "/assets/blog/WoNoMute-Fest-en-Tiempo-Real.jpg"
 categories: post
 excerpt: "This playlist showcases the work of 11 artists from the WoNoMute network: Tone Åse, Natasha Barrett, Ane Bjerkan, Ada Hoel, Liz Dobson, Mari Lesteberg, Gyrid Nordal Kaldestad, Ximena Alarcón Díaz, Anna Xambó, Kristin Nordeval and Alex-Murray Leslie (Chicks on Speed together with Melissa Logan). This playlist celebrates 10 years of the music event Festival en Tiempo Real, and is a collaboration with her director Ana Maria Romano. The sound creations are framed within experimental, glitch, electroacoustic, electronic and contemporary, pieces where there is an encounter with technology (from an open sense). This playlist has been curated by Anna Xambó and Karolina Jawad from Ana Maria Romano's initiative, in collaboration with all the playlist contributors."
