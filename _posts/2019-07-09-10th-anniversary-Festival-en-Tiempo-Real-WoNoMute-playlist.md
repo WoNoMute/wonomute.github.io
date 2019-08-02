@@ -42,7 +42,7 @@ The playlist starts with *Raised, Rave* by Tone Åse and Thomas Strønen from th
 
 We continue with an extract of Natasha Barrett's [*Involuntary Expression*](http://www.natashabarrett.org/Involuntary_Expression.html), an acousmatic composition realised in 6th-order 3D ambisonics commisioned by Notam. In this piece, Barrett explores the theme of human agency. To create the piece, Barrett used a 3D motion-capture camera system to investigate physical movement. The piece travels through unknown territories that are revealed with proficient suspense.
 
-The piece *We Are the Young Ones* by Ane Bjerkan is a self-production with a drum machine and a green bullet through guitar amp. Ane's magnetic voice drives us through a melancholic tone combine with a fresh instrumental beat.
+The piece *We Are the Young Ones* by Ane Bjerkan is a self-production with a drum machine and a green bullet through guitar amp. Ane's magnetic voice drives us through a melancholic tone combined with a fresh instrumental beat.
 
 Next, Ada Hoel's *Under / Time* brightly experiments with ethereal textures of her unique voice and electronic music inspired by underwater aesthetics. The piece was made in Ableton Live with cross-adaptive mixing techniques and there is a fantastic companion [video](https://www.youtube.com/watch?v=IGWvbBqAlX8), which was processed with M4L-plugin RokVid.
 
