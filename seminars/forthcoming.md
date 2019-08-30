@@ -9,7 +9,7 @@ permalink: /seminars/forthcoming/
 <div class="post-content-blog">
 
 <ul class="post-list">
-  {%- for post in site.seminars -%}
+  {%- for post in site.seminars limit:0 -%}
   {% if post.category == "forthcoming" %}
   <li>
   <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
