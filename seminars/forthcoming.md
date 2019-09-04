@@ -4,12 +4,12 @@ title: Forthcoming
 permalink: /seminars/forthcoming/
 ---
 
-## See our [calendar](/seminars/calendar/) for forthcoming talks
+<!-- ## See our [calendar](/seminars/calendar/) for forthcoming talks -->
 
 <div class="post-content-blog">
 
 <ul class="post-list">
-  {%- for post in site.seminars limit:0 -%}
+  {%- for post in site.seminars -%}
   {% if post.category == "forthcoming" %}
   <li>
   <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">

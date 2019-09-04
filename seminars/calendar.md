@@ -14,6 +14,6 @@ permalink: /seminars/calendar/
 * [Pamela Z](/seminars/pamela-z-seminar-talk-mct): Voice and Instruments (4.4.19)
 * [Pamela Z](/seminars/pamela-z-seminar-talk): Works and Processes (8.4.19)
 * [Sofia Dahl](/seminars/sofia-dahl-seminar-talk): Looking at Musical Movements (6.5.19)
-* [Natasha Barrett](https://en.wikipedia.org/wiki/Natasha_Barrett_(composer)) (23.9.19)
+* [Natasha Barrett](/seminars/natasha-barrett-seminar-talk): Composing Tangible Sounds in Space (23.9.19)
 * [Liz Dobson](https://drlizdobson.com/) (14.10.19)
 * [Sølvi Ystad](http://www.prism.cnrs.fr/spip.php?article53&lang=fr) (4.11.19)

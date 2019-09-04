@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Natasha Barrett: Title (23.9.19)"
+title:  "Natasha Barrett: Composing Tangible Sounds in Space (23.9.19)"
 permalink: /seminars/natasha-barrett-seminar-talk
 date:   2019-08-30 20:55:00 +0200
 image: /assets/seminars/natasha-barrett.jpg
