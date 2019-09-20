@@ -6,7 +6,7 @@ permalink: /workshops/
 
 ## 2019-2020
 
-* [WoNoMute Oslo: littleBits Workshop](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2019/littlebits/) by [Tejaswinee Kelkar](/directory-of-wonomute/tejaswinee-kelkar/)(26.8.19)
+* [WoNoMute Oslo: littleBits Workshop](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2019/littlebits/) by [Tejaswinee Kelkar](/directory-of-wonomute/tejaswinee-kelkar/) (26.8.19)
 * [WoNoMute Oslo: Max and Max for Live workshop](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2019/max/) (23.9.19)
 
 
