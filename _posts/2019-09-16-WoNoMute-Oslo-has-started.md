@@ -27,4 +27,4 @@ alt="WoNoMute Oslo" caption="Workshop on littleBits led by Tejaswinee Kelkar org
 
 In the workshop Tejaswinee showed how to build many fun sound and audio 'recipes' from these components and we got a «symphony» of synth sounds filling the room. The participants collaborated in pairs during the workshop, and got small tasks and challenges organized around several small sound-production projects. 
 
-The next workshop will be held the **23rd of October** at IMV in the evening and will be an introduction to Max MSP for beginners. 
+The next workshop will be held the **23rd of September** at IMV in the evening and will be an introduction to Max MSP for beginners. 
