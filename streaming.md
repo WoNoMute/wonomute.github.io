@@ -4,7 +4,7 @@ title: Streaming
 permalink: /streaming/
 ---
 
-## There is no live streaming now...
+<!-- ## There is no live streaming now... -->
 
 ## Please go to [this link](http://tiny.cc/WoNoMute) for the live stream!!! It will start working once we start streaming....
 
