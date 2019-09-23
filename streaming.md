@@ -6,7 +6,7 @@ permalink: /streaming/
 
 <!-- ## There is no live streaming now... -->
 
-## Please go to [this link](http://tiny.cc/WoNoMute) for the live stream!!! It will start working once we start streaming....
+## Please go to [this link: http://tiny.cc/WoNoMute](http://tiny.cc/WoNoMute) for the live stream!!! It will start working once we start streaming....
 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/VhD2UKaGcWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
