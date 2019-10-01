@@ -4,7 +4,7 @@ title:  "Natasha Barrett: Composing Tangible Sounds in Space (23.9.19)"
 permalink: /seminars/natasha-barrett-seminar-talk
 date:   2019-08-30 20:55:00 +0200
 image: /assets/seminars/natasha-barrett.jpg
-category: forthcoming
+category: past
 excerpt: "Space as a musical element underpins many of my compositions, installations and multi-media works. Over the years, more advanced computing resources have allowed me to realise ideas that originally existed only in theory, as well as provide a means to continue the research and application of new approaches to spatio-musical composition."
 comments: true
 ---
