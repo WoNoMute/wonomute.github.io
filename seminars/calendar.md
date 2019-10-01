@@ -15,5 +15,5 @@ permalink: /seminars/calendar/
 * [Pamela Z](/seminars/pamela-z-seminar-talk): Works and Processes (8.4.19)
 * [Sofia Dahl](/seminars/sofia-dahl-seminar-talk): Looking at Musical Movements (6.5.19)
 * [Natasha Barrett](/seminars/natasha-barrett-seminar-talk): Composing Tangible Sounds in Space (23.9.19)
-* [Liz Dobson](https://drlizdobson.com/) (14.10.19)
+* [Liz Dobson](/seminars/liz-dobson-seminar-talk): Interaction, Agency and The Role of Talk in Music Technology Education (14.10.19)
 * [Sølvi Ystad](http://www.prism.cnrs.fr/spip.php?article53&lang=fr) (4.11.19)
