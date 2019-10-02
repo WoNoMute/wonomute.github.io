@@ -52,9 +52,9 @@ A talk hosted at the Department of Music, Norwegian University of Science and Te
 
 **Presenter (Oslo)**: Ane Bjerkan
 
-***Multichannel Audio Mixer (Trondheim)***: Jørgen Varpe
+**Multichannel Audio Mixer (Trondheim)**: Jørgen Varpe
 
-***Multichannel Audio Mixer (Oslo)***: Jarle Folkeson Steinhovden
+**Multichannel Audio Mixer (Oslo)**: Jarle Folkeson Steinhovden
 
 **Multichannel Audio Production (Trondheim)**: Jørgen Varpe, Sepehr Haghighi, Ulrik Antoniussen Halmøy, Simon Rønsholm Sandvik, Tom Ignatius Wee, Magda Futyma, Thibault Jaccard, Shreejay Shrestha, Anders Tveit (supervision)
 
