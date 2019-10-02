@@ -39,11 +39,12 @@ Her work is commissioned, performed and broadcast throughout the world. Active i
 
 <br />
 
+**Please note**: This video presents audio in binaural format. It is recommended to wear headphones.
+
+
 A talk hosted at the Department of Music, Norwegian University of Science and Technology (NTNU) in Trondheim and live streamed through the MCT Portal to the University of Oslo (UiO) and also through YouTube. The audience combines two physical sites (from Oslo and Trondheim) plus online viewers from all over the world.
 
 #### Video Credits
-
-Please note: This video presents audio in binaural format. It is recommended to wear headphones.
 
 **Speaker**: Natasha Barrett
 
