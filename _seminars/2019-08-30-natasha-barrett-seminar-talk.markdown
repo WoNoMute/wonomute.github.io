@@ -32,3 +32,51 @@ The presentation will include real-time examples from my recent work.
 Her inspiration comes from the immediate sounding matter of the world around us, as well as the way it behaves, the way it is generated, and by systems and the traces that those systems reveal. These interests have lead her into worlds of cutting-edge audio technologies, geoscience, sonification, motion tracking and some exciting collaborations leading into the unknown – involving performers and chamber ensembles, visual artists, architects and scientists.
 
 Her work is commissioned, performed and broadcast throughout the world. Active in performance, education and research, she is co-director of the Norwegian spatial-music performance ensemble EAU (Electric Audio Unit) and founder of 3DA (the Norwegian society for 3-D sound-art). She currently holds a professorship at the Norwegian Academy for Music, Oslo.
+
+### Live Stream Recording of the Event
+
+<iframe width="750" height="423" src="https://www.youtube.com/embed/CQhzOM3ZFF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+A talk hosted at the Department of Music, Norwegian University of Science and Technology (NTNU) in Trondheim and live streamed through the MCT Portal to the University of Oslo (UiO) and also through YouTube. The audience combines two physical sites (from Oslo and Trondheim) plus online viewers from all over the world.
+
+#### Video Credits
+
+Please note: This video presents audio in binaural format. It is recommended to wear headphones.
+
+**Speaker**: Natasha Barrett
+
+**Presenters (Trondheim)**: Anna Xambó, Sepehr Haghighi
+
+**Presenter (Oslo)**: Ane Bjerkan
+
+***Multichannel Audio Mixer (Trondheim)***: Jørgen Varpe
+
+***Multichannel Audio Mixer (Oslo)***: Jarle Folkeson Steinhovden
+
+**Multichannel Audio Production (Trondheim)**: Jørgen Varpe, Sepehr Haghighi, Ulrik Antoniussen Halmøy, Simon Rønsholm Sandvik, Tom Ignatius Wee, Magda Futyma, Thibault Jaccard, Shreejay Shrestha, Anders Tveit (supervision)
+
+**Multichannel Audio Production (Oslo)**: Jarle Folkeson Steinhovden, Gaute Dahl Wardenær, Jackson Goode
+Thomas Anda, Rayam Luna, Aleksander Tidemann, Paul Koenig, Guy Sion, Elias Andersen, Sam Roman, Ashane Silva, Anders Tveit (supervision)
+
+**Streaming (Trondheim)**: Eigil Aandahl, Robin Støckert (supervision)
+
+**Camera (Trondheim)**: Shreejay Shrestha, Robin Støckert (supervision)
+
+**Production (Trondheim)**: Karolina Jawad
+
+**Production (Oslo)**: Ane Bjerkan
+
+**Audio processing**: Sepehr Haghighi
+
+**Intro Video**: Karolina Jawad
+
+**Seminar Series Curation**: Anna Xambó
+
+**Acknowledgments**: Anders Tveit, Robin Støckert, Andreas Bergsland, Daniel Formo, Alexander Refsum Jensenius, Stefano Fasciani, Ellen Karlsen Holmås, Maj Vester Larsen
+
+**Supported by**: Norwegian University of Science and Technology (NTNU), University of Oslo (UiO)
+
+**In collaboration with**: Master in Music, Communication and Technology (MCT)
+
