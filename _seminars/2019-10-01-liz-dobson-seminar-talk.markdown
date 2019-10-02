@@ -2,14 +2,14 @@
 layout: post
 title:  "Liz Dobson: Interaction, Agency and The Role of Talk in Music Technology Education (14.10.19)"
 permalink: /seminars/liz-dobson-seminar-talk
-date:   2019-10-01 20:55:00 +0200
+date:   2019-10-01 17:00:00 +0200
 image: /assets/seminars/liz-dobson.jpg
 category: forthcoming
 excerpt: "Human development is mediated through a moment-by-moment relationship with our situation; shaped by cultural contexts, social interactions, and the use of physical tools, which are themselves developed out of the concepts that shape thinking and learning about music. Music Technology education however, is often viewed in terms of how technology is designed and the kinds of learning and creativity that it affords. Empirically, the emphasis is more often around human computer interaction. Drawing on Lev Vygotsky’s work on how our interface with the world shapes higher mental development, I will present a case for understanding the influence of human interaction and community on music technology education."
 comments: true
 ---
 
-**Monday 14 October 2019** // **15:00-16:00** // **2nd Floor (The Portal), Fjordgata 1, 7010 Trondheim** // **The Portal, Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo**
+**Monday 14 October 2019** // **15:00-16:00** // **The Portal, Fjordgata 1 (2nd floor), 7010 Trondheim** // **The Portal, Department of Musicology (ZEB building), Sem Sælands vei 2, 0371 Oslo**
 
 {% include image.html
 max-width="100%" file="/assets/seminars/liz-dobson.jpg" alt="Liz Dobson"
