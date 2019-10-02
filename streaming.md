@@ -13,8 +13,6 @@ permalink: /streaming/
 
 ## Past live streamings...
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/CQhzOM3ZFF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <iframe width="200" height="113" src="https://www.youtube.com/embed/QJBmbiEb8dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="200" height="113" src="https://www.youtube.com/embed/y8PI-E0o6Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -24,3 +22,5 @@ permalink: /streaming/
 <iframe width="200" height="113" src="https://www.youtube.com/embed/mpFSF2PHcFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="200" height="113" src="https://www.youtube.com/embed/v3ql6QMNi4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="200" height="113" src="https://www.youtube.com/embed/CQhzOM3ZFF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
