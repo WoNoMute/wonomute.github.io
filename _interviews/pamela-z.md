@@ -3,7 +3,7 @@ title: An Interview with Pamela Z
 layout: post
 permalink: /interviews/pamela-z/
 author: Tone Åse & Karolina Jawad
-date:   2019-06-13 13:00:00 +0200
+date:   2019-12-13 13:00:00 +0200
 image: /assets/interviews/pamela-z-interview.jpg
 excerpt: "Pamela Z is a composer/performer and media artist who makes solo works combining a wide range of vocal techniques with electronic processing, samples, gesture activated MIDI controllers, and video. She is based in San Fransisco/New York and has toured extensively throughout the US, Europe, and Japan. Her work has been presented at venues and exhibitions including Bang on a Can (NY), the Japan Interlink Festival, Other Minds (SF), the Venice Biennale, and the Dakar Biennale. She’s created installations and has composed scores for dance, film, and chamber ensembles (including Kronos Quartet). Her awards include a Guggenheim Fellowship, the Doris Duke Artist Impact Award, the Robert Rauschenberg Foundation residency, the Herb Alpert Award, and an Ars Electronica honorable mention, and the NEA/Japan-US Fellowship. On her visit to Norway she will do several talks and workshops, (UiO, WoNoMute/NTNU) concerts (Ny Musikk Trondheim, Voxlab Oslo) and also show the installation Sound Gestures at TEKS, Trondheim Electronic Art Center."
 comments: true

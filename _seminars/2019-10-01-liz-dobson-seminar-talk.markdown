@@ -4,7 +4,7 @@ title:  "Liz Dobson: Interaction, Agency and The Role of Talk in Music Technolog
 permalink: /seminars/liz-dobson-seminar-talk
 date:   2019-10-01 17:00:00 +0200
 image: /assets/seminars/liz-dobson.jpg
-category: forthcoming
+category: past
 excerpt: "Human development is mediated through a moment-by-moment relationship with our situation; shaped by cultural contexts, social interactions, and the use of physical tools, which are themselves developed out of the concepts that shape thinking and learning about music. Music Technology education however, is often viewed in terms of how technology is designed and the kinds of learning and creativity that it affords. Empirically, the emphasis is more often around human computer interaction. Drawing on Lev Vygotsky’s work on how our interface with the world shapes higher mental development, I will present a case for understanding the influence of human interaction and community on music technology education."
 comments: true
 ---
