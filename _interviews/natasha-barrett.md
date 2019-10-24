@@ -9,9 +9,9 @@ excerpt: "Natasha Barrett is a composer of acousmatic and live electroacoustic c
 comments: true
 ---
 
-<!-- <div class="videoWrapper">
-<iframe width="750" height="422" src="https://www.youtube.com/embed/SV42EZF3Gx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> -->
+<div class="videoWrapper">
+<iframe width="750" height="422" src="https://www.youtube.com/embed/seYC22_chlI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br />
 
