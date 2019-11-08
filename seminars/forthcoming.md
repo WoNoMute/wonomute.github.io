@@ -6,6 +6,8 @@ permalink: /seminars/forthcoming/
 
 <!-- ## See our [calendar](/seminars/calendar/) for forthcoming talks -->
 
+<em>Coming soon...</em>
+
 <div class="post-content-blog">
 
 <ul class="post-list">

@@ -11,6 +11,14 @@ The forthcoming talks can be checked in the sections of [calendar](/seminars/cal
 <div id="posters">
 
 {% include image.html
+max-width="30%" file="/assets/posters/Soelvi-Ystad-2019-11-04-WoNoMute.jpg" alt="Poster of Sølvi Ystad's talk in Trondheim." url="/seminars/soelvi-ystad-seminar-talk"
+%}
+
+{% include image.html
+max-width="30%" file="/assets/posters/Liz-Dobson-2019-10-14-WoNoMute.jpg" alt="Poster of Liz Dobson's talk in Trondheim." url="/seminars/liz-dobson-seminar-talk"
+%}
+
+{% include image.html
 max-width="30%" file="/assets/posters/Natasha-Barrett-2019-09-23-WoNoMute.jpg" alt="Poster of Natasha Barrett's talk in Trondheim." url="/seminars/natasha-barrett-seminar-talk"
 %}
 

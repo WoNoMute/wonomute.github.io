@@ -4,7 +4,7 @@ title:  "Sølvi Ystad: Perceptual Engineering as a Means to Interpret and Manipu
 permalink: /seminars/soelvi-ystad-seminar-talk
 date:   2019-10-08 17:00:00 +0200
 image: /assets/seminars/soelvi-ystad.jpg
-category: forthcoming
+category: past
 excerpt: "Our environment constantly “talks” to us, and recognizing events from sounds that surround us is generally a trivial task for most people. However, explaining how and why we are able to interpret everyday sounds or musical messages is less trivial. In this presentation, I will describe how we work on such issues and why it is useful to be able to manipulate sounds based on perceptual criteria."
 comments: true
 ---
