@@ -27,3 +27,47 @@ In this talk I will discuss relationships between learning, social capital, coll
 ### Bio
 
 Dr [Elizabeth Dobson](https://drlizdobson.com/) is a National Teaching Fellow of the HEA, and Principle Enterprise Fellow in music technology at The University of Huddersfield, where she teaches modules in sonic arts and electronica, sound for media, computer based composition, and empirical research for musicians. After completing her PhD on social psychology and creativity in music technology education, she founded/co-founded two knowledge-sharing projects: CollabHub, and [Yorkshire Sound Women Network C.I.C.](https://yorkshiresoundwomen.com/), and maintains an ongoing commitment to new interdisciplinary research on inclusive music technology education. Her more recent work include curating a [Sound and Music Electronic Music Production Summer School for girls](https://gocomposehuddersfield.co.uk/), an artist residency at Q-02 in Brussels, and a book chapter, ‘Digital Audio Ecofeminism: The Glocal Impact of All-female Communities on Learning and Sound Creativities’ in L. De Bruin, P. Burnard and S. Davis (Eds.) *Creativities in Arts Education, Research and Practice: Glocalised Perspectives for the Future of Learning and Teaching*.
+
+### Live Stream Recording of the Event
+
+<iframe width="750" height="423" src="https://www.youtube.com/embed/nzeNkR2cokQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Photo thumbnail by Robin Støckert.
+
+A talk hosted at the Department of Music, Norwegian University of Science and Technology (NTNU) in Trondheim and live streamed through the MCT Portal to the University of Oslo (UiO) and also through YouTube. The audience combines two physical sites (from Oslo and Trondheim) plus online viewers from all over the world.
+
+#### Video Credits
+
+**Speaker**: Liz Dobson
+
+**Presenter (Trondheim)**: Anna Xambó
+
+**Presenter (Oslo)**: Ane Bjerkan
+
+**Audio Mixer (Trondheim)**: Jørgen Varpe
+
+**Audio Production (Trondheim)**: Jørgen Varpe, Sepehr Haghighi
+
+**Audio Mixer (Oslo)**: Jarle Folkeson Steinhovden
+
+**Streaming (Trondheim)**: Eigil Aandahl
+
+**Camera (Trondheim)**: Shreejay Shrestha
+
+**Technical Supervision**: Robin Støckert, Anders Tveit
+
+**Production (Trondheim)**: Karolina Jawad
+
+**Production (Oslo)**: Ane Bjerkan
+
+**Audio processing**: Sepehr Haghighi
+
+**Intro Video**: Karolina Jawad
+
+**Seminar Series Curation**: Anna Xambó
+
+**Acknowledgments**: Robin Støckert, Anders Tveit, Alexander Refsum Jensenius, Ellen Karlsen Holmås, Maj Vester Larsen
+
+**Supported by**: Norwegian University of Science and Technology (NTNU), University of Oslo (UiO)
+
+**In collaboration with**: Master in Music, Communication and Technology (MCT)
