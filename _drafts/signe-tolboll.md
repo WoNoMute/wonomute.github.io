@@ -2,7 +2,7 @@
 title: Signe Tolbøll
 layout: post
 permalink: /directory-of-wonomute/signe-tolboll/
-image: /assets/directory/signe-tolboll.jpg
+image: /assets/directory/signe-tolboll-cropped.jpg
 excerpt: <strong>Signe Tolbøll</strong>  composes experimental electronic music and noise under her moniker sihtx. Her works and compositions has always been centered in exploring field recordings and everyday object’s musicality through technology and synthesis. 
 comments: false
 ---
