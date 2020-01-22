@@ -11,7 +11,9 @@ WoNoMute Oslo is arranging free workshops for women/girls/non-binary people at U
 ### WoNoMute Oslo @ Popsenteret, Februar
  
 #### [6. Februar kl. 17 - 19: "Gibber + live coding" med Tejaswinee Kelkar](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/%40popsenteret/Gibber/index.html)
+
 <img src="/assets/workshops/gibber2.png">
+
 Tejaswinee Kelkar holder en workshop om live-coding, med utgangspunkt i Gibber, som er en digital gratis plattform for audiovisuell musikkfremføring og komposisjon.
  
  
@@ -42,8 +44,6 @@ Kursene er gratis og åpent for jenter/kvinner/ikke-binære. Du kan melde deg p�
 
 
 
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ff0dc6&amp;ctz=Europe%2FOslo&amp;src=MDVuc2l2b3NmdDE1OXQzcjBrNGp2dm5wcGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D6AE00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Past workshops:
 
