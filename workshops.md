@@ -10,7 +10,7 @@ WoNoMute Oslo is arranging free workshops for women/girls/non-binary people at U
 
 ### WoNoMute Oslo @ Popsenteret, Februar
  
-#### [6. Februar kl. 17 - 19: "Gibber + live coding" med Tejaswinee Kelkar](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/%40popsenteret/Gibber/index.html)
+#### [6. Februar kl. 17 - 19: "Gibber + live coding" med Tejaswinee Kelkar](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/%40popsenteret/livekoding/index.html)
 
 <img src="/assets/workshops/gibber2.png">
 
