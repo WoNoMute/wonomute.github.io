@@ -10,38 +10,63 @@ WoNoMute Oslo is arranging free workshops for women/girls/non-binary people at U
 
 ### WoNoMute Oslo @ Popsenteret, Februar
  
+ WoNoMute Oslo will in collaboration with [Popsenteret](http://www.popsenteret.no) have three workshops in February:
+ 
 #### [6. Februar kl. 17 - 19: "Gibber + live coding" med Tejaswinee Kelkar](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/%40popsenteret/livekoding/index.html)
 
 <img src="/assets/workshops/gibber2.png">
 
-Tejaswinee Kelkar holder en workshop om live-coding, med utgangspunkt i Gibber, som er en digital gratis plattform for audiovisuell musikkfremføring og komposisjon.
+Tejaswinee Kelkar will hold a workshop about live-coding, basing her workshop on Gibber - a free digital platform for audio visual musical performance and composition.
  
  
-#### 12. februar kl. 17 - 19: "Filosofisk musikkproduksjon" med Pieces of Juno
-Artisten Pieces of Juno, Juno Jensen, holder en presentasjon om idé, konsept og gjennomføring av musikalske prosjekter. 
+#### [12. februar kl. 17 - 19: "Filosofisk musikkproduksjon" med Pieces of Juno](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/Popsenteret/latskriving/index.html)
+
+ <img src="/assets/workshops/juno2.jpg">
  
-#### 20. Februar kl. 17 - 19: "Lag en musikkapp" med Mari Lesteberg 
-Lag en enkel musikk-app ved hjelp av gratisprogrammene Pure Data og MobMuPlat. Ingen forkunnskaper er nødvendig. 
+The artist Pieces of Juno, Juno Jensen will hold a presentation about ideas, concept and accomplishment of musical projects.
+ 
+
+ 
+#### [20. Februar kl. 17 - 19: "Lag en musikkapp" med Mari Lesteberg](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/Popsenteret/musikkapp/index.html)
+
+<img src="/assets/workshops/recordApp2.jpg">
+
+Make a simple music app by using the free software Pure Data and MobMuPlat. No previous knowledges is necessary.
+
+
 
 ### WoNoMute Oslo @ Zeb, Universitetet i Oslo
- 
-#### 12. Mars kl. 17 - 19:  “Introduksjon til en DAW: Digital Audio Workstation” med Jessica Slighter
-Lær grunnleggende lydopptak og redigering i programvaren DAW Reaper.  Workshopen passer for nybegynnere og vil være praktisk rettet.
- 
- 
-#### 13. Mars kl. 17 - 19 “Introduksjon til grunnleggende lydeffekter” med Jessica Slighter
-Sammen med artisten Jessica Slighter vil se på grunnleggende mixing av lyd, hvordan det fungerer og hvordan bruke effektene i DAW Reaper. 
- 
- 
-#### 6. April kl. 17 - 19  “Max for live: Randomiserte trommebeats” med Henrik the Artist
-I denne workshopen går vi praktisk til verks med å lage et instrument som gir deg randomiserte trommebeats i programvaren Max/MSP. Du trenger ikke å ha kjennskap til programmet fra før.
 
-#### 4. Mai kl. 17 - 19 “Sampling i Audacity” med Ane Bjerkan
-I vårens siste workshop vil vi dra ut å gjøre field-recordings som vi senere bruker i open-source plattformen Audacity til å lage samples.
+The rest of the workshops will be held at the University of Oslo.
+ 
+#### [12. Mars kl. 17 - 19:  “Introduksjon til en DAW: Digital Audio Workstation” med Jessica Slighter](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/dawintro/index.html)
+
+<img src="/assets/workshops/unnamed.jpg">
+
+Learn about basic audio recording and editiong in the software DAW Reaper. 
+ 
+#### [13. Mars kl. 17 - 19 “Introduksjon til grunnleggende lydeffekter” med Jessica Slighter](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/daweffects/index.html)
+
+<img src="/assets/workshops/unnamed2.png">
+
+In her second workshop, Slighter will look at basic audio mixing, how it works, and how to use the effects in DAW Reaper.
+
+ 
+ 
+#### [6. April kl. 17 - 19  “Max for live: Randomiserte trommebeats” med Henrik the Artist](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/max-for-live/index.html)
+
+<img src="/assets/workshops/henrik2.png">
+
+In this workshop we will look practially on how to make and instrument that gives you randomized drum bears in the software MAX/MSP. No Pre-knowledges needed. 
 
 
-Kursene er gratis og åpent for jenter/kvinner/ikke-binære. Du kan melde deg på ett eller flere av kursene. Påmelding til anebje@student.imv.uio.no (begrenset antall plasser)
+#### [4. Mai kl. 17 - 19 “Sampling i Audacity” med Ane Bjerkan](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html)
 
+<img src="/assets/workshops/ane-bjerkan2.jpg">
+
+In the last workshop of the spring, we will go out and do field recordings that we will later use in the open source platform Audacity to make samples.
+
+All workshops are free and open for girls, women and non-binary people from 18 years and older. You can sign up to one or more of the courses. Sign up by sending an email to: anebje@student.imv.uio.no (limited open spaces).
 
 
 
