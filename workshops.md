@@ -62,7 +62,7 @@ In this workshop we will look practially on how to make and instrument that give
 
 #### [4. Mai kl. 17 - 19 “Sampling i Audacity” med Ane Bjerkan](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html)
 
-<img src="/assets/workshops/ane-bjerkan2.jpg">
+<img src="/assets/workshops/ane-bjerkan2.png">
 
 In the last workshop of the spring, we will go out and do field recordings that we will later use in the open source platform Audacity to make samples.
 
