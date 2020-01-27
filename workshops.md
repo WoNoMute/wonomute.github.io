@@ -39,17 +39,17 @@ Make a simple music app by using the free software Pure Data and MobMuPlat. No p
 
 The rest of the workshops will be held at the University of Oslo.
  
-#### [12. Mars kl. 17 - 19:  “Introduksjon til en DAW: Digital Audio Workstation” med Jessica Slighter](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/dawintro/index.html)
+#### [12. Mars kl. 17 - 19:  “Introduksjon til en DAW: Digital Audio Workstation” med Jessica Sligter](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/dawintro/index.html)
 
 <img src="/assets/workshops/unnamed.jpg">
 
 Learn about basic audio recording and editiong in the software DAW Reaper. 
  
-#### [13. Mars kl. 17 - 19 “Introduksjon til grunnleggende lydeffekter” med Jessica Slighter](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/daweffects/index.html)
+#### [13. Mars kl. 17 - 19 “Introduksjon til grunnleggende lydeffekter” med Jessica Sligter](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/daweffects/index.html)
 
 <img src="/assets/workshops/unnamed2.png">
 
-In her second workshop, Slighter will look at basic audio mixing, how it works, and how to use the effects in DAW Reaper.
+In her second workshop, Sligter will look at basic audio mixing, how it works, and how to use the effects in DAW Reaper.
 
  
  
