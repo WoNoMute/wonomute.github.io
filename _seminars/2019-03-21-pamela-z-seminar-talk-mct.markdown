@@ -30,3 +30,46 @@ Pamela Z's performances range in scale from small concerts in galleries to large
 ### Bio
 
 [Pamela Z](http://pamelaz.com) is a composer/performer and media artist who makes solo works combining a wide range of vocal techniques with electronic processing, samples, gesture activated MIDI controllers, and video. She is based in San Fransisco/New York and has toured extensively throughout the US, Europe, and Japan. Her work has been presented at venues and exhibitions including Bang on a Can (NY), the Japan Interlink Festival, Other Minds (SF), the Venice Biennale, and the Dakar Biennale. She's created installations and has composed scores for dance, film, and chamber ensembles (including Kronos Quartet). Her awards include a Guggenheim Fellowship, the Doris Duke Artist Impact Award, the Robert Rauschenberg Foundation residency, the Herb Alpert Award, and an Ars Electronica honorable mention, and the NEA/Japan-US Fellowship. On her visit to Norway she will do several talks and workshops, (UiO, WoNoMute/NTNU) concerts (Ny Musikk Trondheim, Voxlab Oslo) and also show the installation Sound Gestures at TEKS, Trondheim Electronic Art Center.
+
+### Recording of the Event
+
+<iframe width="750" height="423" src="https://www.youtube.com/embed/NllnKqF-zYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+Tone Åse curated Pamela Z’s visit in Norway organising two talks at NTNU and UiO (WoNoMute talk and MCT4046 talk), the exhibition “Sonic Gestures” at Trondheim Electronic Arts Centre (with Espen Gangvik), and three concerts: a concert with Pamela Z, Sten Sandell and Tone Åse at Dokkhuset (Ny Musikk Trondheim), a concert with Pamela Z, Sten Sandell and Tone Åse at Melahuset (Voxlab spring festival, Oslo) and a solo concert at Vega Scene (Voxlab spring festival, Oslo).
+
+A talk hosted at the Department of Musicology, University of Oslo in Oslo and live streamed through the MCT Portal to the Norwegian University of Science and Technology (NTNU). The audience combines two physical sites (from Oslo and Trondheim). 
+
+This talk was part of the MCT4046 Sonification and Sound Design Seminar Series - Spring 2019.
+
+#### Video Credits
+
+**Speaker**: Pamela Z
+
+**Facilitator**: Tone Åse
+
+**Video series**: MCT4046 Sonification and Sound Design Seminar Series - Spring 2019
+
+**Video production**: MCT students 2018-2020
+
+**Video recording**: Shreejay Shrestha, Guy Sion
+
+**Audio recording**: Jørgen Nygård Varpe
+
+**A/V editing & processing**: Sepehr Haghighi
+
+**Design**: Karolina Jawad
+
+**Music**: Sepehr Haghighi
+
+**Technical support**: Robin Støckert, Anders Tveit, Alexander Refsum Jensenius
+
+**Administration**: Maj Vester Larsen
+
+**Consultant**: Sigurd Saue
+
+**Seminar Series Curation**: Anna Xambó
+
+Recorded in NTNU Trondheim 2019
+
