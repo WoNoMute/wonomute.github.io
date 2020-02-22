@@ -3,7 +3,7 @@ title: An Interview with Sølvi Ystad
 layout: post
 permalink: /interviews/soelvi-ystad/
 author: Karolina Jawad
-date:   2020-02-2 12:15:00 +0200
+date:   2020-02-22 12:15:00 +0200
 image: /assets/interviews/soelvi-ystad-talk-photo-by-Robin-Stockert.jpg
 excerpt: "Photo by Robin Støckert. Sølvi Ystad received her degree as a civil engineer in electronics from NTH (Norges Tekniske Høgskole), Trondheim, Norway in 1992. In 1998 she received a joint Ph.D. degree labeled « European PhD Thesis » from NTNU, Trondheim and from the University of Aix-Marseille II, Marseille. After a post doctoral stay at the University of Stanford - CCRMA, California, she obtained a researcher position at the CNRS (Centre National de la Recherche Scientifique) in Marseille, in 2002. She co-founded the interdisciplinary art-science laboratory PRISM - Perception, Representations, Image, Sound, Music – (2017) in Marseille and the Master program “Acoustics and Musicology” (2018) at the Aix-Marseille University."
 comments: true
@@ -60,7 +60,9 @@ I can't really think of anything for the time being.
 
 ## Thank you!
 
-### References
+---
 
-*"Sound Modeling using a Combination of Physical and Signal Models"*, PhD thesis from the University Aix-Marseille II and the University of Trondheim (NTNU), March 11th 1998.
+## References
+
+*Ystad, Sølvi (March 11th 1998) ["Sound Modeling using a Combination of Physical and Signal Models"](/assets/files/Ystad_PhDThesis.pdf)*. PhD thesis. University Aix-Marseille II and the University of Trondheim (NTNU).
 

@@ -3,7 +3,7 @@ title: An Interview with Liz Dobson
 layout: post
 permalink: /interviews/liz-dobson/
 author: Karolina Jawad
-date:   2020-02-12 12:00:00 +0200
+date:   2020-02-21 12:00:00 +0200
 image: /assets/interviews/liz-dobson-interview.jpg
 excerpt: "Dr Elizabeth Dobson is a National Teaching Fellow of the HEA, and Principle Enterprise Fellow in music technology at The University of Huddersfield, where she teaches modules in sonic arts and electronica, sound for media, computer based composition, and empirical research for musicians. After completing her PhD on social psychology and creativity in music technology education, she founded/co-founded two knowledge-sharing projects: CollabHub, and Yorkshire Sound Women Network C.I.C., and maintains an ongoing commitment to new interdisciplinary research on inclusive music technology education."
 comments: true

@@ -13,7 +13,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
   <ul class="post-list">
-    {%- for post in site.posts limit:2 -%}
+    {%- for post in site.posts limit:0 -%}
     <li>
       <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -46,7 +46,7 @@ layout: default
   <!-- INTERVIEWS -->
   {%- if site.interviews.size > 0 -%}
   <ul class="post-list">
-    {%- for post in site.interviews reversed limit:1 offset:6  -%}
+    {%- for post in site.interviews reversed limit:3 offset:7  -%}
     <li>
       <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -74,7 +74,7 @@ layout: default
   <!-- SEMINARS -->
   <ul class="post-list">
     {% for post in site.seminars %}
-    {% if post.categories contains 'forthcoming' limit:2 %}
+    {% if post.categories contains 'forthcoming' limit:0 %}
     <li>
     <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

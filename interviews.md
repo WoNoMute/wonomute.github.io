@@ -5,7 +5,7 @@ permalink: /interviews/
 ---
 
 <ul class="post-list">
-  {%- for post in site.interviews reversed limit:7  -%}
+  {%- for post in site.interviews reversed limit:10  -%}
   <li>
     <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">  
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

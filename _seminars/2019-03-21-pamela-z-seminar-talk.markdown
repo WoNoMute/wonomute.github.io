@@ -31,7 +31,7 @@ Pamela has a large production of works of different formats and concepts: voice 
 <iframe width="750" height="423" src="https://www.youtube.com/embed/v3ql6QMNi4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
-
+ 
 Tone Åse curated Pamela Z’s visit in Norway organising two talks at NTNU and UiO (WoNoMute talk and MCT4046 talk), the exhibition “Sonic Gestures” at Trondheim Electronic Arts Centre (with Espen Gangvik), and three concerts: a concert with Pamela Z, Sten Sandell and Tone Åse at Dokkhuset (Ny Musikk Trondheim), a concert with Pamela Z, Sten Sandell and Tone Åse at Melahuset (Voxlab spring festival, Oslo) and a solo concert at Vega Scene (Voxlab spring festival, Oslo).
 
 A talk hosted at the Department of Music, Norwegian University of Science and Technology (NTNU) in Trondheim and live streamed through the MCT Portal to the University of Oslo (UiO) and also through YouTube. The audience combines two physical sites (from Oslo and Trondheim) plus online viewers from all over the world.
