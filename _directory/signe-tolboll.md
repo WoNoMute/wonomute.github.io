@@ -20,5 +20,5 @@ Signe Heinfelt Tolbøll composes experimental electronic music and noise under h
 
 
 * https://sihtx.bandcamp.com/
-* https://www.instagram.com/siht.x/
+* https://www.instagram.com/sih.tx
 
