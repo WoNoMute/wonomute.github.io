@@ -15,10 +15,6 @@ toc:
     subfolderitems:
       - page: Calendar
         url: /workshops/calendar/
-      - page: Forthcoming
-        url: /workshops/forthcoming/
-      - page: Past
-        url: /workshops/past/
   - title: Blog
     url: /blog/
   - title: Directory
