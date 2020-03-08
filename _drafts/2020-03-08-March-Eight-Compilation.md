@@ -12,7 +12,7 @@ comments: true
 ---
 
 
-We are devoting today’s celebration to the women who have fought for 100 years for equal rights, visibility and social justice across the globe.
+We are devoting today’s celebration to the women who have fought for 100 years for [equal rights](https://www.theguardian.com/theguardian/from-the-archive-blog/2012/mar/08/clara-zetkin-international-womens-day), visibility and [social justice](https://time.com/5187268/international-womens-day-history/) across the globe.
 
 Let’s keep up the struggle! 
 
