@@ -23,4 +23,4 @@ WoNoMute network members along with some favorite tracks. We aimed for diversity
 the day below. 
 
 
-[![March Eight Compilation 2020]("/assets/blog/var1.jpg")](https://www.youtube.com/watch?v=zKISwVQh7oA&list=PLNjR_YNj6xHdfxIuPNPTgO1wo-4JuxCLN "March Eight Compilation 2020")
+[![March Eight Compilation 2020]("/assets/blog/var1.jpg")](https://www.youtube.com/playlist?list=PLNjR_YNj6xHdfxIuPNPTgO1wo-4JuxCLN "March Eight Compilation 2020")
