@@ -22,5 +22,4 @@ To promote the music of women composers, music technologists and more, we have t
 WoNoMute network members along with some favorite tracks. We aimed for diversity and exchange, feel free to comment your favorite track of 
 the day below. 
 
-
-<iframe src="https://www.youtube.com/playlist?list=PLNjR_YNj6xHdfxIuPNPTgO1wo-4JuxCLN" width="640" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLNjR_YNj6xHdfxIuPNPTgO1wo-4JuxCLN" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
