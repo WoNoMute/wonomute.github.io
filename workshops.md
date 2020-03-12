@@ -37,7 +37,11 @@ Make a simple music app by using the free software Pure Data and MobMuPlat. No p
 
 ### WoNoMute Oslo @ Zeb, Universitetet i Oslo
 
-The rest of the workshops will be held at the University of Oslo.
+The rest of the workshops will be held at the University of Oslo. 
+
+_UPDATE, 12 MARCH 2020_ 
+#### Because of the Corona Virus (Covid-19), there will be some changes in our workshop plan this spring. From the 12th of March, we are not allowed to facilitate arrangmements on the University of Oslo campus. The first two workshops with Jessica Sligter will be arranged digitally, on the ZOOM.us platform, where anyone can participate from home. But we will have to postpone the workshops until week 12, because of practical considerations. We will keep you updated on all platforms, and those who have signed up on the workshops will get informed by mail.
+
  
 #### [12. Mars kl. 17 - 19:  “Introduksjon til en DAW: Digital Audio Workstation” med Jessica Sligter](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/dawintro/index.html)
 
