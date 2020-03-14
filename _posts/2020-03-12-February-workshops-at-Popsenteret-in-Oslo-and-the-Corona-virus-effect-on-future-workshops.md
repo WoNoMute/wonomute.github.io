@@ -53,5 +53,5 @@ We are of course sad that we won’t be able to arrange our events in a normal m
 <figure style="">
    <img src="/assets/img/workshops-kaffe.JPG"
       alt=""/>
-   <figcaption>It's sad that we can't offer the in-real-life workshops anymore, but at least we have the option of doing it online.</figcaption>
+   <figcaption>It's sad that we can't offer the in-real-life workshops in the current situation, but at least we have the option of doing it online.</figcaption>
 </figure>
