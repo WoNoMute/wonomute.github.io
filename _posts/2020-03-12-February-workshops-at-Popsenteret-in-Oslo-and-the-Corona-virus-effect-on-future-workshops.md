@@ -1,7 +1,7 @@
 ---
 layout: post
 title: February workshops at Popsenteret in Oslo and the Corona virus’ effect on future workshops
-permalink: /blog/February-workshops-at-Popsenteret-in-Oslo-and-the-Corona-virus-effect-on-future-workshops/
+permalink: /blog/2020-03-12-February-workshops-at-Popsenteret-in-Oslo-and-the-Corona-virus-effect-on-future-workshops/
 author: Ane Bjerkan and Mari Lesteberg
 date:   2020-03-14 17:00:00 +0100
 image: "/assets/img/workshop-tejaswinee.JPG"
@@ -26,7 +26,7 @@ comments: true
 [Tejaswinee Kelkar](http://wonomute.no/directory-of-wonomute/tejaswinee-kelkar/) held a workshop on live-coding in [Gibber](https://gibber.cc/), a creative coding environment for audiovisual performance and composition. It contains features for audio synthesis and musical sequencing, 2d drawing, 3d scene construction and manipulation, and live-coding shaders. Ten participants came to join a fun and interesting lecture with Kelkar, working on making their own ideas into musical interactive pieces.
 
 
-<figure style="float:left;margin-right:15px;max-width:40%">
+<figure style="float:left;margin-right:15px;max-width:50%">
    <img src="/assets/img/workshop-Juno.png"
       alt="From WoNoMute Instagram Stories"/>
    <figcaption>Juno Jensen, aka Pieces of Juno, from WoNoMute's Instagram Stories</figcaption>
@@ -34,7 +34,7 @@ comments: true
 
 The week after [Juno Jensen](https://www.junojensen.com/), aka Pieces of Juno, held a lecture where she shared her methods of working with the album series Kalopsia, Tacenda, Metanoia og Euthymia (The last one soon to be released). She presented her way connecting her work with philosophy and yoga during the process and shared her advices on how to work with music from ideas into a finished record, both with the music, visuals, live concepts and also with the label KOSO. It was a pure inspirational lecture and the participants stayed after the workshop, sharing ideas and challenges in their own processes. 
 
-<figure style="">
+<figure style="float:right;margin-right:15px;max-width:50%">
 <img src ="/assets/img/workshop-Mari.jpg"
       alt="Mari Lesteberg, photo by Tara Maria Rolfsen"/>
    <figcaption>Mari Lesteberg, photo by Tara Maria Rolfsen</figcaption>
