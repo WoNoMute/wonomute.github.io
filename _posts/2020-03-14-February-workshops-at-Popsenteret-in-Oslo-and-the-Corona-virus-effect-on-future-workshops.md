@@ -1,7 +1,7 @@
 ---
 layout: post
 title: February workshops at Popsenteret in Oslo and the Corona virus’ effect on future workshops
-permalink: /blog/2020-03-12-February-workshops-at-Popsenteret-in-Oslo-and-the-Corona-virus-effect-on-future-workshops/
+permalink: /blog/2020-03-14-February-workshops-at-Popsenteret-in-Oslo-and-the-Corona-virus-effect-on-future-workshops/
 author: Ane Bjerkan and Mari Lesteberg
 date:   2020-03-14 17:00:00 +0100
 image: "/assets/img/workshop-tejaswinee.JPG"
