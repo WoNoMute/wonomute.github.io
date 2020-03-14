@@ -12,8 +12,6 @@ comments: true
 ---
 
 
-## February workshops at Popsenteret in Oslo and the Corona virus’ effect on future workshops
-
 [The spring program for WoNoMute Oslo](http://wonomute.no/workshops/calendar/) consists of seven workshops and the first ones were held at [Popsenteret](http://www.popsenteret.no), Norway's capital-based interactive museum of popular music.
 
 {% include image.html
