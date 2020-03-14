@@ -24,7 +24,7 @@ max-width="100%" file="/assets/img/workshop-tejaswinee.JPG" alt="Tejaswinee Kelk
 [Tejaswinee Kelkar](http://wonomute.no/directory-of-wonomute/tejaswinee-kelkar/) held a workshop on live-coding in [Gibber](https://gibber.cc/), a creative coding environment for audiovisual performance and composition. It contains features for audio synthesis and musical sequencing, 2d drawing, 3d scene construction and manipulation, and live-coding shaders. Ten participants came to join a fun and interesting lecture with Kelkar, working on making their own ideas into musical interactive pieces.
 
 
-<figure style="float:left;max-width:50%">
+<figure style="float:right;max-width:50%">
    <img src="/assets/img/workshop-Juno.png"
       alt="From WoNoMute Instagram Stories"/>
    <figcaption>Juno Jensen, aka Pieces of Juno, from WoNoMute's Instagram Stories</figcaption>
