@@ -1,23 +1,44 @@
 ---
 layout: post
-title: Ferbruary workshops at Popsenteret in Oslo and the Corona virus’ effect on future workshops
-permalink: /blog/WoNoMute-Oslo-has-started/
-author: Ane Bjerkan
-date:   2019-09-16 12:00:00 +0100
-image: "/assets/blog/wonomute_oslo_introduction.jpg"
+title: February workshops at Popsenteret in Oslo and the Corona virus’ effect on future workshops
+permalink: /blog/February-workshops-at-Popsenteret-in-Oslo-and-the-Corona-virus-effect-on-future-workshops/
+author: Ane Bjerkan and Mari Lesteberg
+date:   2020-03-14 17:00:00 +0100
+image: "/assets/img/workshop-tejaswinee.JPG"
 categories: post
-excerpt: "This semester there will be workshops hosted by WoNoMute Oslo at the Department of Musicology (IMV) and other locations in Oslo. The semester was introduced by a «sandboxing» activity the 14th of august, where students could come by and try various technology, such as Max, littleBits and other new gadgets that is developing at RITMO. There the students were also introduced to WoNoMute and the coming lectures for the semester and the workshops that during this Fall semester and the next Spring semester in 2020, will be held every month."
+excerpt: "The spring program for WoNoMute Oslo consists of seven workshops and the first ones were held at Popsenteret, Norway's capital-based interactive museum of popular music. The next four workshops were intended to be arranged at the Department of Musicology at the University of Oslo. However, after the outbreak of the Corona virus (COVID-19) in Norway, all events at the University of Oslo have been canceled, currently until the 14 of April. But we have a plan ..."
 comments: true
 
 ---
 
+
 ## February workshops at Popsenteret in Oslo and the Corona virus’ effect on future workshops
 
-[The spring program for WoNoMute Oslo](http://wonomute.no/workshops/calendar/) consists of seven workshops and the first ones were held at [Popsenteret](http://www.popsenteret.no), Norway`s capital-based interactive museum of popular music.
+[The spring program for WoNoMute Oslo](http://wonomute.no/workshops/calendar/) consists of seven workshops and the first ones were held at [Popsenteret](http://www.popsenteret.no), Norway's capital-based interactive museum of popular music.
+
+<figure style="">
+   <img src="/assets/img/workshop-tejaswinee.JPG"
+      alt="Tejaswinee Kelkar"/>
+   <figcaption>Tejaswinee Kelkar</figcaption>
+</figure>
+
 
 [Tejaswinee Kelkar](http://wonomute.no/directory-of-wonomute/tejaswinee-kelkar/) held a workshop on live-coding in [Gibber](https://gibber.cc/), a creative coding environment for audiovisual performance and composition. It contains features for audio synthesis and musical sequencing, 2d drawing, 3d scene construction and manipulation, and live-coding shaders. Ten participants came to join a fun and interesting lecture with Kelkar, working on making their own ideas into musical interactive pieces.
 
+
+<figure style="float:left;margin-right:15px;max-width:40%">
+   <img src="/assets/img/workshop-Juno.png"
+      alt="From WoNoMute Instagram Stories"/>
+   <figcaption>Juno Jensen, aka Pieces of Juno, from WoNoMute's Instagram Stories</figcaption>
+</figure>
+
 The week after [Juno Jensen](https://www.junojensen.com/), aka Pieces of Juno, held a lecture where she shared her methods of working with the album series Kalopsia, Tacenda, Metanoia og Euthymia (The last one soon to be released). She presented her way connecting her work with philosophy and yoga during the process and shared her advices on how to work with music from ideas into a finished record, both with the music, visuals, live concepts and also with the label KOSO. It was a pure inspirational lecture and the participants stayed after the workshop, sharing ideas and challenges in their own processes. 
+
+<figure style="">
+<img src ="/assets/img/workshop-Mari.jpg"
+      alt="Mari Lesteberg, photo by Tara Maria Rolfsen"/>
+   <figcaption>Mari Lesteberg, photo by Tara Maria Rolfsen</figcaption>
+</figure>
 
 The last workshop was held by [Mari Lesteberg](http://wonomute.no/directory-of-wonomute/mari-lesteberg/), who teached how to make a music-app in the programs [Pure Data (PD)](https://puredata.info/) and [MobMuPlat](http://danieliglesia.com/mobmuplat/). PD was used to program music and sound, with digital effects, synths and sound installations. The visuals for the app was made in MobMuPlat Editor. After the workshop all participants had a new, self-made, music app on their phones. Mari has made some great tutorials for learning this at home, that you can find here:
 
@@ -37,3 +58,9 @@ The positive side of this is that now, geographically speaking, _anyone_ can sig
 [The two first workshops](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/dawintro/index.html) with [Jessica Sligter](https://open.spotify.com/artist/48iIbouLgLgL2jeZQ7OaTO) , have been postponed and will be arranged digitally in _week 12_, more information on which days and which time will come later. All participants are informed via e-mail.
 
 We are of course sad that we won’t be able to arrange our events in a normal manner, but at the same time we are glad that the virus outbreak is taken seriously by the University of Oslo, and that they take extra cautiousness in this extraordinary situation.
+
+<figure style="">
+   <img src="/assets/img/workshops-kaffe.JPG"
+      alt=""/>
+   <figcaption>It's sad that we can't offer the in-real-life workshops anymore, but at least we have the option of doing it online.</figcaption>
+</figure>
