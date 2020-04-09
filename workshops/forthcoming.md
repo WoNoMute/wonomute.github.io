@@ -1,3 +1,10 @@
+---
+layout: page
+title: Calendar
+permalink: /workshops/forthcoming/
+---
+
+
 ## Forthcoming
 
 * [WoNoMute Oslo: “Sampling i Audacity”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html) by [Ane Bjerkan](/directory-of-wonomute/ane-bjerkan/) (4.5.20)
