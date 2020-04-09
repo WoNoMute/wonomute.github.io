@@ -9,14 +9,13 @@ permalink: /workshops/calendar/
 _UPDATE, 9 APRIL 2020_ 
 #### Because of the Corona Virus (Covid-19), all of our workshops will be arranged digitally, on the ZOOM.us platform, where anyone can participate from home. The two workshops with Jessica Sligter has been postponed to 22 and 23 April. 
 
-* [WoNoMute Oslo: “Sampling i Audacity”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html) by [Ane Bjerkan](/directory-of-wonomute/ane-bjerkan/) (4.5.20)
+* DIGITAL WORKSHOP: [WoNoMute Oslo: “Sampling i Audacity”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html) by [Ane Bjerkan](/directory-of-wonomute/ane-bjerkan/) (4.5.20)
 
-* _[WoNoMute Oslo: “Introduksjon til grunnleggende lydeffekter”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/daweffects/index.html) by [Jessica Sligter](https://open.spotify.com/artist/48iIbouLgLgL2jeZQ7OaTO) (23.4.20)
+* DIGITAL WORKSHOP: [WoNoMute Oslo: “Introduksjon til grunnleggende lydeffekter”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/daweffects/index.html) by [Jessica Sligter](https://open.spotify.com/artist/48iIbouLgLgL2jeZQ7OaTO) (23.4.20)
 
-* _[WoNoMute Oslo: “Introduksjon til en DAW: Digital Audio Workstation”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/dawintro/index.html) by [Jessica Sligter](https://open.spotify.com/artist/48iIbouLgLgL2jeZQ7OaTO) (22.4.20)
+* DIGITAL WORKSHOP: [WoNoMute Oslo: “Introduksjon til en DAW: Digital Audio Workstation”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/dawintro/index.html) by [Jessica Sligter](https://open.spotify.com/artist/48iIbouLgLgL2jeZQ7OaTO) (22.4.20)
 
-
-* [WoNoMute Oslo: “Max for live: Randomiserte trommebeats”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/max-for-live/index.html) by [Henrik the Artist](https://www.facebook.com/henriktheartist) (6.4.20)
+* DIGITAL WORKSHOP: [WoNoMute Oslo: “Max for live: Randomiserte trommebeats”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/max-for-live/index.html) by [Henrik the Artist](https://www.facebook.com/henriktheartist) (6.4.20)
 
 * [WoNoMute @Popsenteret: “Lag en musikk-app!”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/Popsenteret/musikkapp/index.html) by [Mari Lesteberg](/directory-of-wonomute/mari-lesteberg/) (20.2.20)
 
