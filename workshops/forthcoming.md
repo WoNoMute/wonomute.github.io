@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calendar
+title: Forthcoming
 permalink: /workshops/forthcoming/
 ---
 
