@@ -40,29 +40,27 @@ Make a simple music app by using the free software Pure Data and MobMuPlat. No p
 The rest of the workshops will be held at the University of Oslo. 
 
 _UPDATE, 12 MARCH 2020_ 
-#### Because of the Corona Virus (Covid-19), there will be some changes in our workshop plan this spring. From the 12th of March, we are not allowed to facilitate arrangmements on the University of Oslo campus. The first two workshops with Jessica Sligter will be arranged digitally, on the ZOOM.us platform, where anyone can participate from home. But we will have to postpone the workshops until week 12, because of practical considerations. We will keep you updated on all platforms, and those who have signed up on the workshops will get informed by mail.
+#### Because of the Corona Virus (Covid-19), there will be some changes in our workshop plan this spring. From the 12th of March, we are not allowed to facilitate arrangmements on the University of Oslo campus. The remaining workshops will be arranged digitally, and the two workshops with Jessica Sligter were postponed to 22 and 23 April (also digitally).
 
+#### [6. April kl. 17 - 19  “Max for live: Randomiserte trommebeats” med Henrik the Artist](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/max-for-live/index.html)
+
+<img src="/assets/workshops/henrik2.png">
+
+In this workshop we will look practially on how to make and instrument that gives you randomized drum bears in the software MAX/MSP. No Pre-knowledges needed. 
  
-#### [12. Mars kl. 17 - 19:  “Introduksjon til en DAW: Digital Audio Workstation” med Jessica Sligter](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/dawintro/index.html)
+#### [22. april kl. 17 - 19:  “Introduksjon til en DAW: Digital Audio Workstation” med Jessica Sligter](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/dawintro/index.html)
 
 <img src="/assets/workshops/unnamed.jpg">
 
 Learn about basic audio recording and editiong in the software DAW Reaper. 
  
-#### [13. Mars kl. 17 - 19 “Introduksjon til grunnleggende lydeffekter” med Jessica Sligter](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/daweffects/index.html)
+#### [23. april kl. 17 - 19 “Introduksjon til grunnleggende lydeffekter” med Jessica Sligter](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/daweffects/index.html)
 
 <img src="/assets/workshops/unnamed2.png">
 
 In her second workshop, Sligter will look at basic audio mixing, how it works, and how to use the effects in DAW Reaper.
 
  
- 
-#### [6. April kl. 17 - 19  “Max for live: Randomiserte trommebeats” med Henrik the Artist](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/max-for-live/index.html)
-
-<img src="/assets/workshops/henrik2.png">
-
-In this workshop we will look practially on how to make and instrument that gives you randomized drum bears in the software MAX/MSP. No Pre-knowledges needed. 
-
 
 #### [4. Mai kl. 17 - 19 “Sampling i Audacity” med Ane Bjerkan](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html)
 
