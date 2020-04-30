@@ -60,9 +60,18 @@ Learn about basic audio recording and editiong in the software DAW Reaper.
 
 In her second workshop, Sligter will look at basic audio mixing, how it works, and how to use the effects in DAW Reaper.
 
- 
 
-#### [4. Mai kl. 17 - 19 “Sampling i Audacity” med Ane Bjerkan](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html)
+#### [7. Mai kl. 17 - 19 “Live-streaming your own concert” with Dana Swarbrick](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/live-streaming/index.html
+l)
+
+<img src="https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/live-streaming/wonomute-workshop-promo.png">
+
+Dana Swarbrick will lead a web workshop on how to record and stream audio performances with free and open-source software. A highly applicable workshop in these corona restricted days. The seminar is free and open for those who identifies as women and non-binary.
+
+
+All workshops are free and open for girls, women and non-binary people from 18 years and older. You can sign up to one or more of the courses. Sign up by sending an email to: anebje@student.imv.uio.no (limited open spaces).
+
+#### [14. Mai kl. 17 - 19 “Sampling i Audacity” med Ane Bjerkan](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html)
 
 <img src="/assets/workshops/ane-bjerkan2.png">
 
