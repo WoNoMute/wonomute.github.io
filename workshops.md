@@ -61,8 +61,7 @@ Learn about basic audio recording and editiong in the software DAW Reaper.
 In her second workshop, Sligter will look at basic audio mixing, how it works, and how to use the effects in DAW Reaper.
 
 
-#### [7. Mai kl. 17 - 19 “Live-streaming your own concert” with Dana Swarbrick](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/live-streaming/index.html
-l)
+#### [7. Mai kl. 17 - 19 “Live-streaming your own concert” with Dana Swarbrick](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/live-streaming/index.html)
 
 <img src="https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/live-streaming/wonomute-workshop-promo.png">
 
