@@ -74,7 +74,7 @@ All workshops are free and open for girls, women and non-binary people from 18 y
 
 <img src="/assets/workshops/ane-bjerkan2.png">
 
-In the last workshop of the spring, we will go out and do field recordings that we will later use in the open source platform Audacity to make samples.
+In the last workshop of the spring, we will use the open source platform Audacity to make samples. We will work with samples and learn how to use some of the different effects in the program. 
 
 All workshops are free and open for girls, women and non-binary people from 18 years and older. You can sign up to one or more of the courses. Sign up by sending an email to: anebje@student.imv.uio.no (limited open spaces).
 
