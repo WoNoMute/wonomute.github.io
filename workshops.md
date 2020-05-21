@@ -70,7 +70,7 @@ Dana Swarbrick will lead a web workshop on how to record and stream audio perfor
 
 All workshops are free and open for girls, women and non-binary people from 18 years and older. You can sign up to one or more of the courses. Sign up by sending an email to: anebje@student.imv.uio.no (limited open spaces).
 
-#### [14. Mai kl. 17 - 19 “Sampling i Audacity” med Ane Bjerkan](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html)
+#### [27. Mai kl. 17 - 19 “Sampling i Audacity” med Ane Bjerkan](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html)
 
 <img src="/assets/workshops/ane-bjerkan2.png">
 
