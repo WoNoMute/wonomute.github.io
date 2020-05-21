@@ -9,7 +9,7 @@ permalink: /workshops/calendar/
 _UPDATE, 9 APRIL 2020_ 
 #### Because of the Corona Virus (Covid-19), all of our workshops will be arranged digitally, on the ZOOM.us platform, where anyone can participate from home. The two workshops with Jessica Sligter has been postponed to 22 and 23 April. 
 
-* DIGITAL WORKSHOP: [WoNoMute Oslo: “Sampling i Audacity”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html) by [Ane Bjerkan](/directory-of-wonomute/ane-bjerkan/) (14.5.20)
+* DIGITAL WORKSHOP: [WoNoMute Oslo: “Sampling i Audacity”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html) by [Ane Bjerkan](/directory-of-wonomute/ane-bjerkan/) (27.5.20)
 
 * DIGITAL WORKSHOP: [WoNoMute Oslo: “Live-streaming your own concert”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/live-streaming/index.html) by [Dana Swarbrick](https://danaswarbrick.com/) (7.5.20)
 
