@@ -39,7 +39,7 @@ But when you're sitting around a table and you're talking about technology, peop
 max-width="100%" file="/assets/interviews/rebekah-wilson-photo-by-Anna-Xambo.jpg" alt="From left to right: Rebekah Wilson and Karolina Jawad during the interview. Photo by Anna Xambó."
 caption="From left to right: Rebekah Wilson and Karolina Jawad during the interview. Photo by Anna Xambó." %}
 
-## Do did you had a role model or mentor?
+## Do you had a role model or mentor?
 
 I have an amazing mentor, who has been really instrumental to me to help guide my own learning and development. Her name is [Caroline Nevejan](https://nevejan.org) and she is the Chief Science Officer of Amsterdam. When I met her she was doing her PhD as a sociologist, and I learned a lot about what it means how we perform together when we are not in the same room. A lot of my research has been based on hers insights. I'm really interested in theory and I bring it into my own work, use the ideas for my research.
 
