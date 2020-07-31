@@ -3,9 +3,9 @@ title: An Interview with Rebecca Fiebrink
 layout: post
 permalink: /interviews/rebecca-fiebrink/
 author: Karolina Jawad
-date:   2020-07-20 12:15:00 +0200
-image: /assets/interviews/rebekah-wilson-photo-by-Shreejay-Shrestha.jpg
-excerpt: "Photo by Shreejay Shrestha. Rebecca Fiebrink is a Reader in the Creative Computing Institute at University of the Arts London. Rebecca Fiebrink gave the keynote talk "Machine learning as (Meta-) instrument" at the International Conference on Live Interfaces 2020 at Rockheim in Trondheim, Norway. We had the opportunity to talk with Rebecca Fiebrink during her visit."
+date:   2020-07-31 12:15:00 +0200
+image: /assets/interviews/Rebecca-Fiebrink-photo-by-Shreejay-Shrestha-2.jpg
+excerpt: "Photo by Shreejay Shrestha. Rebecca Fiebrink is a Reader in the Creative Computing Institute at University of the Arts London. Rebecca Fiebrink gave the keynote talk 'Machine learning as (Meta-) instrument' at the International Conference on Live Interfaces 2020 at Rockheim in Trondheim, Norway. We had the opportunity to talk with Rebecca Fiebrink during her visit."
 comments: true
 ---
 
