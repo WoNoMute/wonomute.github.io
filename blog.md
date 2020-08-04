@@ -4,9 +4,10 @@ title: Blog
 permalink: /blog/
 ---
 
+<!-- Remove offset once OK blog post -->
 <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
 <ul class="post-list">
-  {%- for post in site.posts -%}
+  {%- for post in site.posts offset:1 -%}
   <li>
     <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
