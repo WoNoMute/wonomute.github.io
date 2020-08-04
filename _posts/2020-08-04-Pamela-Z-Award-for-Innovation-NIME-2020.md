@@ -26,20 +26,15 @@ The shortlisted papers especially showed collaborative practises among people wi
  The musical interface presented in the paper ***"Felt Sound: A Shared Musical Experience for the Deaf and Hard of Hearing"*** uses American Sign Language,  so non-musical communicative gestures feature as input alongside musical gestures (see Figure 1). It is a movement-based digital music instrument, specifically designed for inclusive  performance. It aims to provide a shared musical experience for both deaf and hard of hearing individuals and those who are not. Those hard of hearing are able to physically experience the vibrations, nuances, contours, as well as their correspondences with the hand gestures while those who are not hard of hearing can also experience the sound. The same physical vibrations are shared by everyone. Enabling shared experiences among people with diverse abilities shows how we can benefit from and contribute to increased accessibility, inclusivity, and collaboration. 
 
 {% include image.html
-max-width="100%" file="/assets/blog/cavdir_mapping.jpg" alt="Figure 1. Gesture-to-Sound Mapping (Cavdir & Wang, 2020)" caption="Figure 1. Gesture-to-Sound Mapping (Cavdir & Wang, 2020)" %}
+max-width="100%" file="/assets/blog/cavdir_mapping.jpg" alt="Figure 1. Gesture-to-Sound Mapping (Cavdir & Wang, 2020)." caption="Figure 1. Gesture-to-Sound Mapping (Cavdir & Wang, 2020)." %}
 
 
 ### The Honorary Mention
 ***"Encoding the Khipu_"*** is a work that imbues a historical, information processing artefact with tangible computing affordances to elicit narratives that symbolically restore and vindicate ancestral Andean memories. The khipu was an information processing and transmission device used by the Incas and previous Andean societies. 
 According to Patricia Cadavid, Western reading and vision of Khipus would be obsessed with establishing numerical and mathematical logics in them and turning them into codes without a message.
 
-
-<figure style="">
-   <img src="/assets/blog/khipu_cadavid.jpg"
-      alt=""/>
-   <figcaption>Figure 2. Left: Ancient Andean Khipu. Right: Electronic Khipu (Cadavid Hinojosa, 2020).</figcaption>
-</figure>
-
+{% include image.html
+max-width="100%" file="/assets/blog/khipu_cadavid.jpg" alt="Figure 2. Left: Ancient Andean Khipu. Right: Electronic Khipu (Cadavid Hinojosa, 2020)." caption="Figure 2. Left: Ancient Andean Khipu. Right: Electronic Khipu (Cadavid Hinojosa, 2020)." %}
 
 
 By creating a musical instrument (see Figure 2), Patricia Cadavid is not only sharing her knowledge about  old instruments, but is also expanding this numerical logic with musical meaning. Cadavid calls the electronic khipu a tangible live coding interface since the khipu, even transformed into a NIME, would still be a computer and the sound results would vary in real time according to the coding made by the knotwork and the different values produced when the strings are tightened. Its decolonial aesthetic opens NIME up to powerful questions of cultural agency and historical perspectives.
