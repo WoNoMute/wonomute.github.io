@@ -28,26 +28,26 @@ were free to choose the format in which they present their work or tell about th
 * **[Sam Topley](https://youtu.be/OPeOOSOwby0)**, Leicester UK  
 samantha-topley.co.uk
 
-* [Mari Lesteberg](https://youtu.be/7kFzhMh_28U), Oslo NO  
+* **[Mari Lesteberg](https://youtu.be/7kFzhMh_28U)**, Oslo NO  
 suburbansavages.bandcamp.com  
 youtube.com/c/MariLesteberg  
 
-* [Paule Perrier](https://youtu.be/CuMNB_U2ZsY), Berlin DE  
+* **[Paule Perrier](https://youtu.be/CuMNB_U2ZsY)**, Berlin DE  
 pauleperrier.com  
 resurgencedunon.bandcamp.com
 
-* [Reiko Yamada](https://youtu.be/FNmyTurBlRU), Barcelona ES  
+* **[Reiko Yamada](https://youtu.be/FNmyTurBlRU)**, Barcelona ES  
 reikoyamada.com  
 
-* [Caro C](https://youtu.be/YAjvbvnzCHg), Manchester UK  
+* **[Caro C](https://youtu.be/YAjvbvnzCHg)**, Manchester UK  
 carosnatch.com  
 
-* [Simona Zamboli](https://youtu.be/hzZsr5RTD3U), Milan IT  
+* **[Simona Zamboli](https://youtu.be/hzZsr5RTD3U)**, Milan IT  
 simonazamboli.com  
 simonazamboli.bandcamp.com  
 
-* [Ane Bjerkan](https://youtu.be/iVS5m_aW_8s), Oslo NO  
+* **[Ane Bjerkan](https://youtu.be/iVS5m_aW_8s)**, Oslo NO  
 anebjerkan.space  
 
-* [Joni Mok](https://youtu.be/NuZugsBUJv4), Oslo NO  
+* **[Joni Mok](https://youtu.be/NuZugsBUJv4)**, Oslo NO  
 instagram.com/aurstic 
