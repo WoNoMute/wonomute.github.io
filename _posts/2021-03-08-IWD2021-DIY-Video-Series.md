@@ -21,7 +21,7 @@ were free to choose the format in which they present their work or tell about th
 #### The Playlist:
 
 
-<iframe width="720" height="415" src="https://www.youtube.com/watch?v=OPeOOSOwby0&list=PLNjR_YNj6xHf94ZVee93IJFfjQ_FtkH22" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PLNjR_YNj6xHf94ZVee93IJFfjQ_FtkH22" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### In order of appearance: 
 
