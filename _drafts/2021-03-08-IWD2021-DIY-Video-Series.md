@@ -34,7 +34,7 @@ suburbansavages.bandcamp.com
 youtube.com/c/MariLesteberg  
 
 * [Paule Perrier](https://youtu.be/CuMNB_U2ZsY), Berlin DE  
-pauleperrier.com 
+pauleperrier.com  
 resurgencedunon.bandcamp.com
 
 * [Reiko Yamada](https://youtu.be/FNmyTurBlRU), Barcelona ES  
