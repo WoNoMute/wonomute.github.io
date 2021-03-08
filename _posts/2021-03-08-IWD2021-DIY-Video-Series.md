@@ -21,7 +21,7 @@ were free to choose the format in which they present their work or tell about th
 #### The Playlist:
 
 
-<iframe width="720" height="415" src="https://www.youtube.com/embed/playlist?list=PLNjR_YNj6xHf94ZVee93IJFfjQ_FtkH22" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="415" src="https://www.youtube.com/embed/playlist?list=PLNjR_YNj6xHewak8TeEtuwA9DesIQbS4A" frameborder="0" allowfullscreen></iframe>
 
 #### In order of appearance: 
 
@@ -32,14 +32,14 @@ samantha-topley.co.uk
 suburbansavages.bandcamp.com  
 youtube.com/c/MariLesteberg  
 
-* **[Paule Perrier](https://youtu.be/CuMNB_U2ZsY)**, Berlin DE  
+* **[Paule Perrier](https://youtu.be/jOSRUVJ2PQ4)**, Berlin DE  
 pauleperrier.com  
 resurgencedunon.bandcamp.com
 
-* **[Reiko Yamada](https://youtu.be/FNmyTurBlRU)**, Barcelona ES  
+* **[Reiko Yamada](https://youtu.be/_07yNcyDSbY)**, Barcelona ES  
 reikoyamada.com  
 
-* **[Caro C](https://youtu.be/YAjvbvnzCHg)**, Manchester UK  
+* **[Caro C](https://youtu.be/7YfUJacpHxk)**, Manchester UK  
 carosnatch.com  
 
 * **[Simona Zamboli](https://youtu.be/hzZsr5RTD3U)**, Milan IT  
