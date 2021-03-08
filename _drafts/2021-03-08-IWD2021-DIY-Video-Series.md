@@ -47,8 +47,8 @@ carosnatch.com
 simonazamboli.com  
 simonazamboli.bandcamp.com  
 
-* Ane Bjerkan, Oslo NO  
+* [Ane Bjerkan](https://youtu.be/iVS5m_aW_8s), Oslo NO  
 anebjerkan.space  
 
-* Joni Mok, Oslo NO  
+* [Joni Mok](https://youtu.be/NuZugsBUJv4), Oslo NO  
 instagram.com/aurstic 
