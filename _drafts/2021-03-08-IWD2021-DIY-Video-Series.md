@@ -30,13 +30,25 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 samantha-topley.co.uk
 
 * [Mari Lesteberg](https://youtu.be/7kFzhMh_28U), Oslo NO  
+suburbansavages.bandcamp.com  
+youtube.com/c/MariLesteberg  
 
 * [Paule Perrier](https://youtu.be/CuMNB_U2ZsY), Berlin DE  
+pauleperrier.com 
+resurgencedunon.bandcamp.com
 
 * [Reiko Yamada](https://youtu.be/FNmyTurBlRU), Barcelona ES  
+reikoyamada.com  
 
 * [Caro C](https://youtu.be/YAjvbvnzCHg), Manchester UK  
+carosnatch.com  
 
 * [Simona Zamboli](https://youtu.be/hzZsr5RTD3U), Milan IT  
+simonazamboli.com  
+simonazamboli.bandcamp.com  
+
 * Ane Bjerkan, Oslo NO  
-* Joni Mok, Oslo NO
+anebjerkan.space  
+
+* Joni Mok, Oslo NO  
+instagram.com/aurstic 
