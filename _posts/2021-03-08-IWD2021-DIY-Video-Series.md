@@ -25,7 +25,7 @@ were free to choose the format in which they present their work or tell about th
 
 #### In order of appearance: 
 
-* [Sam Topley](https://youtu.be/OPeOOSOwby0), Leicester UK  
+* **[Sam Topley](https://youtu.be/OPeOOSOwby0)**, Leicester UK  
 samantha-topley.co.uk
 
 * [Mari Lesteberg](https://youtu.be/7kFzhMh_28U), Oslo NO  
