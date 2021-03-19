@@ -23,4 +23,4 @@ The workshop will be held by singer/songwriter, Ane Bjerkan, from the peninsula 
 
 
 ### How do I attend?
-<strong><a href="https://nettskjema.no/a/192767#/page/1">Register here</a></strong></p>
+<strong><a href="https://nettskjema.no/a/192767#/page/1">Register here</a></strong>

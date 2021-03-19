@@ -25,4 +25,4 @@ Mari Lesteberg is a singer/keyboardist, composer and music technologist. She is 
 
 
 ### How do I attend?
-<strong><a href="https://nettskjema.no/a/192793#/page/1">Register here</a></strong></p>
+<strong><a href="https://nettskjema.no/a/192793#/page/1">Register here</a></strong>

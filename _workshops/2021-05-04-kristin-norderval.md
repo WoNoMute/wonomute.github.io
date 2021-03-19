@@ -27,4 +27,4 @@ Using ambient sound recordings as sources in your music can give it a unique fla
 Recording your improvisations in site specific locations together with ambient sound creates something even more special.  A one and only unique creation!   
 
 ### How do I attend?
-<strong><a href="https://nettskjema.no/a/192772#/page/1">Register here</a></strong></p>
+<strong><a href="https://nettskjema.no/a/192772#/page/1">Register here</a></strong>

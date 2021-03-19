@@ -53,4 +53,4 @@ We kindly ask the participants to have the required software downloaded and inst
 Stephanie Merchak is a Lebanese/Belgian sound designer, composer, improviser and live performer with an academic background in music from the Higher National Music Conservatory in Beirut, Lebanese university/Pedagogy Faculty and USEK university/Musicology Faculty.
 
 ### How do I attend?
-<strong><a href="https://nettskjema.no/a/192743#/page/1">Register here</a></strong></p>
+<strong><a href="https://nettskjema.no/a/192743#/page/1">Register here</a></strong>
