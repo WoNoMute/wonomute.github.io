@@ -9,7 +9,7 @@ excerpt: "In this workshop we will talk about recording your own vocals at home 
 comments: true
 ---
 
-**13 April 2021** // **18:00-20:00** // **On Zoom** 
+**13 April 2021** // **18:00-20:00** // **On Zoom** // <strong><a href="https://nettskjema.no/a/192767#/page/1">Register here</a></strong>
 
 {% include image.html
 max-width="100%" file="/assets/workshops/ane.jpeg" alt="Ane Bjerkan"

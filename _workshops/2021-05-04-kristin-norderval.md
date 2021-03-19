@@ -9,7 +9,7 @@ excerpt: "In this workshop Kristin Norderval will introduce basics of field reco
 comments: true
 ---
 
-**4 May 2021** // **18:00-20:00** // **Outdoors activity, location will be announced** 
+**4 May 2021** // **18:00-20:00** // **Outdoors activity, location will be announced** // <strong><a href="https://nettskjema.no/a/192772#/page/1">Register here</a></strong>
 
 {% include image.html
 max-width="100%" file="/assets/directory/kristin-norderval.jpg" alt="Kristin Norderval"
