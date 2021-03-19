@@ -4,10 +4,6 @@ title: Forthcoming
 permalink: /workshops/forthcoming/
 ---
 
-<!-- ## See our [calendar](/seminars/calendar/) for forthcoming talks -->
-
-<em></em>
-
 <div class="post-content-blog">
 
 <ul class="post-list">
@@ -32,6 +28,7 @@ permalink: /workshops/forthcoming/
       »Read more
     </a></strong>
   </p>
+  
   </li>
   {% endif %}
   {%- endfor -%}
