@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Past
-permalink: /workshops/past
+permalink: /workshops/past/
 ---
 
 WoNoMute Oslo is arranging free workshops for women/girls/non-binary people at UiO and other venues.
