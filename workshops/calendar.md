@@ -15,9 +15,9 @@ permalink: /workshops/calendar/
 
 * PHYSICAL, OUTDOORS WORKSHOP: [Introduction to Soundwalks and Site Specific Field Recording](http://wonomute.no/workshops/kristin-norderval-workshop) by [Kristin Norderval](/directory-of-wonomute/kristin-norderval/) (04.5.21)
 
-* DIGITAL WORKSHOP: [Web Audio API and Tone.js](http://wonomute.no/workshops/mari-lesteberg-workshop) by [Mari Lesteberg](/directory-of-wonomute/mari-lesteberg/) (11.5.20)
+* DIGITAL WORKSHOP: [Web Audio API and Tone.js](http://wonomute.no/workshops/mari-lesteberg-workshop) by [Mari Lesteberg](/directory-of-wonomute/mari-lesteberg/) (11.5.21)
 
-* DIGITAL WORKSHOP: [UX Design meets music technology](http://wonomute.no/workshops/joni-mok-workshop) by [Joni Mok](/directory-of-wonomute/joni-mok/) (25.5.20)
+* DIGITAL WORKSHOP: [UX Design meets music technology](http://wonomute.no/workshops/joni-mok-workshop) by [Joni Mok](/directory-of-wonomute/joni-mok/) (25.5.21)
 
 
 ## 2020
