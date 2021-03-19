@@ -3,7 +3,7 @@ layout: post
 title:  "WoNoMute @Popsenteret: 'Gibber + live coding' med Tejaswinee Kelkar (6.2.20)"
 permalink: /workshops/tejaswinee-kelkar-workshop-talk
 date:   2020-02-06 17:00:00 +0200
-image: assets/workshops/gibber2.png
+image: /assets/workshops/gibber2.png
 category: past
 excerpt: "Tejaswinee Kelkar holder en workshop i live-coding, med utgangspunkt i Gibber, som er en digital gratis plattform for audiovisuell musikkfremføring og komposisjon. "
 comments: true

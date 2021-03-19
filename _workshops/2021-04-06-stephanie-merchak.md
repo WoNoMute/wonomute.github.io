@@ -3,7 +3,7 @@ layout: post
 title:  "WoNoMute: Making music using everyday sounds and free tools with Stephanie Merchak"
 permalink: /workshops/stephanie-merchak-workshop
 date:   2021-04-06 18:00:00 +0200
-image: assets/workshops/stephanie.jpeg
+image: /assets/workshops/stephanie.jpeg
 category: forthcoming
 excerpt: "WoNoMute is back with the free workshops for women and girls! In this workshop, we will use the free version of Tracktion’s Waveform and produce a track using sounds from everyday life (sounds from flipping the pages of a book, mouse click, clinking glass etc). The final project and the samples will be provided. The workshop will be held on Zoom."
 comments: true
