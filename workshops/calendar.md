@@ -4,6 +4,22 @@ title: Calendar
 permalink: /workshops/calendar/
 ---
 
+## 2021
+
+
+* DIGITAL WORKSHOP: [WoNoMute: Making music using everyday sounds and free tools](http://wonomute.no/workshops/stephanie-merchak-workshop) by [Stephanie Merchak](/directory-of-wonomute/stephanie-merchak/) (06.04.21)
+
+* DIGITAL WORKSHOP: [WoNoMute: Recording and producing your own vocals](http://wonomute.no/workshops/ane-bjerkan-workshop) by [Ane Bjerkan](/directory-of-wonomute/ane-bjerkan/) (13.04.21)
+
+* A workshop by Alena Clim will be announced later (20.04.21)
+
+* PHYSICAL, OUTDOORS WORKSHOP: [WoNoMute: Introduction to Soundwalks and Site Specific Field Recording](http://wonomute.no/workshops/kristin-norderval-workshop) by [Kristin Norderval](/directory-of-wonomute/kristin-norderval/) (04.5.21)
+
+* DIGITAL WORKSHOP: [WoNoMute Oslo: “Sampling i Audacity”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html) by [Ane Bjerkan](/directory-of-wonomute/ane-bjerkan/) (27.5.20)
+
+* DIGITAL WORKSHOP: [WoNoMute Oslo: “Sampling i Audacity”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html) by [Ane Bjerkan](/directory-of-wonomute/ane-bjerkan/) (27.5.20)
+
+
 ## 2020
 
 _UPDATE, 9 APRIL 2020_ 

@@ -6,7 +6,7 @@ permalink: /workshops/forthcoming/
 
 <!-- ## See our [calendar](/seminars/calendar/) for forthcoming talks -->
 
-<em>Coming soon...</em>
+<em></em>
 
 <div class="post-content-blog">
 
