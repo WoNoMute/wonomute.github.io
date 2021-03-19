@@ -9,7 +9,7 @@ excerpt: "WoNoMute is back with the free workshops for women and girls! In this 
 comments: true
 ---
 
-**6 April 2021** // **18:00-20:00** // **On Zoom** 
+**6 April 2021** // **18:00-20:00** // **On Zoom** // <strong><a href="https://nettskjema.no/a/192743#/page/1">Register here</a></strong>
 
 {% include image.html
 max-width="100%" file="/assets/workshops/stephanie.jpeg" alt="Tracktion's Waveform"

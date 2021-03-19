@@ -27,7 +27,7 @@ This year, all of our workshops are aimed at beginners, and there is a limited n
 
 We hope that people who perhaps have not discovered their interest in music technology yet will grab this chance to widen their horizons and learn something new! This year there will be a wide variety in subjects, and we will have a couple of workshops where the use of voice is central. As this has been requested as a topic from our attendees at earlier workshops. 
 
-For those of you who consider themself as not a beginner in music tech: You are of course also welcome!
+For those of you who *not* consider themself as beginners in music tech: You are of course also welcome!
 
 ## The program: 
 
