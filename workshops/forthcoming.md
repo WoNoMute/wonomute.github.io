@@ -4,11 +4,37 @@ title: Forthcoming
 permalink: /workshops/forthcoming/
 ---
 
+<!-- ## See our [calendar](/seminars/calendar/) for forthcoming talks -->
 
-## Forthcoming
+<em>Coming soon...</em>
 
-* [WoNoMute Oslo: “Sampling i Audacity”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/sampling-i-audacity/index.html) by [Ane Bjerkan](/directory-of-wonomute/ane-bjerkan/) (4.5.20)
+<div class="post-content-blog">
 
-* [WoNoMute Oslo: “Introduksjon til grunnleggende lydeffekter”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/daweffects/index.html) by [Jessica Sligter](https://open.spotify.com/artist/48iIbouLgLgL2jeZQ7OaTO) (23.4.20)
+<ul class="post-list">
+  {%- for post in site.workshops -%}
+  {% if post.category == "forthcoming" %}
+  <li>
+  <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <span class="post-meta">{{ post.date | date: date_format }}</span>
+    <!-- <span class="post-meta">• <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">"{{ post.url | relative_url }}"</a></span>    -->
+    <h3>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
+    <h4><em>Workshop</em></h4>
+    <p class="excerpt-text">
+    {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+    {%- endif -%}
+    <strong><a href="{{ post.url | relative_url }}">
+      »Read more
+    </a></strong>
+  </p>
+  </li>
+  {% endif %}
+  {%- endfor -%}
+</ul>
 
-* [WoNoMute Oslo: “Introduksjon til en DAW: Digital Audio Workstation”](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2020/dawintro/index.html) by [Jessica Sligter](https://open.spotify.com/artist/48iIbouLgLgL2jeZQ7OaTO) (22.4.20)
+</div>
