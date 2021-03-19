@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WoNoMute Workshops 2021
-permalink: /blog/2020-03-14-February-workshops-at-Popsenteret-in-Oslo-and-the-Corona-virus-effect-on-future-workshops/
+permalink: /blog/2021-03-19-wonomute-workshops-2021/
 author: Mari Lesteberg
 date:   2021-03-19 13:00:00 +0100
 image: "/assets/blog/workshops-2021.jpeg"
@@ -10,6 +10,10 @@ excerpt: "We are happy to announce that WoNoMute is back with our workshop serie
 comments: true
 
 ---
+
+{% include image.html
+max-width="100%" file="/assets/blog/workshops-2021.jpeg" alt="Workshops 2021"
+caption="Workshops 2021" %}
 
 We are happy to announce that WoNoMute is back with our [workshop series](http://wonomute.no/workshops/forthcoming/) for people who identify as women!
 
@@ -25,7 +29,7 @@ We hope that people who perhaps have not discovered their interest in music tech
 
 For those of you who consider themself as not a beginner in music tech: You are of course also welcome!
 
-The program: 
+## The program: 
 
 * DIGITAL WORKSHOP: [Making music using everyday sounds and free tools](http://wonomute.no/workshops/stephanie-merchak-workshop) by [Stephanie Merchak](/directory-of-wonomute/stephanie-merchak/) (06.04.21)
 
