@@ -3,7 +3,7 @@ layout: post
 title:  "WoNoMute: Recording and producing your own vocals with Ane Bjerkan"
 permalink: /workshops/ane-bjerkan-workshop
 date:   2021-04-13 18:00:00 +0200
-image: /assets/workshops/ane.jpeg
+image: /assets/workshops/ane2.jpeg
 category: forthcoming
 excerpt: "In this workshop we will talk about recording your own vocals at home and we’ll look at different opportunities in regards of DAWs (digital audio workstations), set-ups and microphones. The workshop will be held on Zoom."
 comments: true
