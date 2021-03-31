@@ -11,7 +11,7 @@ permalink: /workshops/calendar/
 
 * DIGITAL WORKSHOP: [Recording and producing your own vocals](http://wonomute.no/workshops/ane-bjerkan-workshop) by [Ane Bjerkan](/directory-of-wonomute/ane-bjerkan/) (13.04.21)
 
-* A workshop by Alena Clim will be announced later (20.04.21)
+* DIGITAL WORKSHOP: [Motion tracking and analysis: Video Analysis](http://wonomute.no/workshops/alena-clim-workshop) by [Alena Clim](/directory-of-wonomute/alena-clim/)(20.04.21)
 
 * PHYSICAL, OUTDOORS WORKSHOP: [Introduction to Soundwalks and Site Specific Field Recording](http://wonomute.no/workshops/kristin-norderval-workshop) by [Kristin Norderval](/directory-of-wonomute/kristin-norderval/) (04.5.21)
 
