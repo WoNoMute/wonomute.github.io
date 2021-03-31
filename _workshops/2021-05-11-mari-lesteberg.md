@@ -9,7 +9,7 @@ excerpt: "In this workshop, you will learn to create a simple musical instrument
 comments: true
 ---
 
-**13 April 2021** // **18:00-20:00** // **On Zoom** // <strong><a href="https://nettskjema.no/a/192793#/page/1">Register here</a></strong>
+**11 May 2021** // **18:00-20:00** // **On Zoom** // <strong><a href="https://nettskjema.no/a/192793#/page/1">Register here</a></strong>
 
 {% include image.html
 max-width="100%" file="/assets/workshops/mari.jpeg" alt="Mari Lesteberg"
