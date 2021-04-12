@@ -21,7 +21,7 @@ caption="" %}
 
 Are you tired of working from home and the constant Zoom-meetings? Why not to take a musical break with us on 26th April at 11.00 (GMT +1)? It is a telematic concert between two locations in Norway.
 
-Listening to music can have a lot of benefit to our bodies. It’s not a magic cure, and it doesn’t give your immune system an immediate boost. However, research shows that music can boost our immune systems. Many researchers argue that your favourite tunes could actually be more effective than popping gummy vitamins in the long run, precisely because music induces relaxation! We can't guarantee that we are playing your favourite songs, but we want to bring you to the space. :)
+Listening to music can have a lot of benefit to our bodies. It’s not a magic cure, and it doesn’t give your immune system an immediate boost. However, many researchers argue that your favourite tunes could actually be more effective than popping gummy vitamins in the long run, precisely because music induces relaxation! We can't guarantee that we are playing your favourite songs, but we want to bring you to the space. :)
 
 
 
