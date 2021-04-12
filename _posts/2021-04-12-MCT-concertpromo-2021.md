@@ -4,7 +4,7 @@ title: Take a break. Add some music to your vitamins.
 permalink: /blog/2021-04-12-MCT-concertpromo-2021
 author: Joni Mok
 date:   2021-04-12 13:00:00 +0100
-image: "/assets/blog/MCT_concert_add.jpg"
+image: "/assets/img/MCT_concert_add.jpg"
 categories: post
 excerpt: "MCT invites you to take a musical break. "
 comments: true
@@ -15,7 +15,7 @@ comments: true
 
 {% include image.html
 max-width="100%" file="/assets/img/MCT_concert_add.jpg" alt=""
-caption="Wireframe" %}
+caption="" %}
 
 ### Vitamin Music.
 
