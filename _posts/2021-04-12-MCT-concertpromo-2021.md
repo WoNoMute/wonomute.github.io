@@ -28,4 +28,4 @@ Listening to music can have a lot of benefit to our bodies. It’s not a magic c
 
 ### MCT:
 
-We are a team of 11 people from diverse background. We play music together in the space, it is because we think it is one of the future possibilities. We are located in two locations and 400km apart from each other.
+We are a team of 11 people from diverse background. We play music together in the space, it is because we think it is one of the future possibilities. We are located in Oslo and Trondheim. So, we are 400km apart from each other.
