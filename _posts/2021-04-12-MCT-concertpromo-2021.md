@@ -11,7 +11,7 @@ comments: true
 
 ---
 
-**26 April 2021** // **11:00-12:00 (GMT +1 )** // **On Youtube** // <strong><a href="https://www.youtube.com/channel/UCRWv7-fkWIKiYxm-iQrdV1w">Join here</a></strong>
+**26 April 2021** // **11:00-12:00 (GMT +1 )** // **On Youtube** // <strong><a href="http://mct-master.github.io/live">Join here</a></strong>
 
 {% include image.html
 max-width="100%" file="/assets/img/MCT_concert_add.jpg" alt=""
