@@ -5,7 +5,7 @@ permalink: /interviews/astrid-bin/
 author: Karolina Jawad
 date:   2021-05-31 12:15:00 +0200
 image: /assets/interviews/Rebecca-Fiebrink-photo-by-Shreejay-Shrestha-2.jpg
-excerpt: "Photo by Shreejay Shrestha. Rebecca Fiebrink is a Reader in the Creative Computing Institute at University of the Arts London. Rebecca Fiebrink gave the keynote talk 'Machine learning as (Meta-) instrument' at the International Conference on Live Interfaces 2020 at Rockheim in Trondheim, Norway. We had the opportunity to talk with Rebecca Fiebrink during her visit."
+excerpt: "Photo by Astrid Bin. Astrid Bin is a Reader in the Creative Computing Institute at University of the Arts London. Rebecca Fiebrink gave the keynote talk 'Machine learning as (Meta-) instrument' at the International Conference on Live Interfaces 2020 at Rockheim in Trondheim, Norway. We had the opportunity to talk with Rebecca Fiebrink during her visit."
 comments: true
 ---
 
@@ -17,7 +17,7 @@ caption="Closeup of Rebecca Fiebrink during her keynote presentation at the Inte
 
 ## What is your background?
 
-My background is both as a computer scientist and a musician. I grew up playing flute and piano, classically trained. I thought for many years that I would become a classical musician but then discovered computer programming when I was a teenager. And that took me on a path spending many years in undergrad and in grad school thinking about how I wanted to combine those two sets of interests. Today I have a PhD in computer science, but I teach in a creative computing institute and I work primarily with creative practitioners.
+My background is both as a programmer and a musician. I grew up playing flute and piano, classically trained. I thought for many years that I would become a classical musician but then discovered computer programming when I was a teenager. And that took me on a path spending many years in undergrad and in grad school thinking about how I wanted to combine those two sets of interests. Today I have a PhD in computer science, but I teach in a creative computing institute and I work primarily with creative practitioners.
 
 {% include image.html
 max-width="100%" file="/assets/interviews/Rebecca-Fiebrink-photo-by-Shreejay-Shrestha.jpg" alt="Rebecca Fiebrink during her keynote presentation at the International Conference on Live Interfaces (March 10, 2020). Photo by Shreejay Shrestha."
