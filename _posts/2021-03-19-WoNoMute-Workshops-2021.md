@@ -6,7 +6,7 @@ author: Mari Lesteberg
 date:   2021-03-19 13:00:00 +0100
 image: "/assets/blog/workshops-2021.jpeg"
 categories: post
-excerpt: "We are happy to announce that WoNoMute is back with our workshop series for people who identify as women! From our experience over the past two years, we have learned that there is a need for a safe space for women and girls to learn about music and technology. It’s not a secret that the field of music and technology (or technology in general) still is very dominated by men. "
+excerpt: "We are happy to announce that WoNoMute is back with our workshop series for people who identify as women and non-binary! From our experience over the past two years, we have learned that there is a need for a safe space for women and girls to learn about music and technology. It’s not a secret that the field of music and technology (or technology in general) still is very dominated by men. "
 comments: true
 
 ---
@@ -15,7 +15,7 @@ comments: true
 max-width="100%" file="/assets/blog/workshops-2021.jpeg" alt="Workshops 2021"
 caption="Workshops 2021" %}
 
-We are happy to announce that WoNoMute is back with our [workshop series](http://wonomute.no/workshops/forthcoming/) for people who identify as women!
+We are happy to announce that WoNoMute is back with our [workshop series](http://wonomute.no/workshops/forthcoming/) for people who identify as women or non-binary!
 
 From our experience over the past two years, we have learned that there is a need for a safe space for women and girls to learn about music and technology. It’s not a secret that the field of music and technology (or technology in general) still is very dominated by men. I think many of those of us who identify as female experience a kind of lonesomeness as we often experience to be the only female in a group when we are about to learn about technology related stuff.
 
@@ -27,7 +27,7 @@ This year, all of our workshops are aimed at beginners, and there is a limited n
 
 We hope that people who perhaps have not discovered their interest in music technology yet will grab this chance to widen their horizons and learn something new! This year there will be a wide variety in subjects, and we will have a couple of workshops where the use of voice is central. As this has been requested as a topic from our attendees at earlier workshops. 
 
-For those of you who *not* consider themself as beginners in music tech: You are of course also welcome!
+For those of you who *not* consider themself as beginners in music tech: You are of course also welcome! Our workshops are also available for people who identify as non-binary or transgender.
 
 ## The program: 
 
