@@ -9,12 +9,12 @@ excerpt: "In this workshop Kristin Norderval will introduce basics of field reco
 comments: true
 ---
 
-**4 May 2021** // **18:00-20:00** // **Outdoors activity in Oslo, location will be announced** // <strong><a href="https://nettskjema.no/a/192772#/page/1">Register here</a></strong>
+**POSTPONED: New date will be announced later** // **18:00-20:00** // **Outdoors activity in Oslo, location will be announced** // <strong><a href="https://nettskjema.no/a/192772#/page/1">Register here</a></strong>
 
 {% include image.html
 max-width="100%" file="/assets/directory/kristin-norderval.jpg" alt="Kristin Norderval"
 caption="Kristin Norderval" %}
-
+### UPDATE: Because of strict Corona restrictions from the University of Oslo, we are forced to postpone this workshop. New date will be announced when we know more. 
 ### Workshop
 
 In this workshop Kristin Norderval will introduce basics of field recording and how to make your own soundwalks and site-specific recordings. Most phones now have good recording quality.  We will use the recording functions you already have on your mobile phone. 
