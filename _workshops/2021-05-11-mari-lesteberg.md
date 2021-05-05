@@ -5,7 +5,7 @@ permalink: /workshops/mari-lesteberg-workshop
 date:   2021-05-11 18:00:00 +0200
 image: /assets/workshops/mari.jpeg
 category: forthcoming
-excerpt: "In this workshop, you will learn to create a simple musical instrument that can be accessed from a web browser. The workshop is free, for those who identifies as girls/women and will be held on Zoom."
+excerpt: "In this workshop, you will learn to create a simple musical instrument that can be accessed from a web browser. The workshop is free, for those who identifies as women or non-binary and will be held on Zoom."
 comments: true
 ---
 
@@ -23,6 +23,13 @@ This is a course for beginners, so no programming skills are required to follow 
 
 Mari Lesteberg is a singer/keyboardist, composer and music technologist. She is currently taking a master's degree in Music, Communication and Technology at the University of Oslo. She has been a research assistant for WoNoMute since 2018, and is this year also developing an app for the MICRO project at Ritmo.
 
+### Preparations
+
+- Download and install one of these browsers (If you don't have it from before. What we will do will not work in Safari):
+    - Chrome
+    - Firefox
+    - Microsoft Edge
+- Preferably have the ability to use two screens (To be able to follow instructions on Zoom while coding)
 
 ### How do I attend?
 <strong><a href="https://nettskjema.no/a/192793#/page/1">Register here</a></strong>
