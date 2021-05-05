@@ -17,7 +17,7 @@ caption="Mari Lesteberg" %}
 
 ### Workshop
 
-In this workshop, you will learn to create a simple musical instrument that can be accessed from a web browser. Web Audio API is an interface that builds upon JavaScript that allows you to program audio interfaces in web pages. With this hands-on course you will be tutored through a the introductory steps of audio programming. This will be a funny and creative way to learn JavaScript/HTML/CSS which involves music and sound. Tone.js is a library for Web Audio that features different effects and synths.
+In this workshop, you will learn to create a simple musical instrument that can be accessed from a web browser. Web Audio API is an interface that builds upon JavaScript that allows you to program audio interfaces in web pages. With this hands-on course you will be tutored through a the introductory steps of audio programming. This will be a funny and creative way to learn JavaScript/HTML/CSS which involves music and sound. [Tone.js](https://tonejs.github.io/) is a library for Web Audio that features different effects and synths. [Here are some examples](https://tonejs.github.io/demos) of apps that has been made with Tone.js
 
 This is a course for beginners, so no programming skills are required to follow this course. However, you should be prepared that learning a programming language can be just as challenging and frustrating as learning any kind of language. We will keep the number of participants low, so the participants can be allowed and feel free to ask questions and get help if stuck, during the workshop.
 
