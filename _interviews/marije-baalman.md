@@ -63,6 +63,8 @@ When I look back, I think my parents were very encouraging. One example, we had 
 
 ## References
 
-* Baalman, M. [Video of the performance 'the machine is learning'](https://youtu.be/3wCRLplAflQ?t=1596).
+* Baalman, M. - A video of the performance ['the machine is learning'](https://youtu.be/3wCRLplAflQ?t=1596).
 
 * Baalman, M. ['Just a question of mapping - The ins and outs of composing with real time data'](https://justaquestionofmapping.info/).
+
+* Behind the Screens: Marije Baalman - [An interview with livecoder and performer Marije Baalman](https://medium.com/behind-the-screens-challenge/behind-the-screens-marije-baalman-559ca3f1696b).
