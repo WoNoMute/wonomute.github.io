@@ -10,8 +10,8 @@ comments: true
 ---
 
 {% include image.html
-max-width="100%" file="/assets/interviews/b-the-machine-is-learning.jpg" alt="Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces in Trondheim, March 2020."
-caption="Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces in Trondheim, March 2020." %}
+max-width="100%" file="/assets/interviews/b-the-machine-is-learning.jpg" alt="Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces in Trondheim, March 2020 - a theatrical performance highlighting the process of training a machine with realtime gestures."
+caption="Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces in Trondheim, March 2020 - a theatrical performance highlighting the process of training a machine with realtime gestures." %}
 
 <br />
 
@@ -63,4 +63,4 @@ When I look back, I think my parents were very encouraging. One example, we had 
 
 ## References
 
-* Fiebrink, R. (2020) [“Machine learning as (Meta-) instrument”](https://www.researchcatalogue.net/view/document/908792/keynote). In *Proceedings of the Web International Conference on Live Interfaces 2020 (ICLI ’20)*. Trondheim, Norway. Keynote Video.
+* Baalman, M. [Just a question of mapping - The ins and outs of composing with real time data](https://justaquestionofmapping.info/).
