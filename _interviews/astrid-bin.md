@@ -38,7 +38,7 @@ I never have been afraid of programming, and I've done a ton of web development.
 ## Please introduce more closely what you are currently working on.
 [Bela](bela.io) is one of the things that I'm doing. Since we launched it in 2016, I’ve done all the design and branding, I’ve developed all the web properties, and I’ve developed the Bela IDE, which is always under development. I’ve taken on the product design for new products as well, such as Trill, which are a family of six touch sensors. Each one is a different shape and function, offering lots of ways to incorporate touch sensing. As Bela grows I’ve started also focusing on support, like writing the Bela knowledge base and documentation. That’s the thing with hardware – once the engineering is done you've got to develop examples and you got to develop documentation and explain it to people. 
 
-## Where do you want to go with BELA?
+## Where do you want to go with Bela?
 We are always trying to respond to changes in technology as well as the needs of music makers, and these don't always mean the same thing. We do a lot of research in that capacity, trying to figure out what music hardware needs to be not only today, but also tomorrow. It’s in a similar vein to what I do at Ableton, which is like looking at trends in music and technology, trying to understand who is using things, who isn’t, and what might be needed in a year, two or five years.
 
 ## What advice would you give to women interested in pursuing a career in music technology?
