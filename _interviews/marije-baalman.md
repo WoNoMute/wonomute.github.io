@@ -10,8 +10,8 @@ comments: true
 ---
 
 {% include image.html
-max-width="100%" file="/assets/interviews/b-the-machine-is-learning.jpg" alt="Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces in Trondheim, March 2020 - a theatrical performance highlighting the process of training a machine with realtime gestures."
-caption="Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces in Trondheim, March 2020 - a theatrical performance highlighting the process of training a machine with realtime gestures." %}
+max-width="100%" file="/assets/interviews/b-the-machine-is-learning.jpg" alt="Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces (ICLI) in Trondheim, March 11 2020 - a theatrical performance highlighting the process of training a machine with realtime gestures."
+caption="Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces (ICLI) in Trondheim, March 11 2020 - a theatrical performance highlighting the process of training a machine with realtime gestures." %}
 
 <br />
 
@@ -63,4 +63,6 @@ When I look back, I think my parents were very encouraging. One example, we had 
 
 ## References
 
-* Baalman, M. [Just a question of mapping - The ins and outs of composing with real time data](https://justaquestionofmapping.info/).
+* Baalman, M. [Video of the performance 'the machine is learning'](https://youtu.be/3wCRLplAflQ?t=1596).
+
+* Baalman, M. ['Just a question of mapping - The ins and outs of composing with real time data'](https://justaquestionofmapping.info/).
