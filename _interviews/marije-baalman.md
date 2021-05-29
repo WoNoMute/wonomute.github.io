@@ -35,9 +35,9 @@ I had the privilege that I was able to learn very easily. In high school, I was 
 I had no specific role model. I just pursued what I found interesting. I had the privilege that I am good at learning things, and I could go in any direction (languages, physics, math). I also was quite persistent in what I wanted and what I was interested in. This combination probably helped me to get support and get noticed. My teachers were always very supportive. My mentor in acoustics, Diemer de Vries, introduced me to Folkmar Hein, the leader of the electro-acoustic Studio at the TU Berlin. Joel Ryan, one of my teachers at Sonology, introduced me to Chris Salter. These connections were important to get where I wanted to be. But I’ve also invested in going to conferences of topics that interested me, presented my own work there, and engaged in those kinds of connections. This helped me to build a good network.
 
 
-{% include image.html max-width="100%" file="/assets/interviews/Baalman_Gewording.jpg" alt="Performance of "Wezen - Gewording" at Algorhythms #1, Worm, Rotterdam, November 17, 2017
+{% include image.html max-width="100%" file="/assets/interviews/Baalman_Gewording.jpg" alt="Performance of 'Wezen - Gewording' at Algorhythms #1, Worm, Rotterdam, November 17, 2017
 Photo by Anne Wellmer."
-caption="Performance of "Wezen - Gewording" at Algorhythms #1, Worm, Rotterdam, November 17, 2017
+caption="Performance of 'Wezen - Gewording' at Algorhythms #1, Worm, Rotterdam, November 17, 2017
 Photo by Anne Wellmer." %}
 
 ## Would you like to introduce more closely what you are currently working on?
