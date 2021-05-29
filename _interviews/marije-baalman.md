@@ -71,8 +71,6 @@ When I look back, I think my parents were very encouraging. One example, we had 
 
 * Marije Baalmans website https://marijebaalman.eu 
  
-* Baalman, M. ['Just a question of mapping - The ins and outs of composing with real time data'](https://justaquestionofmapping.info/).
-
 * Performance at Engineered Expression [Wezen - Handeling](https://vimeo.com/556140327)
 
 * Performance ['the machine is learning'](https://www.researchcatalogue.net/view/908792/908793).
