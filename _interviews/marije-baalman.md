@@ -73,7 +73,7 @@ When I look back, I think my parents were very encouraging. One example, we had 
  
 * Performance at Engineered Expression [Wezen - Handeling](https://vimeo.com/556140327)
 
-* Performance ['the machine is learning'](https://www.researchcatalogue.net/view/908792/908793).
+* Performance ['The Machine is Learning'](https://www.researchcatalogue.net/view/908792/908793).
 
 * Mapping the question of mapping
 Marije A.J. Baalman | Colloquial paper | 2020
