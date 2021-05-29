@@ -4,14 +4,14 @@ layout: post
 permalink: /interviews/marije-baalman/
 author: Karolina Jawad
 date:   2021-07-31 12:15:00 +0200
-image: /assets/interviews/marije_b.JPG
-excerpt: "Photo by Valeria Mongelli. Marije Baalman is an artist and researcher/developer working in the field of interactive sound art. She worked as a hardware engineer at STEIM between 2011 and 2016. Since 2010 she works as a freelance artist and developer from Amsterdam. Her current research goes into the use of wireless networks for live performance, installations and interactive environments. In her artistic work she is interested in the realtime components of the work. This is expressed with tools such as physical computing, livecoding, digital and analog sound processing, and improvisation. To realise her works she mostly uses open source technology (software and hardware) and she is an active contributor to the open source community."
+image: /assets/interviews/Marije_lowres_photo-by-Valeria-Mongelli.jpg
+excerpt: "Marije Baalman is an artist and researcher/developer working in the field of interactive sound art. She worked as a hardware engineer at STEIM between 2011 and 2016. Since 2010 she works as a freelance artist and developer from Amsterdam. Her current research goes into the use of wireless networks for live performance, installations and interactive environments. In her artistic work she is interested in the realtime components of the work. This is expressed with tools such as physical computing, livecoding, digital and analog sound processing, and improvisation. To realise her works she mostly uses open source technology (software and hardware) and she is an active contributor to the open source community."
 comments: true
 ---
 
 {% include image.html
-max-width="100%" file="/assets/interviews/b-the-machine-is-learning.jpg" alt="Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces (ICLI) in Trondheim, March 11 2020 - a theatrical performance highlighting the process of training a machine with realtime gestures."
-caption="Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces (ICLI) in Trondheim, March 11 2020 - a theatrical performance highlighting the process of training a machine with realtime gestures." %}
+max-width="100%" file="/assets/interviews/b-the-machine-is-learning.jpg" alt=" Snapshot from Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces (ICLI) in Trondheim, March 11 2020 - a theatrical performance highlighting the process of training a machine with realtime gestures."
+caption="Snapshot from Marije Baalman during her performance 'The Machine is Learning' at the International Conference on Live Interfaces (ICLI) in Trondheim, March 11 2020 - a theatrical performance highlighting the process of training a machine with realtime gestures." %}
 
 <br />
 
@@ -63,8 +63,29 @@ When I look back, I think my parents were very encouraging. One example, we had 
 
 ## References
 
-* Baalman, M. - A video of the performance ['the machine is learning'](https://youtu.be/3wCRLplAflQ?t=1596).
-
+* Marije Baalmans website https://marijebaalman.eu 
+ 
 * Baalman, M. ['Just a question of mapping - The ins and outs of composing with real time data'](https://justaquestionofmapping.info/).
+
+* Performance at Engineered Expression [Wezen - Handeling](https://vimeo.com/556140327)
+
+* Performance ['the machine is learning'](https://www.researchcatalogue.net/view/908792/908793).
+
+* Mapping the question of mapping
+Marije A.J. Baalman | Colloquial paper | 2020
+Live Interfaces, ICLI 2020, Trondheim
+https://www.researchcatalogue.net/view/908792/908793
+
+* Embodiment of Code
+Marije A.J. Baalman | Conference paper | 2015
+First International Conference on Live Coding, Leeds, UK, July 13-15, 2015
+
+https://iclc.toplap.org/2015/html/72.html
+
+* Spatial Composition Techniques and Sound Spatialisation Technologies
+Marije A.J. Baalman | Article in journal | 2010
+
+* Organised Sound (2010), 15: 209-218
+Cambridge University Press
 
 * Behind the Screens: Marije Baalman - [An interview with livecoder and performer Marije Baalman](https://medium.com/behind-the-screens-challenge/behind-the-screens-marije-baalman-559ca3f1696b).
