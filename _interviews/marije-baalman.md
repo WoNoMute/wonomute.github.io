@@ -85,7 +85,6 @@ https://www.researchcatalogue.net/view/908792/908793
 * Embodiment of Code
 Marije A.J. Baalman | Conference paper | 2015
 First International Conference on Live Coding, Leeds, UK, July 13-15, 2015
-
 https://iclc.toplap.org/2015/html/72.html
 
 * Spatial Composition Techniques and Sound Spatialisation Technologies
