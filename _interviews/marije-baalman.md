@@ -36,7 +36,7 @@ I had no specific role model. I just pursued what I found interesting. I had the
 
 
 {% include image.html
-max-width="100%" file="/assets/interviews/Baalman_Gewording_20171117_worm_4-photo_Anne_Wellmer_5057.jpg" alt=" Performance of "Wezen - Gewording" at Algorhythms #1, Worm, Rotterdam, November 17, 2017
+max-width="100%" file="/assets/interviews/Baalman_Gewording.jpg" alt=" Performance of "Wezen - Gewording" at Algorhythms #1, Worm, Rotterdam, November 17, 2017
 Photo by Anne Wellmer."
 caption="Performance of "Wezen - Gewording" at Algorhythms #1, Worm, Rotterdam, November 17, 2017
 Photo by Anne Wellmer." %}
