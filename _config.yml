@@ -24,6 +24,7 @@ google_analytics: 'UA-131407525-1'
 minima:
   social_links:
     twitter: wonomute
+    instagram: wonomute
     mastodon:
       - username: wonomute
         instance: mastodon.technology
