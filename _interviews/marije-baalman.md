@@ -1,7 +1,7 @@
 ---
 title: An Interview with Marije Baalman
 layout: post
-permalink: /interviews/marije_baalman/
+permalink: /interviews/marije-baalman/
 author: Karolina Jawad
 date:   2021-05-28 12:15:00 +0200
 image: /assets/interviews/Marije_lowres_photo-by-Valeria-Mongelli.jpg
