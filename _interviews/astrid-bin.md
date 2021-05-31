@@ -6,7 +6,7 @@ author: Karolina Jawad
 date:   2021-07-31 12:15:00 +0200
 image: /assets/interviews/astrid_bin.jpg
 excerpt: "Astrid Bin is a Music Technology Researcher at Ableton, where her research is centred around the design of musical environments and interfaces. Astrid Bin is also one of the founding developers of Bela (bela.io), an embedded computing platform for creating responsive interactive projects. Her research interests include human-computer interaction, graphical interface design, design and fabrication of interactive objects, the language of materials, protocols and applications for interactive hardware, and how computers affect the experience of making art."
-comments: true
+comments: hidden
 ---
 
 {% include image.html
