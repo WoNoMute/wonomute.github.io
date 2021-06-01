@@ -82,7 +82,7 @@ When I look back, I think my parents were very encouraging. One example, we had 
  
 * Virtual performance [Wezen - Handeling](https://vimeo.com/556140327) at Engineered Expression, May 07, 2021
 
-* Live performance ['The Machine is Learning'](https://www.researchcatalogue.net/view/908792/908793) at ICLI Trondheim, March 11 2020
+* Live performance ['The Machine is Learning'](https://www.researchcatalogue.net/view/908792/908793) at Live Interfaces ICLI, Trondheim, March 11, 2020
 
 * Mapping the question of mapping
 Marije A.J. Baalman | Colloquial paper | 2020
