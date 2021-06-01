@@ -6,8 +6,11 @@ permalink: /interviews/
 
 <!-- use e.g. limit:12 to only show a subset. Changed it to 100-->
 
+{% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
 <ul class="post-list">
   {%- for post in site.interviews reversed limit:100 -%}
+  {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
+  {% if date < now %}
   <li>
     <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">  
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -31,5 +34,6 @@ permalink: /interviews/
   </p>
 
   </li>
+  {% endif %}
   {%- endfor -%}
 </ul>
