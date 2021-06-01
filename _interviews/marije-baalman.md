@@ -29,16 +29,19 @@ After three years in Montréal I moved back to the Netherlands. I wanted to get 
 That's a good question. In physics of 100 students that started there were only six women in the first year. But what was also interesting is that five of these women completed all the first year courses within the first year, which was a much higher percentage compared to the male students. Probably this points a little bit to the fact that a lot of women are discouraged if there are on the medium level at being good in technical subjects, while men are told 'yeah you can do this' etc. 
 I had the privilege that I was able to learn very easily. In high school, I was at the top of my class and I got good grades in the university. That made it easier as people knew I was good at things. I was the first female developer contributing to the SuperCollider source code, that was back in 2014. Also, in the first few Linux audio conferences I was possibly the only woman present and at least the only woman presenting work. Nonetheless, I found both communities quite welcoming. During my time at STEIM there were a lot of international artists and musicians coming in and occasionally I got that remark 'oh we never encountered a woman as a technical support'. Generally, people were okay with it. Sometimes I started to wonder, for example at a presentation of my work in Strasbourg where I did a solo concert and afterwards someone asked 'Did you make all these things yourself?' Later I was wondering if they would have posed this question the same way to a man. I also got invited to a lot of different programs focusing on women in electronic music, that has also been a platform where I presented my work. 
 
+
+{% include image.html max-width="100%" file="/assets/interviews/Marije_lowres_photo-by-Valeria-Mongelli.jpg" alt="Portrait photo, 2019 
+Photo: Valeria Mongelli"
+caption="Portrait photo, 2019
+Photo: Valeria Mongelli" %}
+
+
 ## Did you have a role model or mentor?
 
 
 I had no specific role model. I just pursued what I found interesting. I had the privilege that I am good at learning things, and I could go in any direction (languages, physics, math). I also was quite persistent in what I wanted and what I was interested in. This combination probably helped me to get support and get noticed. My teachers were always very supportive. My mentor in acoustics, Diemer de Vries, introduced me to Folkmar Hein, the leader of the electro-acoustic Studio at the TU Berlin. Joel Ryan, one of my teachers at Sonology, introduced me to Chris Salter. These connections were important to get where I wanted to be. But I’ve also invested in going to conferences of topics that interested me, presented my own work there, and engaged in those kinds of connections. This helped me to build a good network.
 
 
-{% include image.html max-width="100%" file="/assets/interviews/Baalman_Gewording.jpg" alt="Performance of 'Wezen - Gewording' at Algorhythms #1, Worm, Rotterdam, November 17, 2017
-Photo by Anne Wellmer."
-caption="Performance of 'Wezen - Gewording' at Algorhythms #1, Worm, Rotterdam, November 17, 2017
-Photo by Anne Wellmer." %}
 
 ## Would you like to introduce more closely what you are currently working on?
 
@@ -55,6 +58,12 @@ It is really a mix. I did quite a few case studies for this, I studied specific 
 
 
 I think it is kind of natural when you start writing a book that you know what the next book should be about. There are some more advanced topics that I wanted to cover in the book but that is just getting too much and would require too much work to do this so I decided there would be a next book which will give the opportunity to use a bit more of my own work as examples and red line in the book. I can go more in depth and use it to focus and analyse what I've been doing in past projects and future projects which are still happening. The topics there will be more about creating computational behaviours, systems that evolve based on real time interactions and explorations in machine learning and gesture recognition. At the same time this will help me to focus the artistic works that I still have in development and to reflect on past work.
+
+{% include image.html max-width="100%" file="/assets/interviews/Baalman_Gewording.jpg" alt="Performance of 'Wezen - Gewording' at Algorhythms #1, Worm, Rotterdam, November 17, 2017
+Photo by Anne Wellmer."
+caption="Performance of 'Wezen - Gewording' at Algorhythms #1, Worm, Rotterdam, November 17, 2017
+Photo by Anne Wellmer." %}
+
 
 ## What advice would you give to women who are interested in pursuing a career in music technology?
 
