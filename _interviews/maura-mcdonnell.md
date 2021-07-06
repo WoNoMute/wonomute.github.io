@@ -2,7 +2,7 @@
 title: Visual Music - An interview with Maura McDonnell
 layout: post
 permalink: /interviews/maura-mcdonnell/
-author: [Joni Mok](https://wonomute.no/directory-of-wonomute/joni-mok/)
+author: Joni Mok
 date: 2021-07-06 10:00:00 +0200
 image: /assets/interviews/mm_cover.jpg
 excerpt: <strong>Maura McDonnell</strong> is an Irish visual music artist, musician, educator and researcher who has been involved in visual music since 1997. In this article, we discuss some of her working methods and media in visual music.
