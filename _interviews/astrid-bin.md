@@ -1,17 +1,17 @@
----
+--- 
 title: An Interview with Astrid Bin
 layout: post
 permalink: /interviews/astrid-bin/
 author: Karolina Jawad
-date:   2021-07-31 12:15:00 +0200
+date:   2021-06-30 09:15:00 +0200
 image: /assets/interviews/astrid_bin.jpg
 excerpt: "Astrid Bin is a Music Technology Researcher at Ableton, where her research is centred around the design of musical environments and interfaces. Astrid Bin is also one of the founding developers of Bela (bela.io), an embedded computing platform for creating responsive interactive projects. Her research interests include human-computer interaction, graphical interface design, design and fabrication of interactive objects, the language of materials, protocols and applications for interactive hardware, and how computers affect the experience of making art."
-comments: true
+comments: hidden
 ---
 
 {% include image.html
-max-width="100%" file="/assets/interviews/astrid_bin.jpg" alt="Closeup of Astrid Bin."
-caption="Closeup of Astrid Bin." %}
+max-width="100%" file="/assets/interviews/astrid_bin.jpg" alt="Closeup of Astrid Bin. Photo retrieved from the Ableton Loop 2018 website."
+caption="Closeup of Astrid Bin. Photo retrieved from the Ableton Loop 2018 website." %}
 
 <br />
 
@@ -42,12 +42,9 @@ I never have been afraid of programming, and I've done a ton of web development.
 We are always trying to respond to changes in technology as well as the needs of music makers, and these don't always mean the same thing. We do a lot of research in that capacity, trying to figure out what music hardware needs to be not only today, but also tomorrow. It’s in a similar vein to what I do at Ableton, which is like looking at trends in music and technology, trying to understand who is using things, who isn’t, and what might be needed in a year, two or five years.
 
 ## What advice would you give to women interested in pursuing a career in music technology?
-I think that this is an advice not only for women but for everybody, it is especially relevant for women is - the only way to make a place for yourself is to cultivate relationships. That doesn't mean sleazy networking or being friends with people because you can get something out of them. It is about being interested in people and trying to find out where the communities are and how you can support others. 
+I think that though advice applies to everybody, it is especially relevant for women: the only way to make a place for yourself is to cultivate relationships. That doesn't mean sleazy networking or being friends with people because you can get something out of them. It is about being interested in people and trying to find out where the communities are and how you can support others. 
 I think that technology is hostile to a lot of people, not only women. It’s become important to me to create the kind of environment that I wanted to find and didn't, one that’s inclusive and supportive. One of the things I have noticed more and more, especially through teaching, is that women are not afforded the opportunity to be anything less than excellent, to start off not being good at something but allowed to get better. This expectation of perfection is robbing us of a lot of things – learning, making mistakes, taking risks, growing with peers. I try to cultivate these areas of safety and encourage women just to try things out, learn from each other. Everyone is on the way to getting somewhere and this notion that if you don't show up already excellent you're never going to be excellent is really unhealthy, and this pressure to arrive perfect means we lose so many important people with experimental, lateral, interesting approaches. Creating that safety for others as well as ourselves is probably the most powerful thing any of us can do.
 
-## We're at the end, do you have any final comment?
-
-No.
 
 ## Thank you!
 

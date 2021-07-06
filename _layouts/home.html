@@ -2,117 +2,57 @@
 layout: default
 ---
 <div class="home">
-  <!-- {%- if page.title -%}
+  <!-- Old code, useful to see the variables of this page
+  {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+  {{ content }} 
+  -->
 
-  {{ content }} -->
+<!-- To change the number of items: change limit number e.g. limit: 10 shows 10 results. -->  
 
-  <!-- INTERVIEWS -->
-  {%- if site.interviews.size > 0 -%}
+{% assign posts = site.posts   %}	 
+{% assign interviews = site.interviews   %}
+{% assign workshops = site.workshops   %}
+{% assign seminars = site.seminars   %}
+{% assign featured = posts | concat: interviews | concat: workshops | concat: seminars | sort: 'date' | reverse  %}	 
+{% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+
+{% for item in featured | limit: 10  %}
   <ul class="post-list">
-    {%- for post in site.interviews reversed limit:1 offset:11  -%}
+  {% capture date %}{{item.date | date: '%s' | plus: 0 %}}{% endcapture %}
+  {% if date < now %}
     <li>
-      <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
+      <img src="{{ item.image | prepend: site.baseurl }}" alt="{{ item.title }}" title="{{ item.title }}">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <span class="post-meta">• <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">"{{ post.url | relative_url }}"</a></span>
+      <span class="post-meta">{{ item.date | date: date_format }}</span>
+      <span class="post-meta">• <a href="{{ item.url }}#disqus_thread" data-disqus-identifier="{{item.id}}">"{{ item.url | relative_url }}"</a> • {{item.collection}}</span>
       <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
+        <a class="post-link" href="{{ item.url | relative_url }}">
+          {{ item.title | escape }}
         </a>
       </h3>
-      <h4><em>Interview by {{ post.author }}</em></h4>
-      <p class="excerpt-text">
-      {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
-      {%- endif -%}
-      <strong><a href="{{ post.url | relative_url }}">
-        »Read more
-      </a></strong>
-    </p>
-    </li>
-    {%- endfor -%}
-  </ul>
-  {%- endif -%}
-
-
-  <!-- BLOG -->
-<!-- Remove offset: 1 in line 45 once OK blog post -->
-  {%- if site.posts.size > 0 -%}
-  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-  <ul class="post-list">
-    {%- for post in site.posts limit:2 -%}
-    <li>
-      <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <span class="post-meta">• <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">"{{ post.url | relative_url }}"</a></span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      {% if post.categories contains 'announcement' %}
-      <h4><em>Announcement by {{ post.author }}</em></h4>
+      {% if item.collection contains 'interviews' %}
+      <h4><em>Interview by {{ item.author }}</em></h4>
       {% endif %}
-      {% if post.categories contains 'post' %}
-      <h4><em>Article by {{ post.author }}</em></h4>
+      {% if item.categories contains 'announcement' %}
+      <h4><em>Announcement by {{ item.author }}</em></h4>
+      {% endif %}
+      {% if item.categories contains 'post' %}
+      <h4><em>Article by {{ item.author }}</em></h4>
       {% endif %}
       <p class="excerpt-text">
       {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
+        {{ item.excerpt }}
       {%- endif -%}
-      <strong><a href="{{ post.url | relative_url }}">
-        »Read more
-      </a></strong>
-    </p>
-    </li>
-    {%- endfor -%}
-  </ul>
-  {% endif %}  
-
-  
-  <!-- SEMINARS -->
-  <ul class="post-list">
-    {% for post in site.seminars %}
-    {% if post.categories contains 'forthcoming' limit:0 %}
-    <li>
-    <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      <h4><em>Seminar</em></h4>
-      <p class="excerpt-text">
-      {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
-      {%- endif -%}
-      <strong><a href="{{ post.url | relative_url }}">
+      <strong><a href="{{ item.url | relative_url }}">
         »Read more
       </a></strong>
     </p>
     </li>
     {% endif %}
-    {% endfor %}
-  </ul>
-
-
-
-
-  
-
-
-  
-
-
-
-
-
-
+{% endfor %}
+</ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
