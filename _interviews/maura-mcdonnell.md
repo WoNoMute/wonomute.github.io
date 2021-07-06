@@ -2,13 +2,12 @@
 title: Visual Music - An interview with Maura McDonnell
 layout: post
 permalink: /interviews/maura-mcdonnell/
-author: Joni Mok
+author: [Joni Mok](https://wonomute.no/directory-of-wonomute/joni-mok/)
 date: 2021-07-06 10:00:00 +0200
 image: /assets/interviews/mm_cover.jpg
 excerpt: <strong>Maura McDonnell</strong> is an Irish visual music artist, musician, educator and researcher who has been involved in visual music since 1997. In this article, we discuss some of her working methods and media in visual music.
 comments: true
 ---
-## Visual Music - An interview with Maura McDonnell
 
 #### *‘The one little element can do a lot - a tiny bit of sine wave can create a whole music scale and so a square can become complex,’ says Maura McDonnell, an Irish musical artist and researcher. In this interview she talks about the importance of process in creativity.*
 
