@@ -3,7 +3,7 @@ title: Joni Mok
 layout: post
 permalink: /directory-of-wonomute/joni-mok/
 image: /assets/directory/joni-mok.jpg
-excerpt: <strong>Joni</strong> (b.1991) is a designer, photographer and musician. She lives her life as a nomad and is a multilingual. Currently doing her other masters in the Music, Communication, Technology programme. She researches in cross-modal perceptions and Synaesthesia, attention and memory, universal design for learning. She wants to apply audiovisual technologies in a more meaningful way, such as designing methods and process to help people better to learn.
+excerpt: <strong>Joni Mok</strong> (b. 1991) is a designer, photographer and musician. She lives her life as a nomad and is a multilingual. Currently doing her other masters in the Music, Communication, Technology programme. She researches in cross-modal perceptions and Synaesthesia, attention and memory, universal design for learning. She wants to apply audiovisual technologies in a more meaningful way, such as designing methods and process to help people better to learn.
 comments: false
 ---
 
