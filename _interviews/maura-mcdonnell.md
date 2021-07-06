@@ -6,6 +6,7 @@ author: Joni Mok
 date: 2021-07-04 20:36:00 +0200
 images: /assets/interviews/maura-mcdonnell.jpg
 excerpt: <strong>Maura McDonnell</strong> is an Irish visual music artist, musician, educator and researcher who has been involved in visual music since 1997.
+comments: true
 ---
 ## Visual Music - An interview with Maura McDonnell
 
