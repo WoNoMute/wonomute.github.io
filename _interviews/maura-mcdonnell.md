@@ -48,7 +48,7 @@ Maura has spent the last 20 years understanding visual music. *´I use math and 
 
 | Tools | Methods | Process Stage(s) |
 | --------------- | --------------- | --------------- |
-| - | Communicate with musicians; Music analysis through repeated music listening; Sketches out visual ideas | Discover and Define|
+| Sketchblock; paints | Communicate with musicians; Music analysis through repeated music listening; Sketches out visual ideas | Discover and Define|
 | VFX technologies | Visualisation based on music analysis; Exploring different visual elements such as textures, forms and colours that express the musical imagery | Define and Design |
 | VFX tools | Bring music and the visual elements into animation; Audiovisual scene rendering and interaction| Design and Develop |
 
