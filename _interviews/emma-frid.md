@@ -10,8 +10,8 @@ comments: true
 ---
 
 {% include image.html
-max-width="80%" file="/assets/interviews/emma_frid.jpg" alt="Closeup of Emma Frid. Source: Emma Frid."
-caption="Closeup of Emma Frid. Source: Emma Frid" %}
+max-width="80%" file="/assets/interviews/emma_frid.jpg" alt="Emma Frid"
+caption="Emma Frid" %}
 
 <br />
 
@@ -55,7 +55,7 @@ That is a good question. I think that I would just say that if you want to do it
 ## Thank you!
 
 
-* This interview was conducted online on May 4th, 2021
+*This interview was conducted online on May 4th, 2021*
 
 
 ---
