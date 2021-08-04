@@ -10,7 +10,7 @@ comments: true
 ---
 
 {% include image.html
-max-width="100%" file="/assets/interviews/emma_frid.jpg" alt="Closeup of Emma Frid. Source: Emma Frid."
+max-width="80%" file="/assets/interviews/emma_frid.jpg" alt="Closeup of Emma Frid. Source: Emma Frid."
 caption="Closeup of Emma Frid. Source: Emma Frid" %}
 
 <br />
