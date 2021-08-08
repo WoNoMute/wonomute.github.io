@@ -3,7 +3,7 @@ title: An Interview with Emma Frid
 layout: post
 permalink: /interviews/emma-frid/
 author: Karolina Jawad
-date:   2021-08-08 12:15:00 +0200
+date:   2021-08-20 12:15:00 +0200
 image: /assets/interviews/emma_frid.jpg
 excerpt: "Emma Frid is a postdoctoral researcher at the STMS Laboratory at IRCAM, where she is working in the COSMOS project, under a grant of KTH Royal Institute of Technology. Emma's PhD titled "Diverse Sounds - Enabling Inclusive Sonic Interaction" focused on how Sonic Interaction Design can be used to promote inclusion and diversity in music-making. Her research interests also include multimodal interface design, Human Computer Interaction (HCI), human-AI interaction, and haptics. Emma was a graduate research trainee at Input Devices and Music Interaction Laboratory (IDMIL), McGill University, where she completed a Master’s Thesis project on vibrotactile feedback for live electronics. When Emma is not working with sound and music research, she is playing the violin and the piano, taking pictures, or hanging out with her cat."
 comments: true
