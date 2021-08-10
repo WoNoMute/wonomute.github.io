@@ -4,7 +4,7 @@ layout: post
 permalink: /interviews/emma-frid/
 author: Karolina Jawad
 date:   2021-08-08 12:15:00 +0200
-image: /assets/interviews/emma_frid.jpg
+image: /assets/interviews/emma_frid_s.jpg
 excerpt: "Emma Frid is a postdoctoral researcher at Institut de Recherche et Coordination Acoustique/ Musique (IRCAM), Paris, France and KTH Royal Institute of Technology Stockholm, Sweden, where she works on sound and music interfaces designed to promote health and inclusion. Her research interests focus predominantly on Accessible Digital Musical Instruments (ADMIs) and multimodal interfaces. She holds a PhD in Sound and Music Computing from KTH Royal Institute of Technology, Stockholm, Sweden and a Master of Science in Engineering in Media Technology from the same university."
 comments: true
 ---
