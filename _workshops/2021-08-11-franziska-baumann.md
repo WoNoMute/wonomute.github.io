@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "WoNoMute: UX Design meets music technology with Joni Mok"
-permalink: /workshops/joni-mok-workshop
+title:  "WoNoMute: Recording and Composing with Vocal Samples with Franziska Baumann"
+permalink: /workshops/franziska-baumann-workshop
 date:   2021-05-25 18:00:00 +0200
-image: /assets/workshops/joni.jpeg
+image: /assets/workshops/workshop-franziska.jpg
 category: forthcoming
-excerpt: "Having users in mind when designing a product is essential. Products are, after all, for users to use. Design thinking is a way to design for users.  The workshop is free, for those who identifies as women or non-binary and will be held on Zoom."
+excerpt: "This workshop gives a multifaceted insight into contemporary vocal practices: We explore our voices within a multivocal approach. Singing training is not a pre-requisite; all vocal expressions are welcome. Exploring sounds and noises, melodies, yodelling, language, and the unexpected is part of the musical process. We use improvisational techniques based on modules and ideas to research and uncover spheres of the human voice in a playful context. It proposes an approach in which all vocal expressions in their musicalisation are on the same hierarchical level. You will learn to switch listening modes and to develop a purer “instrumental” ear for vocal spectra-morphologies and the possibilities to communicate vocally on various levels."
 comments: true
 ---
 
