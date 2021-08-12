@@ -9,7 +9,7 @@ excerpt: "This workshop gives a multifaceted insight into contemporary vocal pra
 comments: true
 ---
 
-**25 Aug 2021** // **15:00-17:00** // **Georg Sverdrup's house: Teaching room 1** // <strong><a href="https://nettskjema.no/a/192777#/page/1">Register here</a></strong>
+**25 Aug 2021** // **15:00-17:00** // **Georg Sverdrup's house: Teaching room 1** // <strong><a href="https://nettskjema.no/a/211230">Register here</a></strong>
 
 {% include image.html
 max-width="100%" file="/assets/workshops/workshop-franziska.jpg" alt="Illustration"
@@ -33,4 +33,4 @@ Stereo Activ speakers, cable with a mini-jack to connect Laptops
 
 
 ### How do I attend?
-<strong><a href="https://nettskjema.no/a/192777#/page/1">Register here</a></strong>
+<strong><a href="https://nettskjema.no/a/211230">Register here</a></strong>
