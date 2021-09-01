@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "WoNoMute: Do you want to be a music scientist?"
 permalink: /workshops/kristin-norderval-workshop
