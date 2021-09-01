@@ -12,7 +12,7 @@ comments: true
 **7 - 8 Oct 2021** // **TBA** // **University of Oslo** // <strong><a href="https://nettskjema.no/a/214587 /1">Register here</a></strong>
 
 {% include image.html
-max-width="100%" file="/assets/directory/workshops/WoNoMuTe_Tech_Promotion.jpg" alt="Autmn Girl's Music Tech Camp"
+max-width="100%" file="/assets/workshops/WoNoMuTe_Tech_Promotion.jpg" alt="Autmn Girl's Music Tech Camp"
 caption="Autmn Girl's Music Tech Camp" %}
 
 ### Workshop
