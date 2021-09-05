@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Have you wondered what Music Technology is about?"
-permalink: /workshops/kristin-norderval-workshop
+permalink: /workshops/tech-camp
 date:   2021-09-01 18:00:00 +0200
 image: /assets/workshops/WoNoMuTe_Tech_Promotion.jpg
 category: forthcoming
@@ -9,13 +9,14 @@ excerpt: "In our Autumn Music Tech Camp, you will experience music and creativit
 comments: true
 ---
 
-**6 - 8 Oct 2021** // **10:00 - 15:00** // **University of Oslo** // <strong><a href="https://nettskjema.no/a/214587 /1">Register here</a></strong>
+**6 - 8 Oct 2021** // **10:00 - 15:00** // **University of Oslo** // <strong><a href="https://nettskjema.no/a/215150  /1">Register here</a></strong>
 
 
 ### Workshop
 
 ####Have you wondered what Music Technology is about?
 
+![Tech Camp Poster](/assets/workshops/WoNoMuTe_Tech_Promotion.jpg)
 #####*For who?*
 Targeted at (High-school aged) Girls and non-binary people of ages 15-18
 No previous knowledge required!
