@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WoNoMute: Do you want to be a music scientist?"
+title:  "Have you wondered what Music Technology is about?"
 permalink: /workshops/kristin-norderval-workshop
 date:   2021-09-01 18:00:00 +0200
 image: /assets/workshops/WoNoMuTe_Tech_Promotion.jpg
@@ -9,18 +9,32 @@ excerpt: "In our Autumn Music Tech Camp, you will experience music and creativit
 comments: true
 ---
 
-**7 - 8 Oct 2021** // **TBA** // **University of Oslo** // <strong><a href="https://nettskjema.no/a/214587 /1">Register here</a></strong>
+**6 - 8 Oct 2021** // **10:00 - 15:00** // **University of Oslo** // <strong><a href="https://nettskjema.no/a/214587 /1">Register here</a></strong>
 
-{% include image.html
-max-width="100%" file="/assets/workshops/WoNoMuTe_Tech_Promotion.jpg" alt="Autmn Girl's Music Tech Camp"
-caption="Autmn Girl's Music Tech Camp" %}
 
 ### Workshop
 
-Do you love music and want to study at the university?
+####Have you wondered what Music Technology is about?
 
-On 7 -8 October, we are inviting you to join us at the music technology camp. During the two days, you will meet new people who share your interests. You will also be introduced to some music production and live coding skills.
+#####*For who?*
+Targeted at (High-school aged) Girls and non-binary people of ages 15-18
+No previous knowledge required!
+* all workshops will be in English *
 
-Sounds good? Join us by registering here: https://nettskjema.no/a/214587
+
+#####*What?*
+######In this workshop, you will be introduced some practical skills in music technology. You will also have a chance to meet new friends who share the same interests. Although the workshop is for girls, you can still join if you are boys. We invite mostly girls, because music technology is a rather underrated field for females! If we have more places, boys are of course welcome. Nevertheless, girls come first in this regard :) .
+
+
+#####*Programs*
+- Intro to Audacity
+- Recording your own song + basic production in Audacity
+- Intro to music production and processing with Reaper
+- Sensory music effects with Reaper and OSC
 
 Looking forward to seeing you all!
+
+
+#####*Organized by whom?*
+
+<strong><a href="https://wonomute.no/workshops/">WoNoMuTe</a></strong> in collaboration with the [MCT Master at the University of Oslo](https://mct-master.github.io/) and [RITMO](https://www.uio.no/ritmo/english/).
