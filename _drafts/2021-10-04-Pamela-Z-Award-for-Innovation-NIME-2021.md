@@ -6,9 +6,9 @@ author: Karolina Jawad, Astrid Bin, Wei Chen, Yinmiao Li, Zijin Li, Margaret Min
 date: 2021-10-06 10:00:00 +0100
 image: "/assets/blog/nime_logos_banner_small.jpg"
 categories: post
-excerpt: The Pamela Z Award winner is the author team of the paper Gambiarra and Techno-Vernacular Creativity in 
+excerpt: "The Pamela Z Award winner is the author team of the paper Gambiarra and Techno-Vernacular Creativity in 
 NIME Research from João Tragtenberg, GG Albuquerque and Filipe Calegario. Our honorary mention goes to Abby Aresty’s Changing GEAR: 
-The Girls Electronic Arts Retreat's Teaching Interfaces for Musical Expression co-authored with Rachel Gibson.
+The Girls Electronic Arts Retreat's Teaching Interfaces for Musical Expression co-authored with Rachel Gibson."
 comments: true
 ---
 
