@@ -37,3 +37,9 @@ max-width="100%" file="/assets/blog/changing_gear_pic_small.jpg" alt="Figure 2. 
 
 The gift for the main award goes to all authors of the paper which is a [Ableton Live Suite](https://www.ableton.com/en/live/), a [Bela Mini Starter Kit](https://bela.io/about) and a [PopuMusic Populele](https://popuband.com/). The honorary mention receives Bela Trill Sensors and a PopuMusic Populele.
 
+### References
+
+* International Conference on New Interfaces for Musical Expression: Gambiarra and Techno-Vernacular Creativity in NIME Research, João Tragtenberg, GG Albuquerque, Filipe Calegario, Batebit Artesania Digital, Brazil, Grupop - Centro de Artes e Comunicação - Universidade Federal de Pernambuco, Brazil, Mustic - Centro de Informática - Universidade Federal de Pernambuco, Brazil
+
+* International Conference on New Interfaces for Musical Expression: Changing GEAR: The Girls Electronic Arts Retreat's Teaching Interfaces forMusical Expression, Abby Aresty, Rachel Gibson, Oberlin College and Conservatory of Music, University of Virgini
+
