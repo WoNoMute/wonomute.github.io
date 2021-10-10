@@ -3,7 +3,7 @@ layout: post
 title: Meeting up for the Féminisme - Musique - Technologie Conference 2021 in Paris
 permalink: /blog/2021-10-11-feminisme-musique-technologie/
 author: Karolina Jawad
-date:   2021-10-11 23:15:00 +0200
+date:   2021-10-11 23:15:00 +0100
 image: "/assets/blog/colloque_feminisme_small.jpg"
 excerpt: "On the 19th of June 2021 we were invited to introduce WoNoMute at the event 'Féminisme - Musique - Technologie' which was part of the ManiFeste-2021 Festival in Paris. Hosted by IRCAM and Nova_XX/ Centre Wallonie-Bruxelles the program introduced feminist approaches from researchers and artists in the context of music, technology and digital art that are carried out in Europe. In a mix of onsite and online presentations myself and Anna Xambó had the opportunity to reflect about the WoNoMute agenda and impact."
 comments: true
