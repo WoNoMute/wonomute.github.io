@@ -22,7 +22,10 @@ In June 19 2021, the event 'Féminisme - Musique - Technologie' took place in Pa
 
 You can watch the full video of the event on the link below. The video starts with a thematic introduction by Sarah Fdili Alaoui (05:20) who introduces the presenters and concludes with and open discussion (1:15:00). In the second part the session continues in French.
 
-<iframe width="720" height="415" src="https://youtu.be/jXmNvd9ty_o" frameborder="0" allowfullscreen></iframe>
+
+<div class="videoWrapper">
+<iframe width="750" height="422" src="https://youtu.be/jXmNvd9ty_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br />
 
@@ -33,7 +36,7 @@ Due to current Covid19 restrictions slightly being lifted, and after having post
 ### The networks IFTe and FACT
 
 {% include image.html
-max-width="100%" file="/assets/blog/caroline_cecile_small.jpg" alt="Figure 1. Left by the table: Sarah Fdili Aloui and Karolina Jawad, on screen from left to right Caroline Basset and Cécile Chevalier." caption="Figure 1. Left by the table: Sarah Fdili Aloui and Karolina Jawad, on screen from left to right Caroline Basset and Cécile Chevalier." %}
+max-width="100%" file="/assets/blog/caroline_cecile_small.jpg" alt="Figure 2. Left by the table: Sarah Fdili Aloui and Karolina Jawad, on screen from left to right Caroline Basset and Cécile Chevalier." caption="Figure 2. Left by the table: Sarah Fdili Aloui and Karolina Jawad, on screen from left to right Caroline Basset and Cécile Chevalier." %}
 
 With the title “Building Community; Materialising Voices; Coding & Decoding” Prof. Caroline Basset, lecturer at the University of Cambridge opened with the first presentation together with Dr. Cécile Chevalier and Dr. Sharon Webb, both associate professors from the University of Sussex. They connected their focal perspectives in research, artistic practise and beyond to the agenda of the initiatives [The Intersections, Feminism, Technology & Digital Humanities network (IFTe)](http://ifte.network) and [Feminist Approaches to Technology Network (FACT)](http://fact.network/). Both networks address gender imbalance in computational practices. They introduced how transdisciplinary activities such as writing, creative coding and community building can become collaborative methods for feminist interventions. Caroline Basset for example stressed that through feminism it was possible to question if not counter the assumptions about gendered practises and spaces throughout history.
 
@@ -53,7 +56,7 @@ The presentation can be found [here](https://miro.com/app/board/o9J_lBXi0m8=/?in
 ### Roundtable
 
 {% include image.html
-max-width="100%" file="/assets/blog/roundtable_small.jpg" alt="Figure 2. Left by the table with Sarah Fdili Aloui and Karolina Jawad, description of the screen from left to right, top to bottom - Caroline Basset, Cécile Chevalier, Anna Xambó, Emma Frid and Sharon Webb." caption="Figure 2. Left by the table with Sarah Fdili Aloui and Karolina Jawad, description of the screen from left to right, top to bottom - Caroline Basset, Cécile Chevalier, Anna Xambó, Emma Frid and Sharon Webb." %}
+max-width="100%" file="/assets/blog/roundtable_small.jpg" alt="Figure 3. Left by the table with Sarah Fdili Aloui and Karolina Jawad, description of the screen from left to right, top to bottom - Caroline Basset, Cécile Chevalier, Anna Xambó, Emma Frid and Sharon Webb." caption="Figure 3. Left by the table with Sarah Fdili Aloui and Karolina Jawad, description of the screen from left to right, top to bottom - Caroline Basset, Cécile Chevalier, Anna Xambó, Emma Frid and Sharon Webb." %}
 
 After the three presentations, we had a follow-up discussion facilitated by Sarah Fdili Alaoui. Several interesting topics which the presenters issued were: (1) The gendering of technology and realms of activity. (2) Whether intersecting the humanities and technology is a way to create more balance, instead of, as to cite Basset, infiltrate MINT (mathematics, informatics, natural sciences and technology) subjects through girl-only programs and workshops. (3) How does this imbalance manifest itself in music technology in its educational spaces or in the inhabiting objects? Further on, it was discussed that women in male-dominated spaces tend to thematize the gender imbalance while their work fades into the background.
 
