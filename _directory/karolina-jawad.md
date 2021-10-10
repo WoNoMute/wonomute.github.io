@@ -3,7 +3,7 @@ title: Karolina Jawad
 layout: post
 permalink: /directory-of-wonomute/karolina-jawad/
 image: /assets/directory/karolina-jawad.jpg
-excerpt: <strong>Karolina Jawad</strong> became involved in WoNoMute (2018-present) through the Music, Communication and Technology Master's programme at NTNU/UiO. Currently based in Berlin, Karolina still engages remotely and looks for new opportunities to continue her research alongside her work as an editor.
+excerpt: <strong>Karolina Jawad</strong> joined WoNoMute (2018-present) via the Music, Communication and Technology Master's programme at NTNU/UiO. Currently based in Berlin, Karolina continues to contribute remotely to making underrepresented biographies in music technology more visible. She is interested in exploring musical interfaces for their political and social implications.
 comments: false
 ---
 
@@ -14,7 +14,7 @@ max-width="100%" file="/assets/directory/karolina-jawad.jpg" alt="Photo of Karol
 
 ## Bio
 
-Karolina Jawad She became involved in WoNoMute (2018-present) through the Music, Communication and Technology Master's programme at NTNU/UiO. Currently based in Berlin, Karolina still engages remotely and looks for new opportunities to continue her research alongside her work as an editor.
+Karolina Jawad joined WoNoMute (2018-present) via the Music, Communication and Technology Master's programme at NTNU/UiO. Currently based in Berlin, Karolina continues to contribute remotely to making underrepresented biographies in music technology more visible. She is interested in exploring musical interfaces for their political and social implications. 
 
 
 ## Links
