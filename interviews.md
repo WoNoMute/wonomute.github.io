@@ -24,7 +24,7 @@ permalink: /interviews/
     <p><em>Interview by {{ post.author }}</em></p>
 
 
-    <p class="excerpt-text">
+  <p class="excerpt-text">
     {%- if site.show_excerpts -%}
       {{ post.excerpt }}
     {%- endif -%}

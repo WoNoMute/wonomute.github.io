@@ -4,10 +4,14 @@ title: Blog
 permalink: /blog/
 ---
 
-<!-- Remove offset:1 in line 10 once OK blog post -->
+<!-- use e.g. limit:12 to only show a subset. Changed it to 100-->
+
 <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+{% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
 <ul class="post-list">
-  {%- for post in site.posts -%}
+  {%- for post in site.posts limit:100 -%}
+  {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
+  {% if date < now %}
   <li>
     <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -30,5 +34,6 @@ permalink: /blog/
     {%- endif -%}
   </p>
   </li>
+  {% endif %}
   {%- endfor -%}
 </ul>
