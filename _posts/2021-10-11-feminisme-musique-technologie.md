@@ -13,7 +13,7 @@ comments: true
 In this blog post I will report my experience as a WoNoMute delegate who had the opportunity to travel to Paris and represent the organisation at the event 'Féminisme - Musique - Technologie' which was part of the ManiFeste-2021 Festival in Paris.
 
 {% include image.html
-max-width="100%" file="/assets/blog/novaxxx_small.jpg" alt="Figure 1. A selection of women pioneers. Designed by novaxxx." caption="Figure 1. A selection of women pioneers. Designed by novaxxx." %}
+max-width="100%" file="/assets/blog/novaxxx_small.jpg" alt="Figure 1. A selection of women pioneers in mathematics, technology and beyond. Designed by novaxxx." caption="Figure 1. A selection of women pioneers. Designed by novaxxx." %}
 
 
 In June 19 2021, the event 'Féminisme - Musique - Technologie' took place in Paris. As part of the [ManiFeste-2021](https://manifeste.ircam.fr/media/uploads/documents/agenda_manifeste-2021.pdf) Festival it was hosted by the [Institut de Recherche et de Coordination Acoustique/Musique (IRCAM)](https://www.ircam.fr/) in collaboration with Nova_XX/ Centre Wallonie-Bruxelles. IRCAM is a public research centre dedicated to musical creation and scientific research in Paris which is entangled with the [Centre Pompidou](https://www.centrepompidou.fr/en/) and Sorbonne Université. Commited to bring questions of intersectionality and inclusion in music, science and technology on the radar of the local research environments, [Dr. Frédéric Bevilacqua](https://frederic-bevilacqua.net/), head researcher from the [Sound Music Movement Interaction (ISMM) team](http://ismm.ircam.fr/about/) at IRCAM and [Dr. Sarah Fdili Alaoui](http://saralaoui.com/), associate professor at Université Paris-Saclay invited us to join this mini-conference.
@@ -22,10 +22,7 @@ In June 19 2021, the event 'Féminisme - Musique - Technologie' took place in Pa
 
 You can watch the full video of the event on the link below. The video starts with a thematic introduction by Sarah Fdili Alaoui (05:20) who introduces the presenters and concludes with and open discussion (1:15:00). In the second part the session continues in French.
 
-
-<div class="videoWrapper">
-<iframe width="750" height="422" src="https://youtu.be/jXmNvd9ty_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![Click here to watch the video](https://img.youtube.com/vi/jXmNvd9ty_o/0.jpg)](https://www.youtube.com/watch?v=jXmNvd9ty_o)
 
 <br />
 
