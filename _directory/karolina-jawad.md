@@ -3,7 +3,7 @@ title: Karolina Jawad
 layout: post
 permalink: /directory-of-wonomute/karolina-jawad/
 image: /assets/directory/karolina-jawad.jpg
-excerpt: <strong>Karolina Jawad</strong> works at the interface of art, technology and science. She is currently on the master program Music, Communication and Technology at NTNU/UiO, having previously studied theater, film and media studies with philosophy in Vienna. Karolina is research assistant in Trondheim and Co-Chair of WoNoMute (2018-present).
+excerpt: <strong>Karolina Jawad</strong> became involved in WoNoMute (2018-present) through the Music, Communication and Technology Master's programme at NTNU/UiO. Currently based in Berlin, Karolina still engages remotely and looks for new opportunities to continue her research alongside her work as an editor.
 comments: false
 ---
 
@@ -14,7 +14,7 @@ max-width="100%" file="/assets/directory/karolina-jawad.jpg" alt="Photo of Karol
 
 ## Bio
 
-Karolina Jawad works at the interface of art, technology and science. She is currently on the master program Music, Communication and Technology at NTNU/UiO, having previously studied theater, film and media studies with philosophy in Vienna. Karolina is research assistant in Trondheim and Co-Chair of WoNoMute (2018-present).
+Karolina Jawad She became involved in WoNoMute (2018-present) through the Music, Communication and Technology Master's programme at NTNU/UiO. Currently based in Berlin, Karolina still engages remotely and looks for new opportunities to continue her research alongside her work as an editor.
 
 
 ## Links
