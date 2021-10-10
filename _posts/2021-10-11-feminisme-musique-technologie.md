@@ -1,6 +1,6 @@
 ---
-title: Meeting up for the Féminisme - Musique - Technologie Conference 2021 in Paris
 layout: post
+title: Meeting up for the Féminisme - Musique - Technologie Conference 2021 in Paris
 permalink: /blog/2021-10-11-feminisme-musique-technologie/
 author: Karolina Jawad
 date:   2021-10-11 23:15:00 +0200
