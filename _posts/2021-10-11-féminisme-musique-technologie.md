@@ -40,7 +40,7 @@ Dr. Emma Frid is a post-doctoral researcher at KTH, Royal Institute of Technolog
 
 ### The WoNoMute Manifesto
 
-Finally Karolina and Anna presented the WoNoMute network in a hybrid format, me onsite and Anna from Sheffield. We enfolded the WoNoMute-Manifesto together with a time line of all the activities, from the beginning in 2018 to the present. The main points of the manifesto are:
+Finally myself and Anna presented the WoNoMute network in a hybrid format, me onsite and Anna from Sheffield. We enfolded the WoNoMute-Manifesto together with a time line of all the activities, from the beginning in 2018 to the present. The main points of the manifesto are:
 * to establish an international, local and national network of role models
 * to encourage women, girls and non-binary to participate and develop skills in music technology related fields
 * to revisit ontologies and epistemologies of the field so that everyone is welcome 
