@@ -10,13 +10,13 @@ excerpt: "On the 19th of June 2021 we were invited to introduce WoNoMute at the 
 comments: true
 ---
 
-In this blog post I will report my experience as a WoNoMute delegate who had the opportunity to travel to Paris and represent the organisation at the event 'Féminisme - Musique - Technologie' which was part of the ManiFeste-2021 Festival in Paris.
+*In this blog post I will report my experience as a WoNoMute delegate who had the opportunity to travel to Paris and represent the organisation at the event 'Féminisme - Musique - Technologie' which was part of the ManiFeste-2021 Festival in Paris.*
 
 {% include image.html
-max-width="100%" file="/assets/blog/novaxxx_small.jpg" alt="Figure 1. A selection of women pioneers in mathematics, technology and beyond. Designed by novaxxx." caption="Figure 1. A selection of women pioneers in mathematics, technology and beyond. Designed by novaxxx." %}
+max-width="100%" file="/assets/blog/novaxxx_small.jpg" alt="Figure 1. A selection of women pioneers in mathematics, technology and beyond. Designed by Novaxxx." caption="Figure 1. A selection of women pioneers in mathematics, technology and beyond. Designed by Novaxxx." %}
 
 
-In June 19 2021, the event 'Féminisme - Musique - Technologie' took place in Paris. As part of the [ManiFeste-2021](https://manifeste.ircam.fr/media/uploads/documents/agenda_manifeste-2021.pdf) Festival it was hosted by the [Institut de Recherche et de Coordination Acoustique/Musique (IRCAM)](https://www.ircam.fr/) in collaboration with Nova_XX/ Centre Wallonie-Bruxelles. IRCAM is a public research centre dedicated to musical creation and scientific research in Paris which is entangled with the [Centre Pompidou](https://www.centrepompidou.fr/en/) and Sorbonne Université. Commited to bring questions of intersectionality and inclusion in music, science and technology on the radar of the local research environments, [Dr. Frédéric Bevilacqua](https://frederic-bevilacqua.net/), head researcher from the [Sound Music Movement Interaction (ISMM) team](http://ismm.ircam.fr/about/) at IRCAM and [Dr. Sarah Fdili Alaoui](http://saralaoui.com/), associate professor at Université Paris-Saclay invited us to join this mini-conference.
+In June 19 2021, the event 'Féminisme - Musique - Technologie' took place in Paris. As part of the [ManiFeste-2021](https://manifeste.ircam.fr/media/uploads/documents/agenda_manifeste-2021.pdf) Festival it was hosted by the [Institut de Recherche et de Coordination Acoustique/Musique (IRCAM)](https://www.ircam.fr/) in collaboration with Nova_XXX/ Centre Wallonie-Bruxelles. IRCAM is a public research centre dedicated to musical creation and scientific research in Paris which is entangled with the [Centre Pompidou](https://www.centrepompidou.fr/en/) and Sorbonne Université. Commited to bring questions of intersectionality and inclusion in music, science and technology on the radar of the local research environments, [Dr. Frédéric Bevilacqua](https://frederic-bevilacqua.net/), head researcher from the [Sound Music Movement Interaction (ISMM) team](http://ismm.ircam.fr/about/) at IRCAM and [Dr. Sarah Fdili Alaoui](http://saralaoui.com/), associate professor at Université Paris-Saclay invited us to join this mini-conference.
 
 <br />
 
