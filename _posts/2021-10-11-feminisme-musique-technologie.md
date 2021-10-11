@@ -22,7 +22,9 @@ In June 19 2021, the event 'Féminisme - Musique - Technologie' took place in Pa
 
 You can watch the full video of the event on the link below. The video starts with a thematic introduction by Sarah Fdili Alaoui (05:20) who introduces the presenters and concludes with and open discussion (1:15:00). In the second part the session continues in French.
 
-<iframe width="750" height="422" src="https://www.youtube.com/embed/jXmNvd9ty_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+<iframe width="750" height="422" src="https://www.youtube.com/embed/jXmNvd9ty_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br />
 
@@ -55,7 +57,7 @@ The presentation can be found [here](https://miro.com/app/board/o9J_lBXi0m8=/?in
 {% include image.html
 max-width="100%" file="/assets/blog/roundtable_small.jpg" alt="Figure 3. Left by the table with Sarah Fdili Aloui and Karolina Jawad, description of the screen from left to right, top to bottom - Caroline Basset, Cécile Chevalier, Anna Xambó, Emma Frid and Sharon Webb." caption="Figure 3. Left by the table with Sarah Fdili Aloui and Karolina Jawad, description of the screen from left to right, top to bottom - Caroline Basset, Cécile Chevalier, Anna Xambó, Emma Frid and Sharon Webb." %}
 
-After the three presentations, we had a follow-up discussion facilitated by Sarah Fdili Alaoui. Several interesting topics which the presenters issued were: (1) The gendering of technology and realms of activity. (2) Whether the intersection of humanities and technology is a way to create more gender balance and a possibility to integrate more perspectives instead of "infiltrating" STEM (mathematics, computer science, natural sciences and technology) subjects through girls-only programmes and workshops (3) How does this imbalance manifest itself in music technology in its educational spaces or in the inhabiting objects? Further on, it was discussed that women in male-dominated spaces tend to thematize the gender imbalance while their work fades into the background.
+After the three presentations, we had a follow-up discussion facilitated by Sarah Fdili Alaoui. Several interesting topics which the presenters issued were: (1) The gendering of technology and realms of activity. (2) Whether the intersection of humanities and technology is a way to integrate more underrepresented perspectives instead of "infiltrating" STEM (mathematics, computer science, natural sciences and technology) subjects through girls-only programmes and workshops (3) How does this imbalance manifest itself in music technology in its educational spaces or in the inhabiting objects? Further on, it was discussed that women in male-dominated spaces tend to thematize the gender imbalance while their work fades into the background.
 
 ### Acknowledgements
 
