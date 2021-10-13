@@ -22,7 +22,11 @@ In June 19 2021, the event 'Féminisme - Musique - Technologie' took place in Pa
 
 You can watch the full video of the event on the link below. The video starts with a thematic introduction by Sarah Fdili Alaoui (05:20) who introduces the presenters and concludes with and open discussion (1:15:00). In the second part the session continues in French.
 
-[![Click here to watch the video](https://img.youtube.com/vi/jXmNvd9ty_o/0.jpg)](https://www.youtube.com/watch?v=jXmNvd9ty_o)
+<br />
+
+<iframe width="750" height="423" src="https://www.youtube.com/embed/jXmNvd9ty_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- [![Click here to watch the video](https://img.youtube.com/vi/jXmNvd9ty_o/0.jpg)](https://www.youtube.com/watch?v=jXmNvd9ty_o) -->
 
 <br />
 
