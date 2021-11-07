@@ -5,6 +5,7 @@ permalink: /interviews/jenny-berger-myhre/
 author: Karolina Jawad
 date:   2021-11-10 12:15:00 +0200
 image: /assets/interviews/jenny-b-m.jpg.jpg
+categories: post
 excerpt: "Jenny is a multidisciplinary artist working with sound, video and photography. Her music is created from field recordings, computer generated sequences, modular synths and lo-fi electronics resulting in soundscapes with references to both the electro-acoustic tradition as well as experimental pop music. Jenny's work revolves around personal documentation and archives, intimacy, memory, reality and re-contextualisation. Since the release of her debut album “Lint” in 2017, she has been working with musician and novelist Jenny Hval. In 2021 she received the Norwegian Arts Council’s work grant for young artists."
 comments: true
 ---
@@ -12,12 +13,12 @@ comments: true
 *Jenny is a multidisciplinary artist working with sound, video and photography. Her music is created from field recordings, computer generated sequences, modular synths and lo-fi electronics resulting in soundscapes with references to both the electro-acoustic tradition as well as experimental pop music. Jenny's work revolves around personal documentation and archives, intimacy, memory, reality and re-contextualisation. Since the release of her debut album “Lint” in 2017, she has been working with musician and novelist Jenny Hval. In 2021 she received the Norwegian Arts Council’s work grant for young artists.*
 
 {% include image.html
-max-width="80%" file="/assets/interviews/jenny-b-m.jpg" alt="Jenny Berger Myhre"
+max-width="100%" file="/assets/interviews/jenny-b-m.jpg" alt="Jenny Berger Myhre"
 caption="Jenny Berger Myhre" %}
 
 ## What is your background?
 
-I have been working with field recordings for some time. In high school I started recording my friends, music and sounds that had a personal connection to me. When I was 15, I began with photography. While studying musicology at the University of Oslo, I did a one-year exchange year at Goldsmiths College as part of my BA and started using these recordings to make music. I then learned how to use these sounds live in concerts at the Norwegian Academy of Music (NMH) studying Live Electronics. Since then I have been freelancing, doing art projects, a lot of video documentaries and working with a lot of musicians. I've always been very interested in these places where music and other art forms come together. The artists I look up to usually have the same approach. 
+I have been working with field recordings for some time. In high school I started recording my friends, music and sounds that had a personal connection to me. When I was 15, I began with photography. While studying musicology at the University of Oslo, I did a one-year exchange year at [Goldsmiths College](https://www.gold.ac.uk/) as part of my BA and started using these recordings to make music. I then learned how to use these sounds live in concerts at the Norwegian Academy of Music (NMH) studying Live Electronics. Since then I have been freelancing, doing art projects, a lot of video documentaries and working with a lot of musicians. I've always been very interested in these places where music and other art forms come together. The artists I look up to usually have the same approach. 
 
 ## How are you relating to music technology?
 
@@ -28,8 +29,8 @@ I've had always music around me, my entire life. I also played the clarinet sinc
 There have been people I have been inspired by since I was a teenager. Jenny Hval whom I also work with, she has been both a role model but also someone I learned from a lot. Especially how she makes work but also talking and collaborating with her has been very meaningful to me. Björk was a huge role model for me too and Laurie Anderson in her way of playing with things and invigorating them. At Goldsmiths some of my tutors gave me a lot of knowledge on how to start learning with very simple things to make good music or art. But also pointing out how to use technology in new ways. At Goldsmiths they take Pop music as seriously as classical or contemporary music. It meant a lot to me to be in a space where they listened critically to and getting inspired by any kind of music. And to critically think about using a computer on stage. I remember Gyrid Kaldestad had some lectures for us at NMH and that was really inspiring. Anders Tveit was my mentor there and gave me a good push in creating the Lint project. 
 
 
-A [Nuts and Bolts](https://www.nutsandbolts.space/) tutorial on DIY music instruments 
-<iframe width="750" height="423" src="https://www.youtube.com/watch?v=nfFIRPULqb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+A  tutorial on DIY music instruments Jenny made for [Nuts and Bolts](https://www.nutsandbolts.space/)
+[![Click here to watch the video](https://www.youtube.com/watch?v=nfFIRPULqb4)](https://www.youtube.com/watch?v=nfFIRPULqb4)
 
 
 ## What are your experiences being a woman in the music technology field?
@@ -38,7 +39,7 @@ My experiences have mostly been good and the places that I studied have been ver
 
 ## How did you got involved in Notam and in the meet-up for women in arts and technology?
 
-I started going to Notam because of their Mekkeklubb, it is a place where you can solder and fix electronics. There are a number of guys who run the club, amazing artist and really encouraging folks. It felt really safe to me to just meet up and hang out with them, I didn't even have any projects, I was just like 'oh what are you working on, what is this, how do you use the soldering iron'. They are really welcoming to new people, so that is definitely a place that I recommend anyone in Oslo. Because you don't have to know what you want to do and how to do it, but they can guide you in the right direction or inspire you. Especially Harald Fetveit and Einar Goksøyr Åsen taught me so much and encouraged me to try things out myself. The meet-up for women in the arts and technology started a couple of years ago as an initiative to create a safe space for women to talk about their work. And, to encourage young women to make art involving technology. That was run by Gyrid Kaldestad and Hilde Marie Holsen for a while, now it is me and Mariam Gviniashvili who are hosting it. The recent thing we decided was to stop calling it a meet-up for women in arts and technology and leave it open in terms of gender. We see that the safe space is safe even though there are also men in there. It is more needed to expose presentations or artists that one would not normally hear about. These are not only women but also non-binary- and transgender artists. So far it has been great, one of the few good things of the pandemic is to get an international network, to be able to sit down on a Wednesday evening and get inspired by innovative and beautiful work. 
+I started going to Notam because of their [Mekkeklubb](https://notam.no/community/dans-for-voksnes-mekkeklubb/), it is a place where you can solder and fix electronics. There are a number of guys who run the club, amazing artist and really encouraging folks. It felt really safe to me to just meet up and hang out with them, I didn't even have any projects, I was just like 'oh what are you working on, what is this, how do you use the soldering iron'. They are really welcoming to new people, so that is definitely a place that I recommend anyone in Oslo. Because you don't have to know what you want to do and how to do it, but they can guide you in the right direction or inspire you. Especially Harald Fetveit and Einar Goksøyr Åsen taught me so much and encouraged me to try things out myself. The meet-up for women in the arts and technology started a couple of years ago as an initiative to create a safe space for women to talk about their work. And, to encourage young women to make art involving technology. That was run by Gyrid Kaldestad and Hilde Marie Holsen for a while, now it is me and Mariam Gviniashvili who are hosting it. The recent thing we decided was to stop calling it a meet-up for women in arts and technology and leave it open in terms of gender. We see that the safe space is safe even though there are also men in there. It is more needed to expose presentations or artists that one would not normally hear about. These are not only women but also non-binary- and transgender artists. So far it has been great, one of the few good things of the pandemic is to get an international network, to be able to sit down on a Wednesday evening and get inspired by innovative and beautiful work. 
 
 ## Please present a project you have worked on recently.
 
@@ -55,6 +56,9 @@ Start with something simple. Just start with one thing and let it go from there.
 
 ## Thank you!
 
+
 ---
 
+## References
 
+* Jenny Berger Myhre's website https://jennybm.com/
