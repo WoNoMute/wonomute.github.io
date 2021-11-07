@@ -29,7 +29,7 @@ I've had always music around me, my entire life. I also played the clarinet sinc
 There have been people I have been inspired by since I was a teenager. Jenny Hval whom I also work with, she has been both a role model but also someone I learned from a lot. Especially how she makes work but also talking and collaborating with her has been very meaningful to me. Björk was a huge role model for me too and Laurie Anderson in her way of playing with things and invigorating them. At Goldsmiths some of my tutors gave me a lot of knowledge on how to start learning with very simple things to make good music or art. But also pointing out how to use technology in new ways. At Goldsmiths they take Pop music as seriously as classical or contemporary music. It meant a lot to me to be in a space where they listened critically to and getting inspired by any kind of music. And to critically think about using a computer on stage. I remember Gyrid Kaldestad had some lectures for us at NMH and that was really inspiring. Anders Tveit was my mentor there and gave me a good push in creating the Lint project. 
 
 
-A  tutorial on DIY music instruments Jenny made for [Nuts and Bolts](https://www.nutsandbolts.space/)
+A  tutorial on DIY music instruments Jenny made for [Nuts and Bolts](https://www.nutsandbolts.space/).
 [![Click here to watch the video](https://www.youtube.com/watch?v=nfFIRPULqb4)](https://www.youtube.com/watch?v=nfFIRPULqb4)
 
 
