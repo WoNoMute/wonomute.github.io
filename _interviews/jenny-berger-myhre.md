@@ -30,7 +30,7 @@ There have been people I have been inspired by since I was a teenager. Jenny Hva
 
 
 A  tutorial on DIY music instruments Jenny made for [Nuts and Bolts](https://www.nutsandbolts.space/).
-[![Click here to watch the video](https://www.youtube.com/watch?v=nfFIRPULqb4)](https://www.youtube.com/watch?v=nfFIRPULqb4)
+[![Click here to watch the video](https://img.youtube.com/vi/nfFIRPULqb4/0.jpg)](https://www.youtube.com/watch?v=nfFIRPULqb4)
 
 
 ## What are your experiences being a woman in the music technology field?
