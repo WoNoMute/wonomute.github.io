@@ -10,8 +10,6 @@ excerpt: "Jenny is a multidisciplinary artist working with sound, video and phot
 comments: true
 ---
 
-*Jenny is a multidisciplinary artist working with sound, video and photography. Her music is created from field recordings, computer generated sequences, modular synths and lo-fi electronics resulting in soundscapes with references to both the electro-acoustic tradition as well as experimental pop music. Jenny's work revolves around personal documentation and archives, intimacy, memory, reality and re-contextualisation. Since the release of her debut album “Lint” in 2017, she has been working with musician and novelist Jenny Hval. In 2021 she received the Norwegian Arts Council’s work grant for young artists.*
-
 {% include image.html
 max-width="100%" file="/assets/interviews/jenny-b-m.jpg" alt="Jenny Berger Myhre"
 caption="Jenny Berger Myhre" %}
