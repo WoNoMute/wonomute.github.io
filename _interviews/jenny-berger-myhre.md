@@ -59,6 +59,9 @@ Start with something simple. Just start with one thing and let it go from there.
 
 ---
 
+*This interview was conducted online on April 22nd, 2021*
+
+
 ## References
 
 * Jenny Berger Myhre's website https://jennybm.com/
