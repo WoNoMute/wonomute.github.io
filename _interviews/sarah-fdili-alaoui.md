@@ -11,7 +11,7 @@ comments: true
 ---
 
 {% include image.html
-max-width="100%" file="/assets/interviews/sarah_fdili_alaoui.jpg" alt="Sarah Fdili Alaoui"
+max-width="60%" file="/assets/interviews/sarah_fdili_alaoui.jpg" alt="Sarah Fdili Alaoui"
 caption="Sarah Fdili Alaoui" %}
 
 ## What is your background?
