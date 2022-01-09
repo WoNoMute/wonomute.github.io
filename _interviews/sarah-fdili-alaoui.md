@@ -3,7 +3,7 @@ layout: post
 title: An Interview with Sarah Fdili Alaoui
 permalink: /interviews/sarah-fdili-alaoui/
 author: Karolina Jawad
-date:   2022-01-09 22:30:00 +0200
+date:   2022-01-09 20:30:00 +0200
 image: /assets/interviews/sarah_fdili_alaoui_small.jpg
 categories: post
 excerpt: "Sarah Fdili Alaoui is assistant professor in Interaction Design at Université Paris Saclay. She is also a media artist, a choreographer dancer, mathematician and computer scientist. Sarah holds a PhD in Arts and Sciences from IRCAM and trained ballet and contemporary dance since 20 years. She has been working in many European Art projects, collaborating with choreographers, visual artists, computer scientists and designers to create interactive installations, performances and tools for supporting choreography."
