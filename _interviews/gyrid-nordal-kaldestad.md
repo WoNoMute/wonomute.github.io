@@ -11,7 +11,7 @@ comments: true
 ---
 
 {% include image.html
-max-width="60%" file="/assets/interviews/gyrid_k_s.jpg" alt="Gyrid Nordal Kaldestad. Photo by Are Lothe Kolbeinsen"
+max-width="100%" file="/assets/interviews/gyrid_k_s.jpg" alt="Gyrid Nordal Kaldestad. Photo by Are Lothe Kolbeinsen"
 caption="Gyrid Nordal Kaldestad. Photo by Are Lothe Kolbeinsen" %}
 
 ## What is your background?
@@ -30,7 +30,7 @@ I would say it is very positive for me, I had Maja Ratkje as a mentor. So, it wa
 
 She was one of them I would say, there are Hilde Sofie Tafjord, she played with. I got to know them at the same time. Tone Åse, in Trondheim, I always loved her way of singing and the way she was using electronics when I lived here. There were quite a few using it, but she did it in the most outstanding way that I experienced. Artists like Jana Winderen. By accident she was my neighbour, we were sound nerding in the corner of our house when she was there, she is a huge internationally known artists and was travelling all the time. But when she was there, I tried to grab her and talk. She is also very generous, sharing and talking about her work. There is Ewa Jacobsson, she is a visual artist and sound artist and composer, working in between different fields, which is inspiring. And of course, younger musicians like Hilde Marie Holsen that I'm playing with which is also very fun to play together with.
 
-You can watch the latest work «Den varme pusten på ruta» from Gyrid Nordal Kaldestad in the video on the link below. 
+You can watch the latest work and collaboration with the Swedish light artist Evelina Dembacke «Den varme pusten på ruta» from Gyrid Nordal Kaldestad in the video on the link below. 
 
 <iframe width="750" height="423" src="https://player.vimeo.com/video/652237562?h=eb41a52aaf" title="Vimeo video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
