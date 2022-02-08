@@ -11,6 +11,7 @@ order: 1
 | Chair     | [Anna Xambó](https://www.ntnu.edu/employees/anna.xambo.sedo) (NTNU, MCT)|
 |Co-Chair<br />Research Assistant<br /> Ambassador in Trondheim<br />Responsible of the WoNoMute blog <br />Workshops organizer|[Karolina Jawad](https://cv2c.noblogs.org/) (NTNU, MCT) |
 |Co-Chair|[Alexander Refsum Jensenius](https://www.hf.uio.no/ritmo/english/people/management/alexanje/index.html) (UiO, MCT)  |
+| Research Assistant<br /> Ambassador in Oslo<br /> Responsible for event organization<br /> Music Tech Camp organizer<br /> Workshops organizer   | [Alena Clim](https://www.linkedin.com/in/alena-clim-54a588151/) (UiO, MCT)|
 | Research Assistant<br /> Ambassador in Oslo<br /> Responsible of the WoNoMute directory<br /> Workshops organizer    | [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT)|
 | Research Assistant<br /> Ambassador in Oslo<br /> Responsible of the WoNoMute directory<br /> Workshops organizer    | [Ane Bjerkan](https://twitter.com/anebjerkan?lang=en) (UiO, IMV)|
 | Research Assistant<br /> Blogger <br /> Workshops organizer    | [Joni Mok](https://twitter.com/aursticflute?lang=en) (UiO, MCT)|
@@ -22,7 +23,7 @@ order: 1
 | NTNU Music Technology Study Program | [Andreas Bergsland](https://www.ntnu.no/ansatte/andreas.bergsland) (NTNU, MCT)|
 |  Executive Administration Manager    | [Dagny Margrete Causse](https://www.ntnu.no/ansatte/dagny.causse) (NTNU)|
 | Designer & Identity     |[Robin Mientjes](http://rbmntjs.nl/) (KOSO) |
-| Music     | [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT) |
+| Music     | [Alena Clim](https://www.linkedin.com/in/alena-clim-54a588151/) (UiO, MCT) |
 
 
 
