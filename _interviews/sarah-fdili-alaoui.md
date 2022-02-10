@@ -51,4 +51,4 @@ This interview was conducted online on 2nd November, 2021.
 ## References
 
 * Sarah Fdili Alaoui's website http://saralaoui.com/
-* Link to the PhD thesis in french **[Dance gesture analysis and physical models based visual feedback: contribution of movement qualities to interaction](https://tel.archives-ouvertes.fr/tel-00805519/)**
+* The PhD thesis in french *[Dance gesture analysis and physical models based visual feedback: contribution of movement qualities to interaction](https://tel.archives-ouvertes.fr/tel-00805519/)*
