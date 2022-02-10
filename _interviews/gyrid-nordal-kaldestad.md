@@ -5,7 +5,7 @@ permalink: /interviews/Gyrid-Nordal-Kaldestad/
 author: Karolina Jawad
 date:   2022-01-25 10:30:00 +0200
 image: /assets/interviews/gyrid_k_s.jpg
-categories: post
+categories: interviews
 excerpt: "Gyrid Nordal Kaldestad is a composer and performer from the island of Stord in Sunnhordland. She has a background in improvisation and electroacoustic music and work with vocals / song, live electronics, field recordings and text writing for use in compositions and installations. She has worked as a composer and musician in theater and dance performances where live electronics and electroacoustic sound images have been a central part of the expression. She is often involved in interdisciplinary projects. In November 2019, she started as an artistic research fellow at NTNU, connected to the department of music technology."
 comments: true
 ---
