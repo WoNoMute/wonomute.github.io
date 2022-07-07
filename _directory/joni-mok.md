@@ -3,7 +3,7 @@ title: Joni Mok
 layout: post
 permalink: /directory-of-wonomute/joni-mok/
 image: /assets/directory/joni-mok.jpg
-excerpt: <strong>Joni Mok</strong> (b. 1991) is a designer, photographer and musician. She lives her life as a nomad and is a multilingual. Currently doing her other masters in the Music, Communication, Technology programme. She researches in cross-modal perceptions and synaesthesia, attention and memory, universal design for learning, HCI, music cognition and visual perception. She wants to apply her creative skills in a more meaningful way - such as designing methods to improve educational systems, promote creativity in learning and support students with special needs.
+excerpt: Joni is a multidisciplinary designer, musician and photographer with a music performance and design research background.
 comments: false
 ---
 
@@ -12,10 +12,14 @@ comments: false
 max-width="100%" file="/assets/directory/joni-mok.jpg" alt="" %}
 </div>
 
-## Bio
+## Short Bio
 
-Joni is a Hong Kong-born British designer, photographer and musician. She started Irish penny whistle at age 8 and piano at age 9. She switched to the flute and piccolo entirely at age 10. She was an active member and performer around Eurasia with the Hong Kong Youth Wind Philharmonic and Metropolitan Youth Orchestra. She won numerous national music competitions from solo to concerto performances in Hong Kong. At age 13, she joined the Mozarteum Salzburg and continued pursuing her performance career. While she was still a teenager, her flute training at the Paris Ecole normale de musique was under Pierre-Yves Artaud and Yoanne Couix, where she specialized in 19th and 20th century French music. She was also a performing member of SNCF Paris wind band from 2008 - 2009. Then, she studied at the Conservatoire de Lyon under Michel Lavignolle and trained as an orchestral flautist in l’Orchestre de jeune de Lyon and later at Hamburger Konservatorium with Ceunen Waldo. She was chosen to be in William Bennett’s master class in 2009 as one of the performing students. Her flute playing style is a mixture of English, French and German. She was also under Sandrine Francois’s supervision. Joni taught flute in Cologne as a freelancer until she decided to pursue her other interests.
+Joni is a multidisciplinary designer, musician and photographer with a music performance and design research background — currently working as a product developer at ASIMUT software.
 
-From 2014, she worked as a commercial photographer and designer in Dublin, such as [50Hz Photography](https://www.50hzphotography.ie/), [Ventura Design](https://ventura.ie/) and [Signature Windows and Doors](https://signaturewindows.ie/) while she was doing her BA in Graphic design. She specialised in digital design, advertising. She later discovered UX/UI design, human-computer-interaction, neuroscience, universal design for learning and cognitive psychology. She fell in love with these.
+She was born in Hong Kong and grew up in France and Germany. Trained at Conservatoire de Lyon and Hamburger Konservatorium, Joni has worked in music performance and music education. She also trained as a designer at the Dublin Institute of Design and Kolding Design School and worked as graphic designer, commercial photographer, workshop facilitator, studio manager, UX/UI designer.
 
-In 2017, she was commended in the Universal design and shortlisted in the UX/UI design categories in the Irish graduates design award. With her love of learning and strong curiosity about scientific research, she moved to Denmark to pursue a design research career while putting her other creative skills into use. In her MA at the Designskole Kolding, she was trained mainly in the public, education and health sectors. During her 2 years in Denmark, she contributed in Skanderborg Kommune, Fredericia Sundhedshus, Vejle Hospital and Sprogskolen Kolding. She also discovered love for journalism and documentary where she started filming and creative writing. Her research projects included designing methods to improve tools for dyslexics to read and designing methods for students to learn. She also contributed as a UX/UI designer to some digital platforms such as [Speeda](https://asia.ub-speeda.com/en/), [Theia](https://www.mytheia.com/), [Lenx](https://www.lenx.ai/) and was a facilitator in workshops at [Designit](https://www.designit.com/). Besides her creative background, currently she wants to focus on improving education for special needs. By combining the idea of cross-modal perception (e.g. Synesthesia) to design methods and technology that tailor individual learners’ needs and learning styles. She wants to promote creativity in learning and improve educational systems. In her current M.Phil. studies at the University of Oslo in the Music, Communication, Technology programme, she hopes to discover a clearer path that allows all her interests , passions and background to be used in a more meaningful way.  
+She specialises in turning human users' needs into feasible technical solutions.
+
+Aside from design, Joni works as a professional commercial photographer and videographer and she plays the flute in the Harmoniorkestret Tonica. She loves sherry, wine and whiskey and enjoys spending time in the nature. In her spare time, she makes stuff with Arduino and explore new programming languages. She plays some video games.
+
+www.jonimok.com
