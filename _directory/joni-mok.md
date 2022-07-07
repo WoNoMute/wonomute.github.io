@@ -20,6 +20,6 @@ She was born in Hong Kong and grew up in France and Germany. Trained at Conserva
 
 She specialises in turning human users' needs into feasible technical solutions.
 
-Aside from design, Joni works as a professional commercial photographer and videographer and she plays the flute in the Harmoniorkestret Tonica. She loves sherry, wine and whiskey and enjoys spending time in the nature. In her spare time, she makes stuff with Arduino and explore new programming languages. She plays some video games.
+Aside from design, Joni works as a professional commercial photographer and videographer. In the Harmoniorkestret Tonica, she plays the flute. She loves sherry, wine and whiskey and enjoys spending time in the nature. In her spare time, she makes stuff with Arduino and explores new programming languages. She plays some video games.
 
-www.jonimok.com
+![Joni Mok] (https://www.jonimok.com/)
