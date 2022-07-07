@@ -14,7 +14,7 @@ order: 1
 | Research Assistant<br /> Ambassador in Oslo<br /> Responsible for event organization<br /> Music Tech Camp organizer<br /> Workshops organizer   | [Alena Clim](https://www.linkedin.com/in/alena-clim-54a588151/) (UiO, MCT)|
 | Research Assistant<br /> Ambassador in Oslo<br /> Responsible of the WoNoMute directory<br /> Workshops organizer    | [Mari Lesteberg](https://www.youtube.com/user/maisplante/about) (UiO, MCT)|
 | Research Assistant<br /> Ambassador in Oslo<br /> Responsible of the WoNoMute directory<br /> Workshops organizer    | [Ane Bjerkan](https://twitter.com/anebjerkan?lang=en) (UiO, IMV)|
-| Research Assistant<br /> Blogger <br /> Workshops organizer    | [Joni Mok](https://twitter.com/aursticflute?lang=en) (UiO, MCT)|
+| Research Assistant<br /> Designer <br /> Workshops organizer    | [Joni Mok](https://twitter.com/aursticflute?lang=en) (UiO, MCT)|
 |Artistic Collaborator<br />      |[Ada Mathea Hoel](NTNU) |
 |  Executive    | [Ellen Karlsen Holmås](https://www.ntnu.no/ansatte/ellen.holmas) (NTNU) |
 | Audiovisual Media Responsibles     | [Robin Støckert](https://www.ntnu.edu/employees/robin.stockert) (NTNU) <br /> [Anders Tveit](https://www.hf.uio.no/imv/english/people/aca/temporary/andertve/) (UiO) |
