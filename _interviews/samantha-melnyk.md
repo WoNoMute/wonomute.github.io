@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Interview with Samantha Melnyk
-permalink: /interviews/Samantha-Melnyk/
+permalink: /interviews/samantha-melnyk/
 author: Karolina Jawad
 date:   2022-07-22 07:30:00 +0200
 image: /assets/interviews/samantha_melnyk.jpg
@@ -11,7 +11,7 @@ comments: true
 ---
 
 {% include image.html
-max-width="60%" file="/assets/interviews/sam_melnyk_workshopImage.jpg.jpg" alt="Samantha Melnyk"
+max-width="70%" file="/assets/interviews/samantha_melnyk.jpg" alt="Samantha Melnyk"
 caption="Samantha Melnyk" %}
 
 ## What is your background?
@@ -35,7 +35,7 @@ Such an example was a project where I was researching and testing sustainable pa
 When I initially started at KORG, I was living in Berlin and was onsite in the workshop - I was doing different fabrication tasks like machining with the in-house CNC, 3D printing, etc.  I work with a motivated team keen to take on the challenges of the circular economy, so we often have a lot of conversations around this on the industrial and mechanical engineering side of things.  At the start of designing the product KORG Berlin is currently developing, material research was a large part of my day-to-day. I got my hands on materials that were of interest to us to work with them first hand, to really see what could fit the product visually, haptically, and conduct early viability studies if the material could work mechanically. 
 
 {% include image.html
-max-width="60%" file="/assets/interviews/sam_melnyk_workshopImage.jpg.jpg" alt="Samantha in the workshop at KORG"
+max-width="60%" file="/assets/interviews/sam_melnyk_workshopImage.jpg" alt="Samantha in the workshop at KORG"
 caption="Samantha in the workshop at KORG" %}
 
 In the last months, I have actually relocated to MontrU+00e9al, so my role involves no physical fabrication now. I am doing a lot of design and planning work to figure out how the current product in development can remain circular in the manufacturing stage. This involves looking at a giant network of entwined relationships like where materials are sourced, where they have to travel to, the carbon costs of processing this material, the type of energy that is being used in production - I could go on.  Another big point of development is to create strategies for people to be able to care for our products and to set up an infrastructure of care that has to run parallel with the product development. 
@@ -53,7 +53,6 @@ I am inspired by the right to repair movement, and like many, I feel it is extre
 It has been important for us to also think about the end-of-life strategy for our products.  While we hope it takes a long while to come to that, information needs to be accessible in different forms so that wherever this ends up, someone can take it apart and recycle or repurpose it properly. 
 
 
-
 ## Will you travel to Europe regularly? How is the work flow? Do you collaborate with others in the design process? How?
 
 For the moment no, and I don't think we are entertaining this. The way the world is now, I think I will only return to Berlin (or wherever it is necessary to go) for something that really requires a physical presence. I am also not the only remote person on the team, we have set up a system for online people to collaborate with people who are in the office. It involves a good deal of online meetings with debates, discussions, and a lot of sketching digitally or physically with paper being held up to the camera. Everyone puts attention into regular updates and communicating their ideas by posting them on a workplace messenger. I think sometimes having to write your intentions down and be very clear about them has been rather beneficial to make sure we are all on the same page - especially because you can't always explain it live. I have also been collaborating with researchers and different people outside of KORG Berlin on circularity for the product, the same workflow rings true for them as well. The transition to working entirely remote has been relatively painless since many of us have had good practice with seeing our coworkers solely online over these past few years.
@@ -67,7 +66,7 @@ I think we all need to be vocal about wanting more diversity in the fields that 
 
 
 
-This interview was conducted live in Berlin in August 2021 and online in 2022.
+*This interview was conducted live in Berlin in August 2021 and online in 2022.*
 
 ---
 
