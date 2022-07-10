@@ -11,7 +11,7 @@ comments: true
 ---
 
 {% include image.html
-max-width="70%" file="/assets/interviews/samantha_melnyk.jpg" alt="Samantha Melnyk"
+max-width="100%" file="/assets/interviews/samantha_melnyk.jpg" alt="Samantha Melnyk"
 caption="Samantha Melnyk" %}
 
 ## What is your background?
@@ -41,7 +41,7 @@ caption="Samantha in the workshop at KORG" %}
 In the last months, I have actually relocated to Montreal, so my role involves no physical fabrication now. I am doing a lot of design and planning work to figure out how the current product in development can remain circular in the manufacturing stage. This involves looking at a giant network of entwined relationships like where materials are sourced, where they have to travel to, the carbon costs of processing this material, the type of energy that is being used in production - I could go on.  Another big point of development is to create strategies for people to be able to care for our products and to set up an infrastructure of care that has to run parallel with the product development. 
 
 
-## Which materials did you end up using? In terms of shape and color, do you have to stick to certain conventions, are they predefined or are you free to design the items as you wish?
+## Which materials did you end up using? In terms of shape and color, do you have to stick to certain conventions or are you free to design the items as you wish?
 
 Right now material choice is being driven by what makes sense for endurance and the environment, the two have equal footing in our selection as well as understanding what recycled or recyclable materials are available.  In terms of colour, we often say we are trying to work with honest materials, so minimizing any aesthetic treatment while we focus only on treatments that improve the lifespan without jeopardizing recyclability. Things like this are guiding the decisions we are making on the different components of the product.
 
@@ -54,7 +54,7 @@ It has been important for us to also think about the end-of-life strategy for ou
 
 
 
-## Will you travel to Europe regularly? How is the work flow? Do you collaborate with others in the design process? How?
+## Will you travel to Europe regularly? How do you collaborate with others in the design process? 
 
 For the moment no, and I don't think we are entertaining this. The way the world is now, I think I will only return to Berlin (or wherever it is necessary to go) for something that really requires a physical presence. I am also not the only remote person on the team, we have set up a system for online people to collaborate with people who are in the office. It involves a good deal of online meetings with debates, discussions, and a lot of sketching digitally or physically with paper being held up to the camera. Everyone puts attention into regular updates and communicating their ideas by posting them on a workplace messenger. I think sometimes having to write your intentions down and be very clear about them has been rather beneficial to make sure we are all on the same page - especially because you can't always explain it live. I have also been collaborating with researchers and different people outside of KORG Berlin on circularity for the product, the same workflow rings true for them as well. The transition to working entirely remote has been relatively painless since many of us have had good practice with seeing our coworkers solely online over these past few years.
 
