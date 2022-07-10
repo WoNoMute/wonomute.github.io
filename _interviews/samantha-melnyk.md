@@ -35,10 +35,10 @@ Such an example was a project where I was researching and testing sustainable pa
 When I initially started at KORG, I was living in Berlin and was onsite in the workshop - I was doing different fabrication tasks like machining with the in-house CNC, 3D printing, etc.  I work with a motivated team keen to take on the challenges of the circular economy, so we often have a lot of conversations around this on the industrial and mechanical engineering side of things.  At the start of designing the product KORG Berlin is currently developing, material research was a large part of my day-to-day. I got my hands on materials that were of interest to us to work with them first hand, to really see what could fit the product visually, haptically, and conduct early viability studies if the material could work mechanically. 
 
 {% include image.html
-max-width="60%" file="/assets/interviews/sam_melnyk_workshopImage.jpg" alt="Samantha in the workshop at KORG"
+max-width="60%" file="/assets/interviews/sam_melnyk_workshop.jpg" alt="Samantha in the workshop at KORG"
 caption="Samantha in the workshop at KORG" %}
 
-In the last months, I have actually relocated to MontrU+00e9al, so my role involves no physical fabrication now. I am doing a lot of design and planning work to figure out how the current product in development can remain circular in the manufacturing stage. This involves looking at a giant network of entwined relationships like where materials are sourced, where they have to travel to, the carbon costs of processing this material, the type of energy that is being used in production - I could go on.  Another big point of development is to create strategies for people to be able to care for our products and to set up an infrastructure of care that has to run parallel with the product development. 
+In the last months, I have actually relocated to Montreal, so my role involves no physical fabrication now. I am doing a lot of design and planning work to figure out how the current product in development can remain circular in the manufacturing stage. This involves looking at a giant network of entwined relationships like where materials are sourced, where they have to travel to, the carbon costs of processing this material, the type of energy that is being used in production - I could go on.  Another big point of development is to create strategies for people to be able to care for our products and to set up an infrastructure of care that has to run parallel with the product development. 
 
 
 ## Which materials did you end up using? In terms of shape and color, do you have to stick to certain conventions, are they predefined or are you free to design the items as you wish?
@@ -51,6 +51,7 @@ Right now material choice is being driven by what makes sense for endurance and 
 I am inspired by the right to repair movement, and like many, I feel it is extremely important that we adopt this into electronic products so we can care for them.  These products need to be designed in a way people can maintain them, disassemble them, replace parts and feel comfortable and confident doing this.  I think people clearly want to value repair again and we should be able to keep our beloved electronic instruments working and not ending up in a junkyard.  Sometimes these repairs are so minor, it could be just a loose connection somewhere, and you should be provided with the resources to be able to troubleshoot this at home. Sometimes they are a bit more involved, like replacing a broken key, and you should be able to have access to a replacement. It is the story same for replacing batteries, screens, or any specialized items for the product. 
 
 It has been important for us to also think about the end-of-life strategy for our products.  While we hope it takes a long while to come to that, information needs to be accessible in different forms so that wherever this ends up, someone can take it apart and recycle or repurpose it properly. 
+
 
 
 ## Will you travel to Europe regularly? How is the work flow? Do you collaborate with others in the design process? How?
@@ -66,7 +67,7 @@ I think we all need to be vocal about wanting more diversity in the fields that 
 
 
 
-*This interview was conducted live in Berlin in August 2021 and online in 2022.*
+This interview was conducted live in Berlin in August 2021 and online in 2022.
 
 ---
 
