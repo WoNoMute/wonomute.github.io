@@ -3,7 +3,7 @@ layout: post
 title: An Interview with Samantha Melnyk
 permalink: /interviews/samantha-melnyk/
 author: Karolina Jawad
-date:   2022-07-22 07:30:00 +0200
+date:   2022-07-07 07:30:00 +0200
 image: /assets/interviews/samantha_melnyk.jpg
 categories: interviews
 excerpt: "Samantha is a designer, fabricator and researcher at KORG Berlin. With the team, Samantha creates more sustainability-minded infrastructures for its products.   With a background in architecture, digital and robotic fabrication, and circular design, she has been part of projects that span from architectural pavilions, footwear, haptic devices and musical instruments."
