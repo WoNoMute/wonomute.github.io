@@ -3,7 +3,7 @@ layout: post
 title: An Interview with Samantha Melnyk
 permalink: /interviews/samantha-melnyk/
 author: Karolina Jawad
-date:   2022-07-07 07:30:00 +0200
+date:   2022-07-11 07:30:00 +0200
 image: /assets/interviews/samantha_melnyk.jpg
 categories: interviews
 excerpt: "Samantha is a designer, fabricator and researcher at KORG Berlin. With the team, Samantha creates more sustainability-minded infrastructures for its products.   With a background in architecture, digital and robotic fabrication, and circular design, she has been part of projects that span from architectural pavilions, footwear, haptic devices and musical instruments."
@@ -24,7 +24,7 @@ While I haven't been working in music technology for that long, say about two ye
 
 ## Did you have a role model or mentor?
 
-I worked with a lot of amazing people in my studies, a lot of women in the STEM sector and in architecture. It would be tricky to name them all here. However, I will mention that my partner is a big role model for me. She is an architect, who has been really pushing for environmental progress in the building sector. Through her, I developed a different type of relationship with design and the materials we use. It opened the door to this very complex but important world to navigate to put out more sustainable products. I am bringing these values and this passion for a move to a healthier building practice, the circular economy, into my work at [KORG Berlin](https://korg.berlin/). 
+I worked with a lot of amazing people in my studies, a lot of women in the STEM sector and in architecture. It would be tricky to name them all here. However, I will mention that my partner is a big role model for me. She is an architect, who has been really pushing for environmental progress in the building sector. Through her, I developed a different type of relationship with design and the materials we use. It opened the door to this very complex but important world to navigate to put out more sustainable products. I am bringing these values and this passion for a move to a healthier building practice, the [circular economy](https://en.wikipedia.org/wiki/Circular_economy), into my work at [KORG Berlin](https://korg.berlin/). 
 
 ## Can you give an example?
 
@@ -35,8 +35,8 @@ Such an example was a project where I was researching and testing sustainable pa
 When I initially started at KORG, I was living in Berlin and was onsite in the workshop - I was doing different fabrication tasks like machining with the in-house CNC, 3D printing, etc.  I work with a motivated team keen to take on the challenges of the circular economy, so we often have a lot of conversations around this on the industrial and mechanical engineering side of things.  At the start of designing the product KORG Berlin is currently developing, material research was a large part of my day-to-day. I got my hands on materials that were of interest to us to work with them first hand, to really see what could fit the product visually, haptically, and conduct early viability studies if the material could work mechanically. 
 
 {% include image.html
-max-width="60%" file="/assets/interviews/sam_melnyk_workshop.jpg" alt="Samantha in the workshop at KORG"
-caption="Samantha in the workshop at KORG" %}
+max-width="60%" file="/assets/interviews/sam_melnyk_workshop.jpg" alt="Samantha in the workshop at KORG Berlin"
+caption="Samantha in the workshop at KORG Berlin" %}
 
 In the last months, I have actually relocated to Montreal, so my role involves no physical fabrication now. I am doing a lot of design and planning work to figure out how the current product in development can remain circular in the manufacturing stage. This involves looking at a giant network of entwined relationships like where materials are sourced, where they have to travel to, the carbon costs of processing this material, the type of energy that is being used in production - I could go on.  Another big point of development is to create strategies for people to be able to care for our products and to set up an infrastructure of care that has to run parallel with the product development. 
 
