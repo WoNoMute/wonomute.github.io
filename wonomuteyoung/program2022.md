@@ -16,7 +16,7 @@ Under finner du høstens program og lenker til påmelding.
 
 
 
-**14. september 2022** // ***18:30-20:30*** // ***Startblokka, bygg 4, Oslo*** // ***LittleBits-verksted med Mari - en musikalsk form for lego***
+**14. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **LittleBits-verksted med Mari - en musikalsk form for lego**
 
 
 LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og
