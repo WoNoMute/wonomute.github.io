@@ -16,18 +16,16 @@ Det er mulig å melde seg på én workshop eller flere. Dersom workshopen fylles
 Under finner du høstens program og lenker til påmelding.
 
 
-
-**14. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **LittleBits-verksted med Mari - en musikalsk form for lego**
+##LittleBits-verksted med Mari - en musikalsk form for lego##
+**14. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo**
 
 
 LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og
 musikk. 
+<img src="/assets/wonomuteyoung/workshops/littlebits.jpg" width="30%">
 
 <details><summary><b>Les mer her</b></summary> 
 <p>
-
-<img src="/assets/wonomuteyoung/workshops/littlebits.jpg" size="10%">
-
 Workshopen er et utforskende og hyggelig kurs som ikke krever noen forkunnskaper. LittleBits er et byggesett for å lage en synth. Workshopen er for jenter og ikke-binære i alderen 12-18 år og passer for alle som er nysgjerrige og har en utforskende spire i magen. 
 <br><br>
 LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og musikk. Konseptet er utviklet av Korg og gjør det lett for hvem som helst å bygge små synther. Samtidig lærer man litt om hvordan synther er bygd opp. Vi gir en kort introduksjon til hvordan littleBits fungerer, deretter får dere prøve selv! Til slutt har vi en improvisert jam-session der alle får spille med de selvlagde instrumentene sine. Ingen forkunnskaper er nødvendig til denne workshopen.
@@ -79,14 +77,5 @@ kan lage musikkinstrumenter og andre musikkapper og spill ved hjelp av enkel pro
 Scratch. // **Les mer her** // **Påmelding**
 
 
-Her finner du oss:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1998.540063610804!2d10.84028340103671!3d59.93977380000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416fdcd2140db7%3A0x32c80eb2c75f9dde!2s%C3%98stre%20Aker%20vei%2090%2C%200596%20Oslo!5e0!3m2!1sno!2sno!4v1661625962573!5m2!1sno!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<div id="posters">
-{% include image.html
-max-width="100%" file="/assets/posters/wonomuteyoung2.jpg" alt="Høstprogram for WoNoMute young 2022" url="/wonomuteyoung/program2022"
-%}
-
-</div>
 
