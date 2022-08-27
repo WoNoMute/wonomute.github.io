@@ -22,7 +22,7 @@ Under finner du høstens program og lenker til påmelding.
 LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og
 musikk. 
 
-<details><summary>Les mer her</summary> // **Påmelding**
+<details><summary>Les mer her </summary> // **Påmelding**
 <p>
 
 <img src="/assets/wonomuteyoung/workshops/littlebits.jpg" size="30%">
