@@ -30,3 +30,16 @@ I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analo
 Vi lager et elektronisk instrument helt fra bunnen ut av gjenbruksting. I samarbeid med MUV
 kreativt gjenbrukssenter på Startblokka. // **Les mer her** // **Påmelding**
 
+**Høstferie :)**
+
+**12. oktober 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Basis live-lyd med Ane**
+
+Har du lyst til å få til å skru lyd på bandøvingen din? Eller for deg selv? Eller lære om scenelyd?
+I denne workshopen får du basiskunnskapene du trenger, samt andre tips og triks. // **Les mer her** // **Påmelding**
+
+**19. oktober 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Musikk-koding i Scratch med Mari**
+
+Koding er først og fremt kreativt og gøy, og i denne workshopen vil vi forsøke å vise hvordan man
+kan lage musikkinstrumenter og andre musikkapper og spill ved hjelp av enkel programmering i
+Scratch. // **Les mer her** // **Påmelding**
+
