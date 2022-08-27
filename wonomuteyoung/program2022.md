@@ -22,20 +22,21 @@ Under finner du høstens program og lenker til påmelding.
 LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og
 musikk. 
 
-<details><summary>**Les mer her**</summary>
+<details><summary>Les mer her</summary> // **Påmelding**
 <p>
 
 <img src="/assets/wonomuteyoung/workshops/littlebits.jpg" size="30%">
 
 Workshopen er et utforskende og hyggelig kurs som ikke krever noen forkunnskaper. LittleBits er et byggesett for å lage en synth. Workshopen er for jenter og ikke-binære i alderen 12-18 år og passer for alle som er nysgjerrige og har en utforskende spire i magen. 
-
+<br>
 LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og musikk. Konseptet er utviklet av Korg og gjør det lett for hvem som helst å bygge små synther. Samtidig lærer man litt om hvordan synther er bygd opp. Vi gir en kort introduksjon til hvordan littleBits fungerer, deretter får dere prøve selv! Til slutt har vi en improvisert jam-session der alle får spille med de selvlagde instrumentene sine. Ingen forkunnskaper er nødvendig til denne workshopen.
-
+<br>
 Tilgjengelige plasser: 10.
 
 
 </p>
-</details> // **Påmelding**
+</details> 
+
 
 **21. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Vi prøver trommemaskiner med Ane**
 
