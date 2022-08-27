@@ -16,13 +16,15 @@ Det er mulig å melde seg på én workshop eller flere. Dersom workshopen fylles
 Under finner du høstens program og lenker til påmelding.
 
 
-##LittleBits-verksted med Mari - en musikalsk form for lego##
-**14. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo**
+## LittleBits-verksted med Mari - en musikalsk form for lego
+
+**14. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **[Påmelding](https://nettskjema.no/a/264035#/page/1)**
 
 
 LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og
 musikk. 
-<img src="/assets/wonomuteyoung/workshops/littlebits.jpg" width="30%">
+
+<img src="/assets/wonomuteyoung/workshops/littlebits.jpg" width="50%">
 
 <details><summary><b>Les mer her</b></summary> 
 <p>
@@ -34,21 +36,29 @@ Tilgjengelige plasser: 10.
 </p>
 </details>
 
-**[Påmelding](https://nettskjema.no/a/264035#/page/1)**
+**[Meld deg på her!](https://nettskjema.no/a/264035#/page/1)**
 
 
-**21. september 2022** // **18:30-20:30** // **Startblokka, Konferanserommet, Oslo** // **Vi prøver trommemaskiner med Ane**
+## Vi prøver trommemaskiner med Ane
 
-I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner.. 
+**21. september 2022** // **18:30-20:30** // **Startblokka, Konferanserommet, Oslo** // **[Påmelding](https://nettskjema.no/a/280019#/page/1)**
 
 
-<details><summary><b>Les mer her</b></summary> 
-<script type="text/javascript" src="https://nettskjema.no/static/js/external-embedding.js"></script><iframe class="nettskjema-iframe" src="https://nettskjema.no/a/280019?embed=1" title="Vi prøver trommemaskiner" frameborder="0" width="100%">Hvis du kan lese dette, støtter ikke nettleseren din iframes.</iframe>
+<img src="/assets/wonomuteyoung/workshops/ane.jpg" width="50%">
+
+
+<details><summary><b>I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner ... (trykk for å lese mer) </b></summary> 
+I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner. De kan du bruke om du skriver musikk, vil spille med rytmer når du spiller/synger/rapper eller hvis du bare vil lage kule rytmer. 
+Ane har med trommemaskiner fra Korg Volca Beats som vi skal lære oss å bruke, sette opp mønster av lyder som blir gjentagende looper. Workshopen krever ingen forkunnskaper, men er for de som er nysgjerrige på trommemaskiner. 
+
 </details>
 
-**[Påmelding](https://nettskjema.no/a/280019#/page/1)**
+**[Meld deg på her!](https://nettskjema.no/a/280019#/page/1)**
 
-**28. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Lag et DiY musikkinstrument med Mari**
+
+## Lag et DiY musikkinstrument med Mari
+
+**28. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // 
 
 Vi lager et elektronisk instrument helt fra bunnen ut av gjenbruksting. I samarbeid med MUV
 kreativt gjenbrukssenter på Startblokka. // **Les mer her** // **[Påmelding](https://nettskjema.no/a/280020#/page/1)**
