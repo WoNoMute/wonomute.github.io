@@ -3,7 +3,7 @@ layout: page
 title: WoNoMute Young - Program 2022
 permalink: /wonomuteyoung/program2022
 ---
-Program! 
+# Høstens Program! 
 
 Er du jente, mellom 12-18 år og har lyst til å lære mer om musikk
 og teknologi? For eksempel vokalteknikk i studio, musikk-koding,
@@ -16,30 +16,25 @@ Det er mulig å melde seg på én workshop eller flere. Dersom workshopen fylles
 Under finner du høstens program og lenker til påmelding.
 
 
-## LittleBits-verksted med Mari - en musikalsk form for lego
+### 14. september: LittleBits-verksted med Mari - en musikalsk form for lego
 
 **14. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **[Påmelding](https://nettskjema.no/a/264035#/page/1)**
 
-
-LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og
-musikk. 
-
 <img src="/assets/wonomuteyoung/workshops/littlebits.jpg" width="50%">
 
-<details><summary><b>Les mer her</b></summary> 
+<details><summary><b>LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og
+musikk ... (trykk for å lese mer)</b></summary> 
 <p>
 Workshopen er et utforskende og hyggelig kurs som ikke krever noen forkunnskaper. LittleBits er et byggesett for å lage en synth. Workshopen er for jenter og ikke-binære i alderen 12-18 år og passer for alle som er nysgjerrige og har en utforskende spire i magen. 
 <br><br>
 LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og musikk. Konseptet er utviklet av Korg og gjør det lett for hvem som helst å bygge små synther. Samtidig lærer man litt om hvordan synther er bygd opp. Vi gir en kort introduksjon til hvordan littleBits fungerer, deretter får dere prøve selv! Til slutt har vi en improvisert jam-session der alle får spille med de selvlagde instrumentene sine. Ingen forkunnskaper er nødvendig til denne workshopen.
-<br><br>
-Tilgjengelige plasser: 10.
 </p>
 </details>
 
 **[Meld deg på her!](https://nettskjema.no/a/264035#/page/1)**
 
 
-## Vi prøver trommemaskiner med Ane
+### 21. september: Vi prøver trommemaskiner med Ane
 
 **21. september 2022** // **18:30-20:30** // **Startblokka, Konferanserommet, Oslo** // **[Påmelding](https://nettskjema.no/a/280019#/page/1)**
 
@@ -48,20 +43,32 @@ Tilgjengelige plasser: 10.
 
 
 <details><summary><b>I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner ... (trykk for å lese mer) </b></summary> 
+<p>
 I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner. De kan du bruke om du skriver musikk, vil spille med rytmer når du spiller/synger/rapper eller hvis du bare vil lage kule rytmer. 
 Ane har med trommemaskiner fra Korg Volca Beats som vi skal lære oss å bruke, sette opp mønster av lyder som blir gjentagende looper. Workshopen krever ingen forkunnskaper, men er for de som er nysgjerrige på trommemaskiner. 
-
+</p>
 </details>
 
 **[Meld deg på her!](https://nettskjema.no/a/280019#/page/1)**
 
 
-## Lag et DiY musikkinstrument med Mari
+### 28. september: Lag et DiY musikkinstrument med Mari
 
-**28. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // 
+**28. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **[Påmelding](https://nettskjema.no/a/280020#/page/1)**
 
-Vi lager et elektronisk instrument helt fra bunnen ut av gjenbruksting. I samarbeid med MUV
-kreativt gjenbrukssenter på Startblokka. // **Les mer her** // **[Påmelding](https://nettskjema.no/a/280020#/page/1)**
+<img src="/assets/wonomuteyoung/workshops/synthdiy.jpg" width="50%">
+
+
+<details><summary><b>Vi lager et elektronisk instrument helt fra bunnen ut av gjenbruksting. I samarbeid med MUV
+kreativt gjenbrukssenter på Startblokka.(trykk for å lese mer) </b></summary> 
+<p>
+Ta med dere en eske av noe slag som det er greit å “ødelegge” (alt fra en matboks til skoeske eller treskrin) eller noe annet som har et hulrom (vær kreativ!). I denne workshopen vil dere få prøve dere på å lage et elektronisk instrument helt fra bunnen av. Vi vil utforske lyd, og bare kreativiteten setter grenser. Instrumentet får du ta deg med hjem etterpå. Til slutt har vi en improvisert jam-session der alle får spille med de selvlagde instrumentene sine. Ingen forkunnskaper er nødvendig til denne workshopen.
+
+Dersom du vil vite mer om hva vi kommer til å gjøre på denne workhshopen kan du se denne videoen: https://youtu.be/nfFIRPULqb4
+</p>
+</details>
+
+**[Meld deg på her!](https://nettskjema.no/a/280020#/page/1)**
 
 
 
@@ -85,6 +92,8 @@ I denne workshopen får du basiskunnskapene du trenger, samt andre tips og triks
 Koding er først og fremt kreativt og gøy, og i denne workshopen vil vi forsøke å vise hvordan man
 kan lage musikkinstrumenter og andre musikkapper og spill ved hjelp av enkel programmering i
 Scratch. // **Les mer her** // **Påmelding**
+
+https://nettskjema.no/a/280022#/page/1
 
 
 
