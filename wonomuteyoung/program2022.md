@@ -92,16 +92,24 @@ Vi skal prøve det ut i praksis, slik at det setter seg litt i fingrene.
 
 
 
+### 19. oktober:  Musikk-koding i Scratch med Mari
 
+**19. oktober 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **[Påmelding](https://nettskjema.no/a/280022#/page/1)**
 
-**19. oktober 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Musikk-koding i Scratch med Mari**
+<img src="/assets/wonomuteyoung/workshops/scratch.jpg" width="50%">
 
-Koding er først og fremt kreativt og gøy, og i denne workshopen vil vi forsøke å vise hvordan man
+<details><summary><b>Koding er først og fremt kreativt og gøy, og i denne workshopen vil vi forsøke å vise hvordan man
 kan lage musikkinstrumenter og andre musikkapper og spill ved hjelp av enkel programmering i
-Scratch. // **Les mer her** // **Påmelding**
+Scratch.
+(Trykk for å lese mer)</b></summary> 
+<p>
+Programmering og koding trenger ikke bare handle om matte og uforståelige symboler. Koding er først og fremt kreativt og gøy, og i denne workshopen vil vi forsøke å vise hvordan man kan lage musikkinstrumenter og andre musikkapper og spill ved hjelp av enkel programmering i Scratch. Del det du har laget med vennene dine på sosiale medier etterpå! 
 
-https://nettskjema.no/a/280022#/page/1
+Vi ber de deltakerne som har det ta med seg laptop og headset, men vi stiller også med laptop og headset til de som trenger å låne. 
 
+</p>
+</details>
 
+**[Meld deg på her!](https://nettskjema.no/a/280022#/page/1)**
 
 
