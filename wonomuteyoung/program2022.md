@@ -34,12 +34,13 @@ LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å s
 Tilgjengelige plasser: 10.
 </p>
 </details>
-**Påmelding**
+
+**[Påmelding](https://nettskjema.no/a/264035#/page/1)**
 
 
 **21. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Vi prøver trommemaskiner med Ane**
 
-I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner.. // **Les mer her** // **Påmelding**
+I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner.. // **Les mer her** // **[Påmelding](https://nettskjema.no/a/264035#/page/1)**
 
 **28. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Lag et DiY musikkinstrument med Mari**
 
