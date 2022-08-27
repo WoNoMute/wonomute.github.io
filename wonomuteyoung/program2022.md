@@ -40,7 +40,7 @@ Tilgjengelige plasser: 10.
 
 **21. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Vi prøver trommemaskiner med Ane**
 
-I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner.. // **Les mer her** // **[Påmelding](https://nettskjema.no/a/264035#/page/1)**
+I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner.. // **Les mer her** // **[Påmelding](https://nettskjema.no/a/280019#/page/1)**
 
 **28. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Lag et DiY musikkinstrument med Mari**
 
