@@ -8,11 +8,12 @@ Er du jente, mellom 12-18 år og har lyst til å lære mer om musikk
 og teknologi? For eksempel vokalteknikk i studio, musikk-koding,
 eller å lage egne musikkinstrumenter? Les isåfall videre!
 
-WoNoMute Young er en organisasjon som tilbyr gratis kurs i
-musikkteknologi for unge jenter og ikke-binære på Startblokka
-på Linderud. Vi har i alt 10 kurs denne høsten, og du kan melde
-deg på ett eller flere. Du kan være helt nybegynner eller bare nysgjerrig!
-Under finner du høstens program og linker til påmelding.
+WoNoMute Young er en ny organisasjon som springer ut av organisasjonen WoNoMute, som ønsker å lage et spennende, gratis fritidstilbud for unge jenter og ikke-binære i Groruddalen. Vi holder til på Startblokka på Linderud, og hver onsdag fremover vil vi tilby kurs i forskjellige temaer innen musikkteknologi. Kursene handler om alt fra musikkproduksjon, vokalteknikk i studio, til lydprogrammering og elektronikk. Dette er et lavterskeltilbud som ikke krever noen bakgrunnskunnskaper. Vi jobber målrettet for at jenter skal oppdage de kreative mulighetene som finnes i teknologi, og at fremtidens musikkindustri skal være mer kjønnsbalansert. Vi ser at i dag er det nesten bare gutter som velger teknologiutdannelse i Norge, og at det ikke trenger å være sånn hvis man sammenligner seg med andre land. Vi ser også at det å bare være jenter til stede i læresituasjon, kan være styrkende og motiverende for våre deltakere. I våre workshoper ønsker vi også ikke-binære velkommen.
+
+Det er mulig å melde seg på én workshop eller flere. Dersom workshopen fylles opp lager vi en venteliste. Men vi ber om at avbestilling skjer helst ikke mer enn 24 timer før workshopen, sånn at vi kan slippe inn de som er på ventelisten. Avbestilling kan du gjøre ved å kontakte oss på wonomuteyoung@gmail.com Det er begrensede antall plasser, så vær raskt ute hvis du vil være sikret plass.
+
+Under finner du høstens program og lenker til påmelding.
+
 
 
 **14. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **LittleBits-verksted med Mari - en musikalsk form for lego**
