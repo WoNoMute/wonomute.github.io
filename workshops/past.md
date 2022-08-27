@@ -4,9 +4,43 @@ title: Past
 permalink: /workshops/past/
 ---
 
-WoNoMute Oslo is arranging free workshops for women/girls/non-binary people at UiO and other venues.
 
-## Spring 2020 Workshop Program:
+<div class="post-content-blog">
+ 
+<ul class="post-list">
+
+
+  {%- for post in site.workshops -%}
+  {% if post.category == "past" %}
+  <li>
+  <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <span class="post-meta">{{ post.date | date: date_format }}</span>
+    <!-- <span class="post-meta">• <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">"{{ post.url | relative_url }}"</a></span>    -->
+    <h3>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
+    <h4><em>Workshop</em></h4>
+    <p class="excerpt-text">
+    {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+    {%- endif -%}
+    <strong><a href="{{ post.url | relative_url }}">
+      »Read more
+    </a></strong>
+  </p>
+  
+  </li>
+  {% endif %}
+  {%- endfor -%}
+</ul>
+
+</div>
+
+
+## Spring 2020
 
 ### WoNoMute Oslo @ Popsenteret, Februar
  
