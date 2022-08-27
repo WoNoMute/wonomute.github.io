@@ -38,7 +38,7 @@ Tilgjengelige plasser: 10.
 **[Påmelding](https://nettskjema.no/a/264035#/page/1)**
 
 
-**21. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Vi prøver trommemaskiner med Ane**
+**21. september 2022** // **18:30-20:30** // **Startblokka, Konferanserommet, Oslo** // **Vi prøver trommemaskiner med Ane**
 
 I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner.. 
 
@@ -61,7 +61,15 @@ kreativt gjenbrukssenter på Startblokka. // **Les mer her** // **[Påmelding](h
 **12. oktober 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Basis live-lyd med Ane**
 
 Har du lyst til å få til å skru lyd på bandøvingen din? Eller for deg selv? Eller lære om scenelyd?
-I denne workshopen får du basiskunnskapene du trenger, samt andre tips og triks. // **Les mer her** // **Påmelding**
+I denne workshopen får du basiskunnskapene du trenger, samt andre tips og triks. 
+
+
+<details><summary><b>Les mer her</b></summary> 
+<script type="text/javascript" src="https://nettskjema.no/static/js/external-embedding.js"></script><iframe class="nettskjema-iframe" src="https://nettskjema.no/a/280021?embed=1" title="Basis live lyd med Ane" frameborder="0" width="100%">Hvis du kan lese dette, støtter ikke nettleseren din iframes.</iframe>
+</details>
+
+
+
 
 **19. oktober 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Musikk-koding i Scratch med Mari**
 
