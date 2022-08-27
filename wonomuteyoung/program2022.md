@@ -10,7 +10,7 @@ eller å lage egne musikkinstrumenter? Les isåfall videre!
 
 WoNoMute Young er en ny organisasjon som springer ut av organisasjonen WoNoMute, som ønsker å lage et spennende, gratis fritidstilbud for unge jenter og ikke-binære i Groruddalen. Vi holder til på Startblokka på Linderud, og hver onsdag fremover vil vi tilby kurs i forskjellige temaer innen musikkteknologi. Kursene handler om alt fra musikkproduksjon, vokalteknikk i studio, til lydprogrammering og elektronikk. Dette er et lavterskeltilbud som ikke krever noen bakgrunnskunnskaper. Vi jobber målrettet for at jenter skal oppdage de kreative mulighetene som finnes i teknologi, og at fremtidens musikkindustri skal være mer kjønnsbalansert. Vi ser at i dag er det nesten bare gutter som velger teknologiutdannelse i Norge, og at det ikke trenger å være sånn hvis man sammenligner seg med andre land. Vi ser også at det å bare være jenter til stede i læresituasjon, kan være styrkende og motiverende for våre deltakere. I våre workshoper ønsker vi også ikke-binære velkommen.
 
-Det er mulig å melde seg på én workshop eller flere. Dersom workshopen fylles opp lager vi en venteliste. Men vi ber om at avbestilling skjer helst ikke mer enn 24 timer før workshopen, sånn at vi kan slippe inn de som er på ventelisten. Avbestilling kan du gjøre ved å kontakte oss på wonomuteyoung@gmail.com Det er begrensede antall plasser, så vær raskt ute hvis du vil være sikret plass.
+Det er mulig å melde seg på én workshop eller flere. Dersom workshopen fylles opp lager vi en venteliste. Men vi ber om at avbestilling skjer helst ikke mer enn 24 timer før workshopen, sånn at vi kan slippe inn de som er på ventelisten. Avbestilling kan du gjøre ved å kontakte oss på [wonomuteyoung@gmail.com](wonomuteyoung@gmail.com). Det er begrensede antall plasser, så vær raskt ute hvis du vil være sikret plass.
 
 Under finner du høstens program og lenker til påmelding.
 
@@ -22,20 +22,19 @@ Under finner du høstens program og lenker til påmelding.
 LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og
 musikk. 
 
-<details><summary>Les mer her</summary> // **Påmelding**
+<details><summary><bold>Les mer her</bold></summary> 
 <p>
 
-<img src="/assets/wonomuteyoung/workshops/littlebits.jpg" size="30%">
+<img src="/assets/wonomuteyoung/workshops/littlebits.jpg" size="10%">
 
 Workshopen er et utforskende og hyggelig kurs som ikke krever noen forkunnskaper. LittleBits er et byggesett for å lage en synth. Workshopen er for jenter og ikke-binære i alderen 12-18 år og passer for alle som er nysgjerrige og har en utforskende spire i magen. 
 <br>
 LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og musikk. Konseptet er utviklet av Korg og gjør det lett for hvem som helst å bygge små synther. Samtidig lærer man litt om hvordan synther er bygd opp. Vi gir en kort introduksjon til hvordan littleBits fungerer, deretter får dere prøve selv! Til slutt har vi en improvisert jam-session der alle får spille med de selvlagde instrumentene sine. Ingen forkunnskaper er nødvendig til denne workshopen.
 <br>
 Tilgjengelige plasser: 10.
-
-
 </p>
-</details> 
+</details>
+**Påmelding**
 
 
 **21. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Vi prøver trommemaskiner med Ane**
