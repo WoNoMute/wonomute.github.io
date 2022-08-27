@@ -1,9 +1,8 @@
 ---
 layout: page
-title: WoNoMute Young - Program 2022
+title: WoNoMute Young - Program Høsten 2022
 permalink: /wonomuteyoung/program2022
 ---
-# Høstens Program! 
 
 Er du jente, mellom 12-18 år og har lyst til å lære mer om musikk
 og teknologi? For eksempel vokalteknikk i studio, musikk-koding,
@@ -39,7 +38,7 @@ LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å s
 **21. september 2022** // **18:30-20:30** // **Startblokka, Konferanserommet, Oslo** // **[Påmelding](https://nettskjema.no/a/280019#/page/1)**
 
 
-<img src="/assets/wonomuteyoung/workshops/ane.jpg" width="50%">
+<img src="/assets/wonomuteyoung/workshops/korg.jpg" width="50%">
 
 
 <details><summary><b>I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner ... (trykk for å lese mer) </b></summary> 
@@ -71,18 +70,26 @@ Dersom du vil vite mer om hva vi kommer til å gjøre på denne workhshopen kan 
 **[Meld deg på her!](https://nettskjema.no/a/280020#/page/1)**
 
 
+### Høstferie :)
 
-**Høstferie :)**
+### 12. oktober: Basis live-lyd med Ane
 
-**12. oktober 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Basis live-lyd med Ane**
+**12. oktober 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **[Påmelding](https://nettskjema.no/a/280021#/page/1)**
 
-Har du lyst til å få til å skru lyd på bandøvingen din? Eller for deg selv? Eller lære om scenelyd?
-I denne workshopen får du basiskunnskapene du trenger, samt andre tips og triks. 
+<img src="/assets/wonomuteyoung/workshops/ane.jpg" width="50%">
 
-
-<details><summary><b>Les mer her</b></summary> 
-<script type="text/javascript" src="https://nettskjema.no/static/js/external-embedding.js"></script><iframe class="nettskjema-iframe" src="https://nettskjema.no/a/280021?embed=1" title="Basis live lyd med Ane" frameborder="0" width="100%">Hvis du kan lese dette, støtter ikke nettleseren din iframes.</iframe>
+<details><summary><b>Har du lyst til å få til å skru lyd på bandøvingen din? Eller for deg selv? Eller lære om scenelyd?
+(Trykk for å lese mer)</b></summary> 
+<p>
+I denne workshopen får du basiskunnskapene du trenger, samt andre tips og triks. Å kunne litt om live lyd er alfa omega når du spiller musikk og gjør at du får til å høres ut som du har lyst til.
+ 
+I workshopen lærer du om PA-anlegg, som består av høyttalere og mikser, både hvordan du setter det opp, kobler til mikrofoner og skur lyd på disse via de ulike knappene på mikseren. I tillegg lærer du om live lyd og om typiske problem man kan møte på i konsertsammenheng.
+Vi skal prøve det ut i praksis, slik at det setter seg litt i fingrene.
+</p>
 </details>
+
+**[Meld deg på her!](https://nettskjema.no/a/280021#/page/1)**
+
 
 
 
