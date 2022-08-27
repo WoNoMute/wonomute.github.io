@@ -19,7 +19,17 @@ Under finner du høstens program og linker til påmelding.
 
 
 LittleBits er små elektroniske byggeklosser som settes sammen i kjeder for å skape lyd og
-musikk. // **Les mer her** // **Påmelding**
+musikk. 
+
+<details><summary>Klikk for å lese mer</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+
+
+</p>
+</details>// **Les mer her** // **Påmelding**
 
 **21. september 2022** // **18:30-20:30** // **Startblokka, bygg 4, Oslo** // **Vi prøver trommemaskiner med Ane**
 
