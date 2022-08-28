@@ -8,7 +8,7 @@ permalink: /wonomuteyoung/program2022/
 
 <ul class="post-list">
   {%- for post in site.wonomuteyoung -%}
-    <!-- {% if post.category == "forthcoming" %} -->
+  {% if post.category == "forthcoming" %}
   {% if date < now %}
   <li>
   <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
