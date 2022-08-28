@@ -7,7 +7,7 @@ permalink: /workshops/past/
 <div class="post-content-blog">
 
 <ul class="post-list">
-  {%- for post in site.workshops -%}
+  {%- for post in site.workshops reversed-%}
   {% if post.date < site.time %}
   <li>
   <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
@@ -36,7 +36,7 @@ permalink: /workshops/past/
 
 </div>
 
-## Spring 2020
+## 2020
 
 ### WoNoMute Oslo @ Popsenteret, Februar
  
@@ -110,7 +110,7 @@ All workshops are free and open for girls, women and non-binary people from 18 y
 
 
 
-## Past workshops:
+## 2019
 
 * [WoNoMute Oslo: littleBits Workshop](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2019/littlebits/) by [Tejaswinee Kelkar](/directory-of-wonomute/tejaswinee-kelkar/) (26.8.19)
 * [WoNoMute Oslo: Max and Max for Live workshop](https://www.hf.uio.no/imv/english/research/news-and-events/events/other/wonomute/workshops/2019/max/) (23.9.19)
