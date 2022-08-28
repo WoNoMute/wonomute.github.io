@@ -9,6 +9,5 @@ excerpt: "Velkommen til workshop i LittleBits! Workshopen er et utforskende og h
 comments: true
 ---
 
-## Littlebits
+## Workshop i Littlebits
 
-<script type="text/javascript" src="https://nettskjema.no/static/js/external-embedding.js"></script><iframe class="nettskjema-iframe" src="https://nettskjema.no/a/264035?embed=1" title="Workshop i LittleBits" frameborder="0" width="100%">Hvis du kan lese dette, støtter ikke nettleseren din iframes.</iframe>
