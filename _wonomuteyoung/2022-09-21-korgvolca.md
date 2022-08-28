@@ -2,7 +2,7 @@
 layout: post
 title:  "Vi prøver trommemaskiner"
 permalink: /wonomuteyoung/korgvolca/
-date:   2021-09-14 18:30:00 +0200
+date:   2022-09-21 18:30:00 +0200
 image: /assets/wonomuteyoung/workshops/korg.jpg
 category: forthcoming
 excerpt: "I denne workshopen blir vi kjent med grunnleggende programmering av enkle, analoge trommemaskiner. De kan du bruke om du skriver musikk, vil spille med rytmer når du spiller/synger/rapper eller hvis du bare vil lage kule rytmer."
