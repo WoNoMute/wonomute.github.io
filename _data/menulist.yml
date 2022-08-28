@@ -2,8 +2,10 @@ toc:
   - title: WoNoMute Young
     url: /wonomuteyoung/
     subfolderitems:
-      - page: Program høsten 2022
+      - page: Workshoper
         url: /wonomuteyoung/program2022
+      - page: Om oss
+        url: /wonomuteyoung/om_oss
   - title: Seminars
     url: /seminars
     subfolderitems:
