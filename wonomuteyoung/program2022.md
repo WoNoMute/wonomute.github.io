@@ -8,7 +8,8 @@ permalink: /wonomuteyoung/program2022/
 
 <ul class="post-list">
   {%- for post in site.wonomuteyoung -%}
-  {% if post.category == "forthcoming" %}
+    <!-- {% if post.category == "forthcoming" %} -->
+  {% if date < now %}
   <li>
   <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -25,7 +26,7 @@ permalink: /wonomuteyoung/program2022/
       {{ post.excerpt }}
     {%- endif -%}
     <strong><a href="{{ post.url | relative_url }}">
-      »Read more
+      »Les mer
     </a></strong>
   </p>
   
