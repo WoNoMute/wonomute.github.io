@@ -56,6 +56,7 @@ collections:
     output: true 
   wonomuteyoung:
     output: true 
+    future: true
   authors:   
     output: true
 
