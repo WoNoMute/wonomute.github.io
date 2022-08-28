@@ -14,8 +14,9 @@ layout: default
 {% assign posts = site.posts   %}	 
 {% assign interviews = site.interviews   %}
 {% assign workshops = site.workshops   %}
+{% assign wonomuteyoung = site.wonomuteyoung   %}
 {% assign seminars = site.seminars   %}
-{% assign featured = posts | concat: interviews | concat: workshops | concat: seminars | sort: 'date' | reverse  %}	 
+{% assign featured = posts | concat: interviews | concat: workshops | concat: wonomuteyoung |concat: seminars | sort: 'date' | reverse  %}	 
 {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
 
 {% for item in featured | limit: 10  %}
