@@ -7,7 +7,7 @@ permalink: /wonomuteyoung/tidligere/
 <div class="post-content-blog">
 
 <ul class="post-list">
-  {%- for post in site.wonomuteyoung -%}
+  {%- for post in site.wonomuteyoung reversed-%}
   {% if post.date < site.time %}
   <li>
   <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
