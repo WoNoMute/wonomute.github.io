@@ -1,6 +1,9 @@
 toc:
   - title: WoNoMute Young
     url: /wonomuteyoung/
+    subfolderitems:
+      - page: Program høsten 2022
+        url: /wonomuteyoung/program2022
   - title: Seminars
     url: /seminars
     subfolderitems:
