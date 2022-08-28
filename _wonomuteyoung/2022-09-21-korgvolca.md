@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Vi prøver trommemaskiner"
+title:  "Vi prøver trommemaskiner"
 permalink: /wonomuteyoung/korgvolca/
 date:   2021-09-14 18:30:00 +0200
 image: /assets/wonomuteyoung/workshops/korg.jpg

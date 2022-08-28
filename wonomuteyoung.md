@@ -7,7 +7,7 @@ permalink: /wonomuteyoung/
 <div class="post-content-blog">
 
 <ul class="post-list">
-  {%- for post in site.wonomuteyoung reversed-%}
+  {%- for post in site.wonomuteyoung -%}
   {% if post.category == "forthcoming" %}
   <li>
   <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
