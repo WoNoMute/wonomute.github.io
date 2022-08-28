@@ -54,6 +54,8 @@ collections:
     output: true
   workshops:
     output: true 
+  wonomuteyoung:
+    output: true 
   authors:   
     output: true
 
