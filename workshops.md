@@ -7,7 +7,7 @@ permalink: /workshops/
 <div class="post-content-blog">
 
 <ul class="post-list">
-  {%- for post in site.workshops reversed-%}
+  {%- for post in site.workshops site.wonomuteyoung reversed-%}
   {% if post.category == "forthcoming" %}
   <li>
   <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
