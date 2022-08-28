@@ -25,7 +25,7 @@ permalink: /wonomuteyoung/
       {{ post.excerpt }}
     {%- endif -%}
     <strong><a href="{{ post.url | relative_url }}">
-      »Read more
+      »Les mer
     </a></strong>
   </p>
   

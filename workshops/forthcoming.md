@@ -9,6 +9,7 @@ permalink: /workshops/forthcoming/
 <ul class="post-list">
   {%- for post in site.workshops -%}
   {% if post.category == "forthcoming" %}
+  {% if post.date >= site.time %}
   <li>
   <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -30,6 +31,7 @@ permalink: /workshops/forthcoming/
   </p>
   
   </li>
+  {% endif %}
   {% endif %}
   {%- endfor -%}
 </ul>
