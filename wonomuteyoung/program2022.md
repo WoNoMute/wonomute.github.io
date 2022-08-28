@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program 2022
+title: WoNoMute Young Program 2022
 permalink: /wonomuteyoung/program2022/
 ---
 
