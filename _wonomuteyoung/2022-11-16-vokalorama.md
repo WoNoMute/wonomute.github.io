@@ -8,5 +8,4 @@ category: forthcoming
 excerpt: "I denne workshopen vil vi bruke det enkle musikkprogrammet Audacity til å lage musikk med bare stemmen vår og effekter som finnes i programmet."
 comments: true
 ---
-
-<script type="text/javascript" src="https://nettskjema.no/static/js/external-embedding.js"></script><iframe class="nettskjema-iframe" src="https://nettskjema.no/a/280087?embed=1" title="Vokalorama! Med Ane" frameborder="0" width="100%">Hvis du kan lese dette, støtter ikke nettleseren din iframes.</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCzNzlfnKBnk-EbDUnvor79BsCJkR9kgnn7RzqILH_64k72w/viewform?embedded=true" width="640" height="2686" frameborder="0" marginheight="0" marginwidth="0">Laster inn …</iframe>
