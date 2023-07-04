@@ -19,15 +19,14 @@ Det er mulig å melde seg på én workshop eller flere. Dersom workshopen fylles
 
 
 
-    <center>
-        <h1 style="color: pink">Program 2023</h1>
-        <h3>Vårt workshopprogram for høsten 2023</h3>
-        <object data=
+
+<h1 style="color: pink">Program 2023</h1>
+<h3>Vårt workshopprogram for høsten 2023</h3>
+<object data=
 "/assets/wonomuteyoung/program2023liten.pdf" 
                 width="800"
-                height="500">
-        </object>
-    </center>
+                height="500"></object>
+
 
 Kontaktinfo:
 
