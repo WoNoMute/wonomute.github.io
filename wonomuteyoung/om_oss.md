@@ -3,7 +3,7 @@ layout: page
 title: WoNoMute Young
 permalink: /wonomuteyoung/om_oss
 ---
-**WoNoMute Young**
+
 
 Er du ung kvinne eller ikke-binær, mellom 15-24 år og har lyst til å lære mer om musikk og teknologi? For eksempel vokalteknikk i studio, lyddesign, eller å lage egne musikkinstrumenter? Les isåfall videre!
 
@@ -17,14 +17,12 @@ Det er mulig å melde seg på én workshop eller flere. Dersom workshopen fylles
 
 [Her](/wonomuteyoung/program) finner du høstens program og lenker til påmelding.
 
- <!-- 
-<div id="posters">
+ <!-- <div id="posters">
 {% include image.html
 max-width="100%" file="/assets/posters/wonomuteyoung2.jpg" alt="Høstprogram for WoNoMute young 2022" url="/wonomuteyoung/program2022"
 %}
 
-</div>
--->
+</div> -->
 Kontaktinfo:
 
 e-mail: [wonomuteyoung@gmail.com](wonomuteyoung@gmail.com)
