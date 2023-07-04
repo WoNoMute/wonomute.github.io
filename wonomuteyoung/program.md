@@ -1,7 +1,7 @@
 ---
 layout: page
-title: WoNoMute Young Program 2022
-permalink: /wonomuteyoung/program2022/
+title: WoNoMute Young Program 2023
+permalink: /wonomuteyoung/program/
 ---
 
 <div class="post-content-blog">
