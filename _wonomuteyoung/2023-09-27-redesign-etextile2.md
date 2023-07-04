@@ -9,4 +9,4 @@ excerpt: "Liker du redesign og gjenbruk? Er du også glad i musikk og kunne tenk
 comments: true
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfG6FVfIZiUyttw5m7Qxi1RxLU2dLrhJxE2gHReQWbD0Y7yfw/viewform?embedded=true" width="640" height="2757" frameborder="0" marginheight="0" marginwidth="0">Laster inn …</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScOCkgDlcKw3ZN1zcjmVTX8UaifizfcjZJ9K8eGBooxEVqQpg/viewform?embedded=true" width="640" height="2275" frameborder="0" marginheight="0" marginwidth="0">Laster inn …</iframe>
