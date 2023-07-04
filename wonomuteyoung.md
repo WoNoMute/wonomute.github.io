@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wonomute Young Høsten 2022
+title: Wonomute Young Høsten 2023
 permalink: /wonomuteyoung/
 ---
  
