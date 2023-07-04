@@ -17,12 +17,18 @@ Det er mulig å melde seg på én workshop eller flere. Dersom workshopen fylles
 
 [Her](/wonomuteyoung/program) finner du høstens program og lenker til påmelding.
 
- <!-- <div id="posters">
-{% include image.html
-max-width="100%" file="/assets/posters/wonomuteyoung2.jpg" alt="Høstprogram for WoNoMute young 2022" url="/wonomuteyoung/program2022"
-%}
 
-</div> -->
+
+    <center>
+        <h1 style="color: pink">Program 2023</h1>
+        <h3>Vårt workshopprogram for høsten 2023</h3>
+        <object data=
+"/assets/wonomuteyoung/program2023liten.pdf" 
+                width="800"
+                height="500">
+        </object>
+    </center>
+
 Kontaktinfo:
 
 e-mail: [wonomuteyoung@gmail.com](wonomuteyoung@gmail.com)
