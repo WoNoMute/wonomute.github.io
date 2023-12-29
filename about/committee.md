@@ -21,6 +21,7 @@ order: 1
 | Trondheim Audiovisual Streaming Team |Eigil Aandahl (NTNU, MCT) <br /> Sepehr Haghighi (NTNU, MCT) <br /> Jørgen Varpe (NTNU, MCT)<br />Shreejay Shrestha (NTNU, MCT) <br /> Ulrik Antoniussen Halmøy (NTNU, MCT)|
 | Oslo Audiovisual Team | Jarle Folkeson Steinhovden (UiO, MCT) |
 | NTNU Music Technology Study Program | [Andreas Bergsland](https://www.ntnu.no/ansatte/andreas.bergsland) (NTNU, MCT)|
+| UiO Music Technology Study Program | [Stefano Fasciani](https://www.hf.uio.no/imv/english/people/aca/tenured/stefanof/) (UiO, MCT)|
 |  Executive Administration Manager    | [Dagny Margrete Causse](https://www.ntnu.no/ansatte/dagny.causse) (NTNU)|
 | Designer & Identity     |[Robin Mientjes](http://rbmntjs.nl/) (KOSO) |
 | Music     | [Alena Clim](https://www.linkedin.com/in/alena-clim-54a588151/) (UiO, MCT) |
