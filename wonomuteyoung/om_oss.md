@@ -6,7 +6,7 @@ permalink: /wonomuteyoung/om_oss
 
 **NY NETTSIDE**
 
-WoNoMute Young har ny nettside! Besøk oss på https://wonomute-young.no/ hvor du kan melde deg på kommende workshops.
+WoNoMute Young har ny nettside! Besøk oss på [wonomute-young.no](https://wonomute-young.no/om-oss) for å melde deg på kommende workshops.
 
 **Om WoNoMute Young**
 
