@@ -32,7 +32,7 @@ e-mail: [wonomuteyoung@gmail.com](wonomuteyoung@gmail.com)
 
 telefon: 970 97 620
 
-Drop-in åpningstider: onsdager 1500-2100 med unntak av i skoleferier.
+Drop-in åpningstider: onsdager 15.00-20.00 med unntak av i skoleferier.
 
 
 Her finner du oss:
